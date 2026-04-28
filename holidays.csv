@@ -1,0 +1,909 @@
+date,holiday_name,religion,holiday_type,is_holiday,pre_post_flag,reference_festival,impact_scope
+2021-12-31,Pre-New Year's Day,Secular,pre_post_window,0,pre,New Year's Day,all_india
+2022-01-01,New Year's Day,Secular,minor_festival,1,,,all_india
+2022-01-02,Post-New Year's Day,Secular,pre_post_window,0,post,New Year's Day,all_india
+2022-01-08,Pre-Guru Gobind Singh Jayanti,Sikh,pre_post_window,0,pre,Guru Gobind Singh Jayanti,north
+2022-01-09,Guru Gobind Singh Jayanti,Sikh,minor_festival,1,,,north
+2022-01-10,Post-Guru Gobind Singh Jayanti,Sikh,pre_post_window,0,post,Guru Gobind Singh Jayanti,north
+2022-01-12,Pre-Makar Sankranti / Pongal,Hindu,pre_post_window,0,pre,Makar Sankranti / Pongal,all_india
+2022-01-13,Pre-Makar Sankranti / Pongal,Hindu,pre_post_window,0,pre,Makar Sankranti / Pongal,all_india
+2022-01-14,Makar Sankranti / Pongal,Hindu,major_festival,1,,,all_india
+2022-01-15,Post-Makar Sankranti / Pongal,Hindu,pre_post_window,0,post,Makar Sankranti / Pongal,all_india
+2022-01-16,Post-Makar Sankranti / Pongal,Hindu,pre_post_window,0,post,Makar Sankranti / Pongal,all_india
+2022-01-24,Pre-Republic Day,National,pre_post_window,0,pre,Republic Day,all_india
+2022-01-25,Pre-Republic Day,National,pre_post_window,0,pre,Republic Day,all_india
+2022-01-26,Republic Day,National,national_holiday,1,,,all_india
+2022-01-27,Post-Republic Day,National,pre_post_window,0,post,Republic Day,all_india
+2022-01-28,Post-Republic Day,National,pre_post_window,0,post,Republic Day,all_india
+2022-02-04,Pre-Vasant Panchami,Hindu,pre_post_window,0,pre,Vasant Panchami,north
+2022-02-05,Vasant Panchami,Hindu,minor_festival,1,,,north
+2022-02-06,Post-Vasant Panchami,Hindu,pre_post_window,0,post,Vasant Panchami,north
+2022-02-27,Pre-Maha Shivaratri,Hindu,pre_post_window,0,pre,Maha Shivaratri,all_india
+2022-02-28,Pre-Maha Shivaratri,Hindu,pre_post_window,0,pre,Maha Shivaratri,all_india
+2022-03-01,Maha Shivaratri,Hindu,major_festival,1,,,all_india
+2022-03-02,Post-Maha Shivaratri,Hindu,pre_post_window,0,post,Maha Shivaratri,all_india
+2022-03-03,Post-Maha Shivaratri,Hindu,pre_post_window,0,post,Maha Shivaratri,all_india
+2022-03-15,Pre-Holika Dahan,Hindu,pre_post_window,0,pre,Holika Dahan,all_india
+2022-03-16,Pre-Holi,Hindu,pre_post_window,0,pre,Holi,all_india
+2022-03-16,Pre-Holika Dahan,Hindu,pre_post_window,0,pre,Holika Dahan,all_india
+2022-03-17,Holika Dahan,Hindu,major_festival,1,,,all_india
+2022-03-18,Holi,Hindu,major_festival,1,,,all_india
+2022-03-18,Shab-e-Barat,Islam,minor_festival,1,,,all_india
+2022-03-19,Post-Holi,Hindu,pre_post_window,0,post,Holi,all_india
+2022-03-19,Post-Holika Dahan,Hindu,pre_post_window,0,post,Holika Dahan,all_india
+2022-03-19,Post-Shab-e-Barat,Islam,pre_post_window,0,post,Shab-e-Barat,all_india
+2022-03-20,Post-Holi,Hindu,pre_post_window,0,post,Holi,all_india
+2022-03-31,Pre-Ugadi / Gudi Padwa,Hindu,pre_post_window,0,pre,Ugadi / Gudi Padwa,south
+2022-04-01,Pre-Ugadi / Gudi Padwa,Hindu,pre_post_window,0,pre,Ugadi / Gudi Padwa,south
+2022-04-02,Ugadi / Gudi Padwa,Hindu,major_festival,1,,,south
+2022-04-03,Post-Ugadi / Gudi Padwa,Hindu,pre_post_window,0,post,Ugadi / Gudi Padwa,south
+2022-04-04,Post-Ugadi / Gudi Padwa,Hindu,pre_post_window,0,post,Ugadi / Gudi Padwa,south
+2022-04-08,Pre-Ram Navami,Hindu,pre_post_window,0,pre,Ram Navami,all_india
+2022-04-09,Pre-Ram Navami,Hindu,pre_post_window,0,pre,Ram Navami,all_india
+2022-04-10,Ram Navami,Hindu,major_festival,1,,,all_india
+2022-04-11,Post-Ram Navami,Hindu,pre_post_window,0,post,Ram Navami,all_india
+2022-04-12,Post-Ram Navami,Hindu,pre_post_window,0,post,Ram Navami,all_india
+2022-04-12,Pre-Tamil New Year / Vishu,Hindu,pre_post_window,0,pre,Tamil New Year / Vishu,south
+2022-04-12,Pre-Rongali Bihu,Hindu,pre_post_window,0,pre,Rongali Bihu,east
+2022-04-12,Pre-Baisakhi,Sikh,pre_post_window,0,pre,Baisakhi,north
+2022-04-12,Pre-Ambedkar Jayanti,Secular,pre_post_window,0,pre,Ambedkar Jayanti,all_india
+2022-04-13,Pre-Tamil New Year / Vishu,Hindu,pre_post_window,0,pre,Tamil New Year / Vishu,south
+2022-04-13,Pre-Rongali Bihu,Hindu,pre_post_window,0,pre,Rongali Bihu,east
+2022-04-13,Pre-Baisakhi,Sikh,pre_post_window,0,pre,Baisakhi,north
+2022-04-13,Pre-Good Friday,Christian,pre_post_window,0,pre,Good Friday,all_india
+2022-04-13,Pre-Mahavir Jayanti,Jain,pre_post_window,0,pre,Mahavir Jayanti,all_india
+2022-04-13,Pre-Ambedkar Jayanti,Secular,pre_post_window,0,pre,Ambedkar Jayanti,all_india
+2022-04-14,Ambedkar Jayanti,Secular,national_holiday,1,,,all_india
+2022-04-14,Mahavir Jayanti,Jain,minor_festival,1,,,all_india
+2022-04-14,Rongali Bihu,Hindu,major_festival,1,,,east
+2022-04-14,Baisakhi,Sikh,major_festival,1,,,north
+2022-04-14,Tamil New Year / Vishu,Hindu,major_festival,1,,,south
+2022-04-15,Good Friday,Christian,major_festival,1,,,all_india
+2022-04-16,Hanuman Jayanti,Hindu,minor_festival,1,,,all_india
+2022-04-17,Easter Sunday,Christian,minor_festival,1,,,all_india
+2022-04-18,Post-Easter Sunday,Christian,pre_post_window,0,post,Easter Sunday,all_india
+2022-04-29,Pre-Labour Day,Secular,pre_post_window,0,pre,Labour Day,all_india
+2022-04-30,Pre-Labour Day,Secular,pre_post_window,0,pre,Labour Day,all_india
+2022-05-01,Labour Day,Secular,national_holiday,1,,,all_india
+2022-05-02,Pre-Akshaya Tritiya,Hindu,pre_post_window,0,pre,Akshaya Tritiya,all_india
+2022-05-02,Pre-Eid ul Fitr,Islam,pre_post_window,0,pre,Eid ul Fitr,all_india
+2022-05-02,Post-Labour Day,Secular,pre_post_window,0,post,Labour Day,all_india
+2022-05-03,Eid ul Fitr,Islam,major_festival,1,,,all_india
+2022-05-03,Akshaya Tritiya,Hindu,minor_festival,1,,,all_india
+2022-05-04,Post-Akshaya Tritiya,Hindu,pre_post_window,0,post,Akshaya Tritiya,all_india
+2022-05-04,Post-Eid ul Fitr,Islam,pre_post_window,0,post,Eid ul Fitr,all_india
+2022-05-05,Post-Eid ul Fitr,Islam,pre_post_window,0,post,Eid ul Fitr,all_india
+2022-05-15,Pre-Buddha Purnima,Buddhist,pre_post_window,0,pre,Buddha Purnima,all_india
+2022-05-16,Buddha Purnima,Buddhist,minor_festival,1,,,all_india
+2022-05-17,Post-Buddha Purnima,Buddhist,pre_post_window,0,post,Buddha Purnima,all_india
+2022-06-30,Pre-Rath Yatra,Hindu,pre_post_window,0,pre,Rath Yatra,east
+2022-07-01,Rath Yatra,Hindu,minor_festival,1,,,east
+2022-07-02,Post-Rath Yatra,Hindu,pre_post_window,0,post,Rath Yatra,east
+2022-07-08,Pre-Eid ul Adha,Islam,pre_post_window,0,pre,Eid ul Adha,all_india
+2022-07-09,Pre-Eid ul Adha,Islam,pre_post_window,0,pre,Eid ul Adha,all_india
+2022-07-10,Eid ul Adha,Islam,major_festival,1,,,all_india
+2022-07-11,Post-Eid ul Adha,Islam,pre_post_window,0,post,Eid ul Adha,all_india
+2022-07-12,Post-Eid ul Adha,Islam,pre_post_window,0,post,Eid ul Adha,all_india
+2022-07-12,Pre-Guru Purnima,Hindu,pre_post_window,0,pre,Guru Purnima,all_india
+2022-07-13,Guru Purnima,Hindu,minor_festival,1,,,all_india
+2022-07-14,Post-Guru Purnima,Hindu,pre_post_window,0,post,Guru Purnima,all_india
+2022-08-07,Pre-Muharram,Islam,pre_post_window,0,pre,Muharram,all_india
+2022-08-08,Muharram,Islam,minor_festival,1,,,all_india
+2022-08-09,Post-Muharram,Islam,pre_post_window,0,post,Muharram,all_india
+2022-08-13,Pre-Independence Day,National,pre_post_window,0,pre,Independence Day,all_india
+2022-08-14,Pre-Independence Day,National,pre_post_window,0,pre,Independence Day,all_india
+2022-08-15,Independence Day,National,national_holiday,1,,,all_india
+2022-08-16,Post-Independence Day,National,pre_post_window,0,post,Independence Day,all_india
+2022-08-17,Pre-Janmashtami,Hindu,pre_post_window,0,pre,Janmashtami,all_india
+2022-08-17,Post-Independence Day,National,pre_post_window,0,post,Independence Day,all_india
+2022-08-18,Pre-Janmashtami,Hindu,pre_post_window,0,pre,Janmashtami,all_india
+2022-08-19,Janmashtami,Hindu,major_festival,1,,,all_india
+2022-08-20,Post-Janmashtami,Hindu,pre_post_window,0,post,Janmashtami,all_india
+2022-08-21,Post-Janmashtami,Hindu,pre_post_window,0,post,Janmashtami,all_india
+2022-08-27,Pre-Paryushana / Samvatsari,Jain,pre_post_window,0,pre,Paryushana / Samvatsari,all_india
+2022-08-28,Paryushana / Samvatsari,Jain,minor_festival,1,,,all_india
+2022-08-29,Pre-Ganesh Chaturthi,Hindu,pre_post_window,0,pre,Ganesh Chaturthi,west
+2022-08-29,Post-Paryushana / Samvatsari,Jain,pre_post_window,0,post,Paryushana / Samvatsari,all_india
+2022-08-30,Pre-Ganesh Chaturthi,Hindu,pre_post_window,0,pre,Ganesh Chaturthi,west
+2022-08-31,Ganesh Chaturthi,Hindu,major_festival,1,,,west
+2022-09-01,Post-Ganesh Chaturthi,Hindu,pre_post_window,0,post,Ganesh Chaturthi,west
+2022-09-02,Post-Ganesh Chaturthi,Hindu,pre_post_window,0,post,Ganesh Chaturthi,west
+2022-09-06,Pre-Onam (Thiruvonam),Hindu,pre_post_window,0,pre,Onam (Thiruvonam),south
+2022-09-07,Pre-Ganesh Visarjan,Hindu,pre_post_window,0,pre,Ganesh Visarjan,west
+2022-09-07,Pre-Onam (Thiruvonam),Hindu,pre_post_window,0,pre,Onam (Thiruvonam),south
+2022-09-08,Onam (Thiruvonam),Hindu,major_festival,1,,,south
+2022-09-09,Ganesh Visarjan,Hindu,major_festival,1,,,west
+2022-09-10,Post-Ganesh Visarjan,Hindu,pre_post_window,0,post,Ganesh Visarjan,west
+2022-09-10,Post-Onam (Thiruvonam),Hindu,pre_post_window,0,post,Onam (Thiruvonam),south
+2022-09-11,Post-Ganesh Visarjan,Hindu,pre_post_window,0,post,Ganesh Visarjan,west
+2022-09-23,Pre-Mahalaya / Durga Puja Start,Hindu,pre_post_window,0,pre,Mahalaya / Durga Puja Start,east
+2022-09-24,Pre-Navratri Start,Hindu,pre_post_window,0,pre,Navratri Start,all_india
+2022-09-24,Pre-Mahalaya / Durga Puja Start,Hindu,pre_post_window,0,pre,Mahalaya / Durga Puja Start,east
+2022-09-25,Mahalaya / Durga Puja Start,Hindu,major_festival,1,,,east
+2022-09-26,Navratri Start,Hindu,major_festival,1,,,all_india
+2022-09-27,Post-Navratri Start,Hindu,pre_post_window,0,post,Navratri Start,all_india
+2022-09-27,Post-Mahalaya / Durga Puja Start,Hindu,pre_post_window,0,post,Mahalaya / Durga Puja Start,east
+2022-09-28,Post-Navratri Start,Hindu,pre_post_window,0,post,Navratri Start,all_india
+2022-09-30,Pre-Gandhi Jayanti,National,pre_post_window,0,pre,Gandhi Jayanti,all_india
+2022-10-01,Pre-Gandhi Jayanti,National,pre_post_window,0,pre,Gandhi Jayanti,all_india
+2022-10-02,Gandhi Jayanti,National,national_holiday,1,,,all_india
+2022-10-03,Pre-Dussehra,Hindu,pre_post_window,0,pre,Dussehra,all_india
+2022-10-03,Post-Gandhi Jayanti,National,pre_post_window,0,post,Gandhi Jayanti,all_india
+2022-10-04,Pre-Dussehra,Hindu,pre_post_window,0,pre,Dussehra,all_india
+2022-10-04,Post-Gandhi Jayanti,National,pre_post_window,0,post,Gandhi Jayanti,all_india
+2022-10-05,Dussehra,Hindu,major_festival,1,,,all_india
+2022-10-06,Post-Dussehra,Hindu,pre_post_window,0,post,Dussehra,all_india
+2022-10-07,Post-Dussehra,Hindu,pre_post_window,0,post,Dussehra,all_india
+2022-10-08,Pre-Milad-un-Nabi,Islam,pre_post_window,0,pre,Milad-un-Nabi,all_india
+2022-10-09,Milad-un-Nabi,Islam,minor_festival,1,,,all_india
+2022-10-10,Post-Milad-un-Nabi,Islam,pre_post_window,0,post,Milad-un-Nabi,all_india
+2022-10-12,Pre-Karva Chauth,Hindu,pre_post_window,0,pre,Karva Chauth,north
+2022-10-13,Karva Chauth,Hindu,minor_festival,1,,,north
+2022-10-14,Post-Karva Chauth,Hindu,pre_post_window,0,post,Karva Chauth,north
+2022-10-21,Pre-Dhanteras,Hindu,pre_post_window,0,pre,Dhanteras,all_india
+2022-10-22,Pre-Dhanteras,Hindu,pre_post_window,0,pre,Dhanteras,all_india
+2022-10-22,Pre-Choti Diwali,Hindu,pre_post_window,0,pre,Choti Diwali,all_india
+2022-10-22,Pre-Diwali,Hindu,pre_post_window,0,pre,Diwali,all_india
+2022-10-23,Dhanteras,Hindu,major_festival,1,,,all_india
+2022-10-24,Choti Diwali,Hindu,major_festival,1,,,all_india
+2022-10-24,Diwali,Hindu,major_festival,1,,,all_india
+2022-10-25,Post-Dhanteras,Hindu,pre_post_window,0,post,Dhanteras,all_india
+2022-10-25,Post-Choti Diwali,Hindu,pre_post_window,0,post,Choti Diwali,all_india
+2022-10-25,Post-Diwali,Hindu,pre_post_window,0,post,Diwali,all_india
+2022-10-25,Pre-Govardhan Puja,Hindu,pre_post_window,0,pre,Govardhan Puja,all_india
+2022-10-25,Pre-Bhai Dooj,Hindu,pre_post_window,0,pre,Bhai Dooj,all_india
+2022-10-26,Govardhan Puja,Hindu,major_festival,1,,,all_india
+2022-10-26,Bhai Dooj,Hindu,minor_festival,1,,,all_india
+2022-10-27,Pre-Chhath Puja,Hindu,pre_post_window,0,pre,Chhath Puja,multi_region
+2022-10-27,Post-Govardhan Puja,Hindu,pre_post_window,0,post,Govardhan Puja,all_india
+2022-10-27,Post-Bhai Dooj,Hindu,pre_post_window,0,post,Bhai Dooj,all_india
+2022-10-28,Chhath Puja,Hindu,major_festival,1,,,multi_region
+2022-10-29,Post-Chhath Puja,Hindu,pre_post_window,0,post,Chhath Puja,multi_region
+2022-10-30,Post-Chhath Puja,Hindu,pre_post_window,0,post,Chhath Puja,multi_region
+2022-11-06,Pre-Guru Nanak Jayanti,Sikh,pre_post_window,0,pre,Guru Nanak Jayanti,all_india
+2022-11-07,Pre-Guru Nanak Jayanti,Sikh,pre_post_window,0,pre,Guru Nanak Jayanti,all_india
+2022-11-08,Guru Nanak Jayanti,Sikh,major_festival,1,,,all_india
+2022-11-09,Post-Guru Nanak Jayanti,Sikh,pre_post_window,0,post,Guru Nanak Jayanti,all_india
+2022-11-10,Post-Guru Nanak Jayanti,Sikh,pre_post_window,0,post,Guru Nanak Jayanti,all_india
+2022-12-06,Pre-Karthigai Deepam,Hindu,pre_post_window,0,pre,Karthigai Deepam,south
+2022-12-07,Karthigai Deepam,Hindu,minor_festival,1,,,south
+2022-12-08,Post-Karthigai Deepam,Hindu,pre_post_window,0,post,Karthigai Deepam,south
+2022-12-23,Pre-Christmas Eve,Christian,pre_post_window,0,pre,Christmas Eve,all_india
+2022-12-23,Pre-Christmas,Christian,pre_post_window,0,pre,Christmas,all_india
+2022-12-24,Christmas Eve,Christian,minor_festival,1,,,all_india
+2022-12-25,Christmas,Christian,major_festival,1,,,all_india
+2022-12-26,Post-Christmas,Christian,pre_post_window,0,post,Christmas,all_india
+2022-12-27,Post-Christmas,Christian,pre_post_window,0,post,Christmas,all_india
+2022-12-30,Pre-New Year's Eve,Secular,pre_post_window,0,pre,New Year's Eve,all_india
+2022-12-31,New Year's Eve,Secular,minor_festival,1,,,all_india
+2023-01-01,New Year's Day,Secular,minor_festival,1,,,all_india
+2023-01-02,Post-New Year's Day,Secular,pre_post_window,0,post,New Year's Day,all_india
+2023-01-04,Pre-Guru Gobind Singh Jayanti,Sikh,pre_post_window,0,pre,Guru Gobind Singh Jayanti,north
+2023-01-05,Guru Gobind Singh Jayanti,Sikh,minor_festival,1,,,north
+2023-01-06,Post-Guru Gobind Singh Jayanti,Sikh,pre_post_window,0,post,Guru Gobind Singh Jayanti,north
+2023-01-12,Pre-Makar Sankranti / Pongal,Hindu,pre_post_window,0,pre,Makar Sankranti / Pongal,all_india
+2023-01-13,Pre-Makar Sankranti / Pongal,Hindu,pre_post_window,0,pre,Makar Sankranti / Pongal,all_india
+2023-01-14,Makar Sankranti / Pongal,Hindu,major_festival,1,,,all_india
+2023-01-15,Post-Makar Sankranti / Pongal,Hindu,pre_post_window,0,post,Makar Sankranti / Pongal,all_india
+2023-01-16,Post-Makar Sankranti / Pongal,Hindu,pre_post_window,0,post,Makar Sankranti / Pongal,all_india
+2023-01-24,Pre-Republic Day,National,pre_post_window,0,pre,Republic Day,all_india
+2023-01-25,Pre-Vasant Panchami,Hindu,pre_post_window,0,pre,Vasant Panchami,north
+2023-01-25,Pre-Republic Day,National,pre_post_window,0,pre,Republic Day,all_india
+2023-01-26,Republic Day,National,national_holiday,1,,,all_india
+2023-01-26,Vasant Panchami,Hindu,minor_festival,1,,,north
+2023-01-27,Post-Vasant Panchami,Hindu,pre_post_window,0,post,Vasant Panchami,north
+2023-01-27,Post-Republic Day,National,pre_post_window,0,post,Republic Day,all_india
+2023-01-28,Post-Republic Day,National,pre_post_window,0,post,Republic Day,all_india
+2023-02-16,Pre-Maha Shivaratri,Hindu,pre_post_window,0,pre,Maha Shivaratri,all_india
+2023-02-17,Pre-Maha Shivaratri,Hindu,pre_post_window,0,pre,Maha Shivaratri,all_india
+2023-02-18,Maha Shivaratri,Hindu,major_festival,1,,,all_india
+2023-02-19,Post-Maha Shivaratri,Hindu,pre_post_window,0,post,Maha Shivaratri,all_india
+2023-02-20,Post-Maha Shivaratri,Hindu,pre_post_window,0,post,Maha Shivaratri,all_india
+2023-03-05,Pre-Holika Dahan,Hindu,pre_post_window,0,pre,Holika Dahan,all_india
+2023-03-06,Pre-Holi,Hindu,pre_post_window,0,pre,Holi,all_india
+2023-03-06,Pre-Holika Dahan,Hindu,pre_post_window,0,pre,Holika Dahan,all_india
+2023-03-06,Pre-Shab-e-Barat,Islam,pre_post_window,0,pre,Shab-e-Barat,all_india
+2023-03-07,Holika Dahan,Hindu,major_festival,1,,,all_india
+2023-03-07,Shab-e-Barat,Islam,minor_festival,1,,,all_india
+2023-03-08,Holi,Hindu,major_festival,1,,,all_india
+2023-03-09,Post-Holi,Hindu,pre_post_window,0,post,Holi,all_india
+2023-03-09,Post-Holika Dahan,Hindu,pre_post_window,0,post,Holika Dahan,all_india
+2023-03-10,Post-Holi,Hindu,pre_post_window,0,post,Holi,all_india
+2023-03-20,Pre-Ugadi / Gudi Padwa,Hindu,pre_post_window,0,pre,Ugadi / Gudi Padwa,south
+2023-03-21,Pre-Ugadi / Gudi Padwa,Hindu,pre_post_window,0,pre,Ugadi / Gudi Padwa,south
+2023-03-22,Ugadi / Gudi Padwa,Hindu,major_festival,1,,,south
+2023-03-23,Post-Ugadi / Gudi Padwa,Hindu,pre_post_window,0,post,Ugadi / Gudi Padwa,south
+2023-03-24,Post-Ugadi / Gudi Padwa,Hindu,pre_post_window,0,post,Ugadi / Gudi Padwa,south
+2023-03-28,Pre-Ram Navami,Hindu,pre_post_window,0,pre,Ram Navami,all_india
+2023-03-29,Pre-Ram Navami,Hindu,pre_post_window,0,pre,Ram Navami,all_india
+2023-03-30,Ram Navami,Hindu,major_festival,1,,,all_india
+2023-03-31,Post-Ram Navami,Hindu,pre_post_window,0,post,Ram Navami,all_india
+2023-04-01,Post-Ram Navami,Hindu,pre_post_window,0,post,Ram Navami,all_india
+2023-04-03,Pre-Mahavir Jayanti,Jain,pre_post_window,0,pre,Mahavir Jayanti,all_india
+2023-04-04,Mahavir Jayanti,Jain,minor_festival,1,,,all_india
+2023-04-05,Pre-Hanuman Jayanti,Hindu,pre_post_window,0,pre,Hanuman Jayanti,all_india
+2023-04-05,Pre-Good Friday,Christian,pre_post_window,0,pre,Good Friday,all_india
+2023-04-05,Post-Mahavir Jayanti,Jain,pre_post_window,0,post,Mahavir Jayanti,all_india
+2023-04-06,Hanuman Jayanti,Hindu,minor_festival,1,,,all_india
+2023-04-07,Good Friday,Christian,major_festival,1,,,all_india
+2023-04-08,Post-Good Friday,Christian,pre_post_window,0,post,Good Friday,all_india
+2023-04-08,Pre-Easter Sunday,Christian,pre_post_window,0,pre,Easter Sunday,all_india
+2023-04-09,Easter Sunday,Christian,minor_festival,1,,,all_india
+2023-04-10,Post-Easter Sunday,Christian,pre_post_window,0,post,Easter Sunday,all_india
+2023-04-12,Pre-Tamil New Year / Vishu,Hindu,pre_post_window,0,pre,Tamil New Year / Vishu,south
+2023-04-12,Pre-Rongali Bihu,Hindu,pre_post_window,0,pre,Rongali Bihu,east
+2023-04-12,Pre-Baisakhi,Sikh,pre_post_window,0,pre,Baisakhi,north
+2023-04-12,Pre-Ambedkar Jayanti,Secular,pre_post_window,0,pre,Ambedkar Jayanti,all_india
+2023-04-13,Pre-Tamil New Year / Vishu,Hindu,pre_post_window,0,pre,Tamil New Year / Vishu,south
+2023-04-13,Pre-Rongali Bihu,Hindu,pre_post_window,0,pre,Rongali Bihu,east
+2023-04-13,Pre-Baisakhi,Sikh,pre_post_window,0,pre,Baisakhi,north
+2023-04-13,Pre-Ambedkar Jayanti,Secular,pre_post_window,0,pre,Ambedkar Jayanti,all_india
+2023-04-14,Ambedkar Jayanti,Secular,national_holiday,1,,,all_india
+2023-04-14,Baisakhi,Sikh,major_festival,1,,,north
+2023-04-14,Rongali Bihu,Hindu,major_festival,1,,,east
+2023-04-14,Tamil New Year / Vishu,Hindu,major_festival,1,,,south
+2023-04-15,Post-Tamil New Year / Vishu,Hindu,pre_post_window,0,post,Tamil New Year / Vishu,south
+2023-04-15,Post-Rongali Bihu,Hindu,pre_post_window,0,post,Rongali Bihu,east
+2023-04-15,Post-Baisakhi,Sikh,pre_post_window,0,post,Baisakhi,north
+2023-04-15,Post-Ambedkar Jayanti,Secular,pre_post_window,0,post,Ambedkar Jayanti,all_india
+2023-04-16,Post-Tamil New Year / Vishu,Hindu,pre_post_window,0,post,Tamil New Year / Vishu,south
+2023-04-16,Post-Rongali Bihu,Hindu,pre_post_window,0,post,Rongali Bihu,east
+2023-04-16,Post-Baisakhi,Sikh,pre_post_window,0,post,Baisakhi,north
+2023-04-16,Post-Ambedkar Jayanti,Secular,pre_post_window,0,post,Ambedkar Jayanti,all_india
+2023-04-20,Pre-Eid ul Fitr,Islam,pre_post_window,0,pre,Eid ul Fitr,all_india
+2023-04-21,Pre-Akshaya Tritiya,Hindu,pre_post_window,0,pre,Akshaya Tritiya,all_india
+2023-04-21,Pre-Eid ul Fitr,Islam,pre_post_window,0,pre,Eid ul Fitr,all_india
+2023-04-22,Eid ul Fitr,Islam,major_festival,1,,,all_india
+2023-04-22,Akshaya Tritiya,Hindu,minor_festival,1,,,all_india
+2023-04-23,Post-Akshaya Tritiya,Hindu,pre_post_window,0,post,Akshaya Tritiya,all_india
+2023-04-23,Post-Eid ul Fitr,Islam,pre_post_window,0,post,Eid ul Fitr,all_india
+2023-04-24,Post-Eid ul Fitr,Islam,pre_post_window,0,post,Eid ul Fitr,all_india
+2023-04-29,Pre-Labour Day,Secular,pre_post_window,0,pre,Labour Day,all_india
+2023-04-30,Pre-Labour Day,Secular,pre_post_window,0,pre,Labour Day,all_india
+2023-05-01,Labour Day,Secular,national_holiday,1,,,all_india
+2023-05-02,Post-Labour Day,Secular,pre_post_window,0,post,Labour Day,all_india
+2023-05-03,Post-Labour Day,Secular,pre_post_window,0,post,Labour Day,all_india
+2023-05-04,Pre-Buddha Purnima,Buddhist,pre_post_window,0,pre,Buddha Purnima,all_india
+2023-05-05,Buddha Purnima,Buddhist,minor_festival,1,,,all_india
+2023-05-06,Post-Buddha Purnima,Buddhist,pre_post_window,0,post,Buddha Purnima,all_india
+2023-06-19,Pre-Rath Yatra,Hindu,pre_post_window,0,pre,Rath Yatra,east
+2023-06-20,Rath Yatra,Hindu,minor_festival,1,,,east
+2023-06-21,Post-Rath Yatra,Hindu,pre_post_window,0,post,Rath Yatra,east
+2023-06-27,Pre-Eid ul Adha,Islam,pre_post_window,0,pre,Eid ul Adha,all_india
+2023-06-28,Pre-Eid ul Adha,Islam,pre_post_window,0,pre,Eid ul Adha,all_india
+2023-06-29,Eid ul Adha,Islam,major_festival,1,,,all_india
+2023-06-30,Post-Eid ul Adha,Islam,pre_post_window,0,post,Eid ul Adha,all_india
+2023-07-01,Post-Eid ul Adha,Islam,pre_post_window,0,post,Eid ul Adha,all_india
+2023-07-02,Pre-Guru Purnima,Hindu,pre_post_window,0,pre,Guru Purnima,all_india
+2023-07-03,Guru Purnima,Hindu,minor_festival,1,,,all_india
+2023-07-04,Post-Guru Purnima,Hindu,pre_post_window,0,post,Guru Purnima,all_india
+2023-07-28,Pre-Muharram,Islam,pre_post_window,0,pre,Muharram,all_india
+2023-07-29,Muharram,Islam,minor_festival,1,,,all_india
+2023-07-30,Post-Muharram,Islam,pre_post_window,0,post,Muharram,all_india
+2023-08-13,Pre-Independence Day,National,pre_post_window,0,pre,Independence Day,all_india
+2023-08-14,Pre-Independence Day,National,pre_post_window,0,pre,Independence Day,all_india
+2023-08-15,Independence Day,National,national_holiday,1,,,all_india
+2023-08-16,Post-Independence Day,National,pre_post_window,0,post,Independence Day,all_india
+2023-08-17,Post-Independence Day,National,pre_post_window,0,post,Independence Day,all_india
+2023-08-27,Pre-Onam (Thiruvonam),Hindu,pre_post_window,0,pre,Onam (Thiruvonam),south
+2023-08-28,Pre-Onam (Thiruvonam),Hindu,pre_post_window,0,pre,Onam (Thiruvonam),south
+2023-08-29,Onam (Thiruvonam),Hindu,major_festival,1,,,south
+2023-08-30,Post-Onam (Thiruvonam),Hindu,pre_post_window,0,post,Onam (Thiruvonam),south
+2023-08-31,Post-Onam (Thiruvonam),Hindu,pre_post_window,0,post,Onam (Thiruvonam),south
+2023-09-04,Pre-Janmashtami,Hindu,pre_post_window,0,pre,Janmashtami,all_india
+2023-09-05,Pre-Janmashtami,Hindu,pre_post_window,0,pre,Janmashtami,all_india
+2023-09-06,Janmashtami,Hindu,major_festival,1,,,all_india
+2023-09-07,Post-Janmashtami,Hindu,pre_post_window,0,post,Janmashtami,all_india
+2023-09-08,Post-Janmashtami,Hindu,pre_post_window,0,post,Janmashtami,all_india
+2023-09-16,Pre-Paryushana / Samvatsari,Jain,pre_post_window,0,pre,Paryushana / Samvatsari,all_india
+2023-09-17,Paryushana / Samvatsari,Jain,minor_festival,1,,,all_india
+2023-09-18,Pre-Ganesh Chaturthi,Hindu,pre_post_window,0,pre,Ganesh Chaturthi,west
+2023-09-18,Post-Paryushana / Samvatsari,Jain,pre_post_window,0,post,Paryushana / Samvatsari,all_india
+2023-09-19,Ganesh Chaturthi,Hindu,major_festival,1,,,west
+2023-09-20,Post-Ganesh Chaturthi,Hindu,pre_post_window,0,post,Ganesh Chaturthi,west
+2023-09-21,Post-Ganesh Chaturthi,Hindu,pre_post_window,0,post,Ganesh Chaturthi,west
+2023-09-26,Pre-Ganesh Visarjan,Hindu,pre_post_window,0,pre,Ganesh Visarjan,west
+2023-09-27,Pre-Ganesh Visarjan,Hindu,pre_post_window,0,pre,Ganesh Visarjan,west
+2023-09-27,Pre-Milad-un-Nabi,Islam,pre_post_window,0,pre,Milad-un-Nabi,all_india
+2023-09-28,Ganesh Visarjan,Hindu,major_festival,1,,,west
+2023-09-28,Milad-un-Nabi,Islam,minor_festival,1,,,all_india
+2023-09-29,Post-Ganesh Visarjan,Hindu,pre_post_window,0,post,Ganesh Visarjan,west
+2023-09-29,Post-Milad-un-Nabi,Islam,pre_post_window,0,post,Milad-un-Nabi,all_india
+2023-09-30,Pre-Gandhi Jayanti,National,pre_post_window,0,pre,Gandhi Jayanti,all_india
+2023-09-30,Post-Ganesh Visarjan,Hindu,pre_post_window,0,post,Ganesh Visarjan,west
+2023-10-01,Pre-Gandhi Jayanti,National,pre_post_window,0,pre,Gandhi Jayanti,all_india
+2023-10-02,Gandhi Jayanti,National,national_holiday,1,,,all_india
+2023-10-03,Post-Gandhi Jayanti,National,pre_post_window,0,post,Gandhi Jayanti,all_india
+2023-10-04,Post-Gandhi Jayanti,National,pre_post_window,0,post,Gandhi Jayanti,all_india
+2023-10-12,Pre-Mahalaya / Durga Puja Start,Hindu,pre_post_window,0,pre,Mahalaya / Durga Puja Start,east
+2023-10-13,Pre-Navratri Start,Hindu,pre_post_window,0,pre,Navratri Start,all_india
+2023-10-13,Pre-Mahalaya / Durga Puja Start,Hindu,pre_post_window,0,pre,Mahalaya / Durga Puja Start,east
+2023-10-14,Mahalaya / Durga Puja Start,Hindu,major_festival,1,,,east
+2023-10-15,Navratri Start,Hindu,major_festival,1,,,all_india
+2023-10-16,Post-Navratri Start,Hindu,pre_post_window,0,post,Navratri Start,all_india
+2023-10-16,Post-Mahalaya / Durga Puja Start,Hindu,pre_post_window,0,post,Mahalaya / Durga Puja Start,east
+2023-10-17,Post-Navratri Start,Hindu,pre_post_window,0,post,Navratri Start,all_india
+2023-10-22,Pre-Dussehra,Hindu,pre_post_window,0,pre,Dussehra,all_india
+2023-10-23,Pre-Dussehra,Hindu,pre_post_window,0,pre,Dussehra,all_india
+2023-10-24,Dussehra,Hindu,major_festival,1,,,all_india
+2023-10-25,Post-Dussehra,Hindu,pre_post_window,0,post,Dussehra,all_india
+2023-10-26,Post-Dussehra,Hindu,pre_post_window,0,post,Dussehra,all_india
+2023-10-31,Pre-Karva Chauth,Hindu,pre_post_window,0,pre,Karva Chauth,north
+2023-11-01,Karva Chauth,Hindu,minor_festival,1,,,north
+2023-11-02,Post-Karva Chauth,Hindu,pre_post_window,0,post,Karva Chauth,north
+2023-11-08,Pre-Dhanteras,Hindu,pre_post_window,0,pre,Dhanteras,all_india
+2023-11-09,Pre-Dhanteras,Hindu,pre_post_window,0,pre,Dhanteras,all_india
+2023-11-09,Pre-Choti Diwali,Hindu,pre_post_window,0,pre,Choti Diwali,all_india
+2023-11-10,Dhanteras,Hindu,major_festival,1,,,all_india
+2023-11-11,Choti Diwali,Hindu,major_festival,1,,,all_india
+2023-11-12,Diwali,Hindu,major_festival,1,,,all_india
+2023-11-13,Pre-Govardhan Puja,Hindu,pre_post_window,0,pre,Govardhan Puja,all_india
+2023-11-13,Post-Diwali,Hindu,pre_post_window,0,post,Diwali,all_india
+2023-11-13,Post-Choti Diwali,Hindu,pre_post_window,0,post,Choti Diwali,all_india
+2023-11-14,Govardhan Puja,Hindu,major_festival,1,,,all_india
+2023-11-15,Bhai Dooj,Hindu,minor_festival,1,,,all_india
+2023-11-16,Post-Govardhan Puja,Hindu,pre_post_window,0,post,Govardhan Puja,all_india
+2023-11-16,Post-Bhai Dooj,Hindu,pre_post_window,0,post,Bhai Dooj,all_india
+2023-11-16,Pre-Chhath Puja,Hindu,pre_post_window,0,pre,Chhath Puja,multi_region
+2023-11-17,Chhath Puja,Hindu,major_festival,1,,,multi_region
+2023-11-18,Post-Chhath Puja,Hindu,pre_post_window,0,post,Chhath Puja,multi_region
+2023-11-19,Post-Chhath Puja,Hindu,pre_post_window,0,post,Chhath Puja,multi_region
+2023-11-25,Pre-Guru Nanak Jayanti,Sikh,pre_post_window,0,pre,Guru Nanak Jayanti,all_india
+2023-11-26,Pre-Karthigai Deepam,Hindu,pre_post_window,0,pre,Karthigai Deepam,south
+2023-11-26,Pre-Guru Nanak Jayanti,Sikh,pre_post_window,0,pre,Guru Nanak Jayanti,all_india
+2023-11-27,Guru Nanak Jayanti,Sikh,major_festival,1,,,all_india
+2023-11-27,Karthigai Deepam,Hindu,minor_festival,1,,,south
+2023-11-28,Post-Karthigai Deepam,Hindu,pre_post_window,0,post,Karthigai Deepam,south
+2023-11-28,Post-Guru Nanak Jayanti,Sikh,pre_post_window,0,post,Guru Nanak Jayanti,all_india
+2023-11-29,Post-Guru Nanak Jayanti,Sikh,pre_post_window,0,post,Guru Nanak Jayanti,all_india
+2023-12-23,Pre-Christmas,Christian,pre_post_window,0,pre,Christmas,all_india
+2023-12-23,Pre-Christmas Eve,Christian,pre_post_window,0,pre,Christmas Eve,all_india
+2023-12-24,Christmas Eve,Christian,minor_festival,1,,,all_india
+2023-12-25,Christmas,Christian,major_festival,1,,,all_india
+2023-12-26,Post-Christmas,Christian,pre_post_window,0,post,Christmas,all_india
+2023-12-27,Post-Christmas,Christian,pre_post_window,0,post,Christmas,all_india
+2023-12-30,Pre-New Year's Eve,Secular,pre_post_window,0,pre,New Year's Eve,all_india
+2023-12-31,New Year's Eve,Secular,minor_festival,1,,,all_india
+2024-01-01,New Year's Day,Secular,minor_festival,1,,,all_india
+2024-01-02,Post-New Year's Day,Secular,pre_post_window,0,post,New Year's Day,all_india
+2024-01-13,Pre-Makar Sankranti / Pongal,Hindu,pre_post_window,0,pre,Makar Sankranti / Pongal,all_india
+2024-01-14,Pre-Makar Sankranti / Pongal,Hindu,pre_post_window,0,pre,Makar Sankranti / Pongal,all_india
+2024-01-15,Makar Sankranti / Pongal,Hindu,major_festival,1,,,all_india
+2024-01-16,Post-Makar Sankranti / Pongal,Hindu,pre_post_window,0,post,Makar Sankranti / Pongal,all_india
+2024-01-16,Pre-Guru Gobind Singh Jayanti,Sikh,pre_post_window,0,pre,Guru Gobind Singh Jayanti,north
+2024-01-17,Guru Gobind Singh Jayanti,Sikh,minor_festival,1,,,north
+2024-01-18,Post-Guru Gobind Singh Jayanti,Sikh,pre_post_window,0,post,Guru Gobind Singh Jayanti,north
+2024-01-24,Pre-Republic Day,National,pre_post_window,0,pre,Republic Day,all_india
+2024-01-25,Pre-Republic Day,National,pre_post_window,0,pre,Republic Day,all_india
+2024-01-26,Republic Day,National,national_holiday,1,,,all_india
+2024-01-27,Post-Republic Day,National,pre_post_window,0,post,Republic Day,all_india
+2024-01-28,Post-Republic Day,National,pre_post_window,0,post,Republic Day,all_india
+2024-02-13,Pre-Vasant Panchami,Hindu,pre_post_window,0,pre,Vasant Panchami,north
+2024-02-14,Vasant Panchami,Hindu,minor_festival,1,,,north
+2024-02-15,Post-Vasant Panchami,Hindu,pre_post_window,0,post,Vasant Panchami,north
+2024-02-24,Pre-Shab-e-Barat,Islam,pre_post_window,0,pre,Shab-e-Barat,all_india
+2024-02-25,Shab-e-Barat,Islam,minor_festival,1,,,all_india
+2024-02-26,Post-Shab-e-Barat,Islam,pre_post_window,0,post,Shab-e-Barat,all_india
+2024-03-06,Pre-Maha Shivaratri,Hindu,pre_post_window,0,pre,Maha Shivaratri,all_india
+2024-03-07,Pre-Maha Shivaratri,Hindu,pre_post_window,0,pre,Maha Shivaratri,all_india
+2024-03-08,Maha Shivaratri,Hindu,major_festival,1,,,all_india
+2024-03-09,Post-Maha Shivaratri,Hindu,pre_post_window,0,post,Maha Shivaratri,all_india
+2024-03-10,Post-Maha Shivaratri,Hindu,pre_post_window,0,post,Maha Shivaratri,all_india
+2024-03-22,Pre-Holika Dahan,Hindu,pre_post_window,0,pre,Holika Dahan,all_india
+2024-03-23,Pre-Holi,Hindu,pre_post_window,0,pre,Holi,all_india
+2024-03-23,Pre-Holika Dahan,Hindu,pre_post_window,0,pre,Holika Dahan,all_india
+2024-03-24,Holika Dahan,Hindu,major_festival,1,,,all_india
+2024-03-25,Holi,Hindu,major_festival,1,,,all_india
+2024-03-26,Post-Holika Dahan,Hindu,pre_post_window,0,post,Holika Dahan,all_india
+2024-03-26,Post-Holi,Hindu,pre_post_window,0,post,Holi,all_india
+2024-03-27,Post-Holi,Hindu,pre_post_window,0,post,Holi,all_india
+2024-03-27,Pre-Good Friday,Christian,pre_post_window,0,pre,Good Friday,all_india
+2024-03-28,Pre-Good Friday,Christian,pre_post_window,0,pre,Good Friday,all_india
+2024-03-29,Good Friday,Christian,major_festival,1,,,all_india
+2024-03-30,Post-Good Friday,Christian,pre_post_window,0,post,Good Friday,all_india
+2024-03-30,Pre-Easter Sunday,Christian,pre_post_window,0,pre,Easter Sunday,all_india
+2024-03-31,Easter Sunday,Christian,minor_festival,1,,,all_india
+2024-04-01,Post-Easter Sunday,Christian,pre_post_window,0,post,Easter Sunday,all_india
+2024-04-07,Pre-Ugadi / Gudi Padwa,Hindu,pre_post_window,0,pre,Ugadi / Gudi Padwa,south
+2024-04-08,Pre-Ugadi / Gudi Padwa,Hindu,pre_post_window,0,pre,Ugadi / Gudi Padwa,south
+2024-04-09,Ugadi / Gudi Padwa,Hindu,major_festival,1,,,south
+2024-04-10,Pre-Eid ul Fitr,Islam,pre_post_window,0,pre,Eid ul Fitr,all_india
+2024-04-10,Post-Ugadi / Gudi Padwa,Hindu,pre_post_window,0,post,Ugadi / Gudi Padwa,south
+2024-04-11,Eid ul Fitr,Islam,major_festival,1,,,all_india
+2024-04-12,Pre-Tamil New Year / Vishu,Hindu,pre_post_window,0,pre,Tamil New Year / Vishu,south
+2024-04-12,Pre-Rongali Bihu,Hindu,pre_post_window,0,pre,Rongali Bihu,east
+2024-04-12,Post-Eid ul Fitr,Islam,pre_post_window,0,post,Eid ul Fitr,all_india
+2024-04-12,Pre-Baisakhi,Sikh,pre_post_window,0,pre,Baisakhi,north
+2024-04-12,Pre-Ambedkar Jayanti,Secular,pre_post_window,0,pre,Ambedkar Jayanti,all_india
+2024-04-13,Baisakhi,Sikh,major_festival,1,,,north
+2024-04-14,Tamil New Year / Vishu,Hindu,major_festival,1,,,south
+2024-04-14,Rongali Bihu,Hindu,major_festival,1,,,east
+2024-04-14,Ambedkar Jayanti,Secular,national_holiday,1,,,all_india
+2024-04-15,Post-Ambedkar Jayanti,Secular,pre_post_window,0,post,Ambedkar Jayanti,all_india
+2024-04-15,Post-Rongali Bihu,Hindu,pre_post_window,0,post,Rongali Bihu,east
+2024-04-15,Post-Baisakhi,Sikh,pre_post_window,0,post,Baisakhi,north
+2024-04-15,Pre-Ram Navami,Hindu,pre_post_window,0,pre,Ram Navami,all_india
+2024-04-15,Post-Tamil New Year / Vishu,Hindu,pre_post_window,0,post,Tamil New Year / Vishu,south
+2024-04-16,Pre-Ram Navami,Hindu,pre_post_window,0,pre,Ram Navami,all_india
+2024-04-16,Post-Tamil New Year / Vishu,Hindu,pre_post_window,0,post,Tamil New Year / Vishu,south
+2024-04-16,Post-Rongali Bihu,Hindu,pre_post_window,0,post,Rongali Bihu,east
+2024-04-16,Post-Ambedkar Jayanti,Secular,pre_post_window,0,post,Ambedkar Jayanti,all_india
+2024-04-17,Ram Navami,Hindu,major_festival,1,,,all_india
+2024-04-18,Post-Ram Navami,Hindu,pre_post_window,0,post,Ram Navami,all_india
+2024-04-19,Post-Ram Navami,Hindu,pre_post_window,0,post,Ram Navami,all_india
+2024-04-20,Pre-Mahavir Jayanti,Jain,pre_post_window,0,pre,Mahavir Jayanti,all_india
+2024-04-21,Mahavir Jayanti,Jain,minor_festival,1,,,all_india
+2024-04-22,Post-Mahavir Jayanti,Jain,pre_post_window,0,post,Mahavir Jayanti,all_india
+2024-04-22,Pre-Hanuman Jayanti,Hindu,pre_post_window,0,pre,Hanuman Jayanti,all_india
+2024-04-23,Hanuman Jayanti,Hindu,minor_festival,1,,,all_india
+2024-04-24,Post-Hanuman Jayanti,Hindu,pre_post_window,0,post,Hanuman Jayanti,all_india
+2024-04-29,Pre-Labour Day,Secular,pre_post_window,0,pre,Labour Day,all_india
+2024-04-30,Pre-Labour Day,Secular,pre_post_window,0,pre,Labour Day,all_india
+2024-05-01,Labour Day,Secular,national_holiday,1,,,all_india
+2024-05-02,Post-Labour Day,Secular,pre_post_window,0,post,Labour Day,all_india
+2024-05-03,Post-Labour Day,Secular,pre_post_window,0,post,Labour Day,all_india
+2024-05-09,Pre-Akshaya Tritiya,Hindu,pre_post_window,0,pre,Akshaya Tritiya,all_india
+2024-05-10,Akshaya Tritiya,Hindu,minor_festival,1,,,all_india
+2024-05-11,Post-Akshaya Tritiya,Hindu,pre_post_window,0,post,Akshaya Tritiya,all_india
+2024-05-22,Pre-Buddha Purnima,Buddhist,pre_post_window,0,pre,Buddha Purnima,all_india
+2024-05-23,Buddha Purnima,Buddhist,minor_festival,1,,,all_india
+2024-05-24,Post-Buddha Purnima,Buddhist,pre_post_window,0,post,Buddha Purnima,all_india
+2024-06-15,Pre-Eid ul Adha,Islam,pre_post_window,0,pre,Eid ul Adha,all_india
+2024-06-16,Pre-Eid ul Adha,Islam,pre_post_window,0,pre,Eid ul Adha,all_india
+2024-06-17,Eid ul Adha,Islam,major_festival,1,,,all_india
+2024-06-18,Post-Eid ul Adha,Islam,pre_post_window,0,post,Eid ul Adha,all_india
+2024-06-19,Post-Eid ul Adha,Islam,pre_post_window,0,post,Eid ul Adha,all_india
+2024-07-06,Pre-Rath Yatra,Hindu,pre_post_window,0,pre,Rath Yatra,east
+2024-07-07,Rath Yatra,Hindu,minor_festival,1,,,east
+2024-07-08,Post-Rath Yatra,Hindu,pre_post_window,0,post,Rath Yatra,east
+2024-07-16,Pre-Muharram,Islam,pre_post_window,0,pre,Muharram,all_india
+2024-07-17,Muharram,Islam,minor_festival,1,,,all_india
+2024-07-18,Post-Muharram,Islam,pre_post_window,0,post,Muharram,all_india
+2024-07-20,Pre-Guru Purnima,Hindu,pre_post_window,0,pre,Guru Purnima,all_india
+2024-07-21,Guru Purnima,Hindu,minor_festival,1,,,all_india
+2024-07-22,Post-Guru Purnima,Hindu,pre_post_window,0,post,Guru Purnima,all_india
+2024-08-13,Pre-Independence Day,National,pre_post_window,0,pre,Independence Day,all_india
+2024-08-14,Pre-Independence Day,National,pre_post_window,0,pre,Independence Day,all_india
+2024-08-15,Independence Day,National,national_holiday,1,,,all_india
+2024-08-16,Post-Independence Day,National,pre_post_window,0,post,Independence Day,all_india
+2024-08-17,Post-Independence Day,National,pre_post_window,0,post,Independence Day,all_india
+2024-08-24,Pre-Janmashtami,Hindu,pre_post_window,0,pre,Janmashtami,all_india
+2024-08-25,Pre-Janmashtami,Hindu,pre_post_window,0,pre,Janmashtami,all_india
+2024-08-26,Janmashtami,Hindu,major_festival,1,,,all_india
+2024-08-27,Post-Janmashtami,Hindu,pre_post_window,0,post,Janmashtami,all_india
+2024-08-28,Post-Janmashtami,Hindu,pre_post_window,0,post,Janmashtami,all_india
+2024-09-03,Pre-Onam (Thiruvonam),Hindu,pre_post_window,0,pre,Onam (Thiruvonam),south
+2024-09-04,Pre-Onam (Thiruvonam),Hindu,pre_post_window,0,pre,Onam (Thiruvonam),south
+2024-09-05,Onam (Thiruvonam),Hindu,major_festival,1,,,south
+2024-09-06,Paryushana / Samvatsari,Jain,minor_festival,1,,,all_india
+2024-09-07,Ganesh Chaturthi,Hindu,major_festival,1,,,west
+2024-09-08,Post-Ganesh Chaturthi,Hindu,pre_post_window,0,post,Ganesh Chaturthi,west
+2024-09-09,Post-Ganesh Chaturthi,Hindu,pre_post_window,0,post,Ganesh Chaturthi,west
+2024-09-15,Pre-Milad-un-Nabi,Islam,pre_post_window,0,pre,Milad-un-Nabi,all_india
+2024-09-15,Pre-Ganesh Visarjan,Hindu,pre_post_window,0,pre,Ganesh Visarjan,west
+2024-09-16,Milad-un-Nabi,Islam,minor_festival,1,,,all_india
+2024-09-17,Ganesh Visarjan,Hindu,major_festival,1,,,west
+2024-09-18,Post-Ganesh Visarjan,Hindu,pre_post_window,0,post,Ganesh Visarjan,west
+2024-09-19,Post-Ganesh Visarjan,Hindu,pre_post_window,0,post,Ganesh Visarjan,west
+2024-09-30,Pre-Mahalaya / Durga Puja Start,Hindu,pre_post_window,0,pre,Mahalaya / Durga Puja Start,east
+2024-09-30,Pre-Gandhi Jayanti,National,pre_post_window,0,pre,Gandhi Jayanti,all_india
+2024-10-01,Pre-Navratri Start,Hindu,pre_post_window,0,pre,Navratri Start,all_india
+2024-10-01,Pre-Mahalaya / Durga Puja Start,Hindu,pre_post_window,0,pre,Mahalaya / Durga Puja Start,east
+2024-10-01,Pre-Gandhi Jayanti,National,pre_post_window,0,pre,Gandhi Jayanti,all_india
+2024-10-02,Gandhi Jayanti,National,national_holiday,1,,,all_india
+2024-10-02,Mahalaya / Durga Puja Start,Hindu,major_festival,1,,,east
+2024-10-03,Navratri Start,Hindu,major_festival,1,,,all_india
+2024-10-04,Post-Mahalaya / Durga Puja Start,Hindu,pre_post_window,0,post,Mahalaya / Durga Puja Start,east
+2024-10-04,Post-Gandhi Jayanti,National,pre_post_window,0,post,Gandhi Jayanti,all_india
+2024-10-04,Post-Navratri Start,Hindu,pre_post_window,0,post,Navratri Start,all_india
+2024-10-05,Post-Navratri Start,Hindu,pre_post_window,0,post,Navratri Start,all_india
+2024-10-10,Pre-Dussehra,Hindu,pre_post_window,0,pre,Dussehra,all_india
+2024-10-11,Pre-Dussehra,Hindu,pre_post_window,0,pre,Dussehra,all_india
+2024-10-12,Dussehra,Hindu,major_festival,1,,,all_india
+2024-10-13,Post-Dussehra,Hindu,pre_post_window,0,post,Dussehra,all_india
+2024-10-14,Post-Dussehra,Hindu,pre_post_window,0,post,Dussehra,all_india
+2024-10-19,Pre-Karva Chauth,Hindu,pre_post_window,0,pre,Karva Chauth,north
+2024-10-20,Karva Chauth,Hindu,minor_festival,1,,,north
+2024-10-21,Post-Karva Chauth,Hindu,pre_post_window,0,post,Karva Chauth,north
+2024-10-27,Pre-Dhanteras,Hindu,pre_post_window,0,pre,Dhanteras,all_india
+2024-10-28,Pre-Dhanteras,Hindu,pre_post_window,0,pre,Dhanteras,all_india
+2024-10-29,Dhanteras,Hindu,major_festival,1,,,all_india
+2024-10-30,Pre-Diwali,Hindu,pre_post_window,0,pre,Diwali,all_india
+2024-10-30,Pre-Choti Diwali,Hindu,pre_post_window,0,pre,Choti Diwali,all_india
+2024-10-30,Post-Dhanteras,Hindu,pre_post_window,0,post,Dhanteras,all_india
+2024-10-31,Choti Diwali,Hindu,major_festival,1,,,all_india
+2024-11-01,Diwali,Hindu,major_festival,1,,,all_india
+2024-11-02,Govardhan Puja,Hindu,major_festival,1,,,all_india
+2024-11-03,Bhai Dooj,Hindu,minor_festival,1,,,all_india
+2024-11-04,Post-Govardhan Puja,Hindu,pre_post_window,0,post,Govardhan Puja,all_india
+2024-11-04,Post-Bhai Dooj,Hindu,pre_post_window,0,post,Bhai Dooj,all_india
+2024-11-05,Pre-Chhath Puja,Hindu,pre_post_window,0,pre,Chhath Puja,multi_region
+2024-11-06,Pre-Chhath Puja,Hindu,pre_post_window,0,pre,Chhath Puja,multi_region
+2024-11-07,Chhath Puja,Hindu,major_festival,1,,,multi_region
+2024-11-08,Post-Chhath Puja,Hindu,pre_post_window,0,post,Chhath Puja,multi_region
+2024-11-09,Post-Chhath Puja,Hindu,pre_post_window,0,post,Chhath Puja,multi_region
+2024-11-13,Pre-Guru Nanak Jayanti,Sikh,pre_post_window,0,pre,Guru Nanak Jayanti,all_india
+2024-11-14,Pre-Guru Nanak Jayanti,Sikh,pre_post_window,0,pre,Guru Nanak Jayanti,all_india
+2024-11-15,Guru Nanak Jayanti,Sikh,major_festival,1,,,all_india
+2024-11-16,Post-Guru Nanak Jayanti,Sikh,pre_post_window,0,post,Guru Nanak Jayanti,all_india
+2024-11-17,Post-Guru Nanak Jayanti,Sikh,pre_post_window,0,post,Guru Nanak Jayanti,all_india
+2024-12-14,Pre-Karthigai Deepam,Hindu,pre_post_window,0,pre,Karthigai Deepam,south
+2024-12-15,Karthigai Deepam,Hindu,minor_festival,1,,,south
+2024-12-16,Post-Karthigai Deepam,Hindu,pre_post_window,0,post,Karthigai Deepam,south
+2024-12-23,Pre-Christmas,Christian,pre_post_window,0,pre,Christmas,all_india
+2024-12-23,Pre-Christmas Eve,Christian,pre_post_window,0,pre,Christmas Eve,all_india
+2024-12-24,Christmas Eve,Christian,minor_festival,1,,,all_india
+2024-12-25,Christmas,Christian,major_festival,1,,,all_india
+2024-12-26,Post-Christmas,Christian,pre_post_window,0,post,Christmas,all_india
+2024-12-27,Post-Christmas,Christian,pre_post_window,0,post,Christmas,all_india
+2024-12-30,Pre-New Year's Eve,Secular,pre_post_window,0,pre,New Year's Eve,all_india
+2024-12-31,New Year's Eve,Secular,minor_festival,1,,,all_india
+2025-01-01,New Year's Day,Secular,minor_festival,1,,,all_india
+2025-01-02,Post-New Year's Day,Secular,pre_post_window,0,post,New Year's Day,all_india
+2025-01-05,Pre-Guru Gobind Singh Jayanti,Sikh,pre_post_window,0,pre,Guru Gobind Singh Jayanti,north
+2025-01-06,Guru Gobind Singh Jayanti,Sikh,minor_festival,1,,,north
+2025-01-07,Post-Guru Gobind Singh Jayanti,Sikh,pre_post_window,0,post,Guru Gobind Singh Jayanti,north
+2025-01-12,Pre-Makar Sankranti / Pongal,Hindu,pre_post_window,0,pre,Makar Sankranti / Pongal,all_india
+2025-01-13,Pre-Makar Sankranti / Pongal,Hindu,pre_post_window,0,pre,Makar Sankranti / Pongal,all_india
+2025-01-14,Makar Sankranti / Pongal,Hindu,major_festival,1,,,all_india
+2025-01-15,Post-Makar Sankranti / Pongal,Hindu,pre_post_window,0,post,Makar Sankranti / Pongal,all_india
+2025-01-16,Post-Makar Sankranti / Pongal,Hindu,pre_post_window,0,post,Makar Sankranti / Pongal,all_india
+2025-01-24,Pre-Republic Day,National,pre_post_window,0,pre,Republic Day,all_india
+2025-01-25,Pre-Republic Day,National,pre_post_window,0,pre,Republic Day,all_india
+2025-01-26,Republic Day,National,national_holiday,1,,,all_india
+2025-01-27,Post-Republic Day,National,pre_post_window,0,post,Republic Day,all_india
+2025-01-28,Post-Republic Day,National,pre_post_window,0,post,Republic Day,all_india
+2025-02-01,Pre-Vasant Panchami,Hindu,pre_post_window,0,pre,Vasant Panchami,north
+2025-02-02,Vasant Panchami,Hindu,minor_festival,1,,,north
+2025-02-03,Post-Vasant Panchami,Hindu,pre_post_window,0,post,Vasant Panchami,north
+2025-02-13,Pre-Shab-e-Barat,Islam,pre_post_window,0,pre,Shab-e-Barat,all_india
+2025-02-14,Shab-e-Barat,Islam,minor_festival,1,,,all_india
+2025-02-15,Post-Shab-e-Barat,Islam,pre_post_window,0,post,Shab-e-Barat,all_india
+2025-02-24,Pre-Maha Shivaratri,Hindu,pre_post_window,0,pre,Maha Shivaratri,all_india
+2025-02-25,Pre-Maha Shivaratri,Hindu,pre_post_window,0,pre,Maha Shivaratri,all_india
+2025-02-26,Maha Shivaratri,Hindu,major_festival,1,,,all_india
+2025-02-27,Post-Maha Shivaratri,Hindu,pre_post_window,0,post,Maha Shivaratri,all_india
+2025-02-28,Post-Maha Shivaratri,Hindu,pre_post_window,0,post,Maha Shivaratri,all_india
+2025-03-11,Pre-Holika Dahan,Hindu,pre_post_window,0,pre,Holika Dahan,all_india
+2025-03-12,Pre-Holika Dahan,Hindu,pre_post_window,0,pre,Holika Dahan,all_india
+2025-03-12,Pre-Holi,Hindu,pre_post_window,0,pre,Holi,all_india
+2025-03-13,Holika Dahan,Hindu,major_festival,1,,,all_india
+2025-03-14,Holi,Hindu,major_festival,1,,,all_india
+2025-03-15,Post-Holi,Hindu,pre_post_window,0,post,Holi,all_india
+2025-03-15,Post-Holika Dahan,Hindu,pre_post_window,0,post,Holika Dahan,all_india
+2025-03-16,Post-Holi,Hindu,pre_post_window,0,post,Holi,all_india
+2025-03-28,Pre-Ugadi / Gudi Padwa,Hindu,pre_post_window,0,pre,Ugadi / Gudi Padwa,south
+2025-03-29,Pre-Ugadi / Gudi Padwa,Hindu,pre_post_window,0,pre,Ugadi / Gudi Padwa,south
+2025-03-29,Pre-Eid ul Fitr,Islam,pre_post_window,0,pre,Eid ul Fitr,all_india
+2025-03-30,Ugadi / Gudi Padwa,Hindu,major_festival,1,,,south
+2025-03-31,Eid ul Fitr,Islam,major_festival,1,,,all_india
+2025-04-01,Post-Ugadi / Gudi Padwa,Hindu,pre_post_window,0,post,Ugadi / Gudi Padwa,south
+2025-04-01,Post-Eid ul Fitr,Islam,pre_post_window,0,post,Eid ul Fitr,all_india
+2025-04-02,Post-Eid ul Fitr,Islam,pre_post_window,0,post,Eid ul Fitr,all_india
+2025-04-04,Pre-Ram Navami,Hindu,pre_post_window,0,pre,Ram Navami,all_india
+2025-04-05,Pre-Ram Navami,Hindu,pre_post_window,0,pre,Ram Navami,all_india
+2025-04-06,Ram Navami,Hindu,major_festival,1,,,all_india
+2025-04-07,Post-Ram Navami,Hindu,pre_post_window,0,post,Ram Navami,all_india
+2025-04-08,Post-Ram Navami,Hindu,pre_post_window,0,post,Ram Navami,all_india
+2025-04-09,Pre-Mahavir Jayanti,Jain,pre_post_window,0,pre,Mahavir Jayanti,all_india
+2025-04-10,Mahavir Jayanti,Jain,minor_festival,1,,,all_india
+2025-04-11,Pre-Hanuman Jayanti,Hindu,pre_post_window,0,pre,Hanuman Jayanti,all_india
+2025-04-11,Post-Mahavir Jayanti,Jain,pre_post_window,0,post,Mahavir Jayanti,all_india
+2025-04-12,Hanuman Jayanti,Hindu,minor_festival,1,,,all_india
+2025-04-13,Pre-Baisakhi,Sikh,pre_post_window,0,pre,Baisakhi,north
+2025-04-13,Pre-Rongali Bihu,Hindu,pre_post_window,0,pre,Rongali Bihu,east
+2025-04-13,Pre-Ambedkar Jayanti,Secular,pre_post_window,0,pre,Ambedkar Jayanti,all_india
+2025-04-13,Post-Hanuman Jayanti,Hindu,pre_post_window,0,post,Hanuman Jayanti,all_india
+2025-04-13,Pre-Tamil New Year / Vishu,Hindu,pre_post_window,0,pre,Tamil New Year / Vishu,south
+2025-04-14,Tamil New Year / Vishu,Hindu,major_festival,1,,,south
+2025-04-14,Rongali Bihu,Hindu,major_festival,1,,,east
+2025-04-14,Baisakhi,Sikh,major_festival,1,,,north
+2025-04-14,Ambedkar Jayanti,Secular,national_holiday,1,,,all_india
+2025-04-15,Post-Tamil New Year / Vishu,Hindu,pre_post_window,0,post,Tamil New Year / Vishu,south
+2025-04-15,Post-Rongali Bihu,Hindu,pre_post_window,0,post,Rongali Bihu,east
+2025-04-15,Post-Baisakhi,Sikh,pre_post_window,0,post,Baisakhi,north
+2025-04-15,Post-Ambedkar Jayanti,Secular,pre_post_window,0,post,Ambedkar Jayanti,all_india
+2025-04-16,Pre-Good Friday,Christian,pre_post_window,0,pre,Good Friday,all_india
+2025-04-16,Post-Baisakhi,Sikh,pre_post_window,0,post,Baisakhi,north
+2025-04-16,Post-Ambedkar Jayanti,Secular,pre_post_window,0,post,Ambedkar Jayanti,all_india
+2025-04-16,Post-Tamil New Year / Vishu,Hindu,pre_post_window,0,post,Tamil New Year / Vishu,south
+2025-04-16,Post-Rongali Bihu,Hindu,pre_post_window,0,post,Rongali Bihu,east
+2025-04-17,Pre-Good Friday,Christian,pre_post_window,0,pre,Good Friday,all_india
+2025-04-18,Good Friday,Christian,major_festival,1,,,all_india
+2025-04-19,Post-Good Friday,Christian,pre_post_window,0,post,Good Friday,all_india
+2025-04-19,Pre-Easter Sunday,Christian,pre_post_window,0,pre,Easter Sunday,all_india
+2025-04-20,Easter Sunday,Christian,minor_festival,1,,,all_india
+2025-04-21,Post-Easter Sunday,Christian,pre_post_window,0,post,Easter Sunday,all_india
+2025-04-29,Pre-Akshaya Tritiya,Hindu,pre_post_window,0,pre,Akshaya Tritiya,all_india
+2025-04-29,Pre-Labour Day,Secular,pre_post_window,0,pre,Labour Day,all_india
+2025-04-30,Akshaya Tritiya,Hindu,minor_festival,1,,,all_india
+2025-05-01,Labour Day,Secular,national_holiday,1,,,all_india
+2025-05-02,Post-Labour Day,Secular,pre_post_window,0,post,Labour Day,all_india
+2025-05-03,Post-Labour Day,Secular,pre_post_window,0,post,Labour Day,all_india
+2025-05-11,Pre-Buddha Purnima,Buddhist,pre_post_window,0,pre,Buddha Purnima,all_india
+2025-05-12,Buddha Purnima,Buddhist,minor_festival,1,,,all_india
+2025-05-13,Post-Buddha Purnima,Buddhist,pre_post_window,0,post,Buddha Purnima,all_india
+2025-06-05,Pre-Eid ul Adha,Islam,pre_post_window,0,pre,Eid ul Adha,all_india
+2025-06-06,Pre-Eid ul Adha,Islam,pre_post_window,0,pre,Eid ul Adha,all_india
+2025-06-07,Eid ul Adha,Islam,major_festival,1,,,all_india
+2025-06-08,Post-Eid ul Adha,Islam,pre_post_window,0,post,Eid ul Adha,all_india
+2025-06-09,Post-Eid ul Adha,Islam,pre_post_window,0,post,Eid ul Adha,all_india
+2025-06-26,Pre-Rath Yatra,Hindu,pre_post_window,0,pre,Rath Yatra,east
+2025-06-27,Rath Yatra,Hindu,minor_festival,1,,,east
+2025-06-28,Post-Rath Yatra,Hindu,pre_post_window,0,post,Rath Yatra,east
+2025-07-05,Pre-Muharram,Islam,pre_post_window,0,pre,Muharram,all_india
+2025-07-06,Muharram,Islam,minor_festival,1,,,all_india
+2025-07-07,Post-Muharram,Islam,pre_post_window,0,post,Muharram,all_india
+2025-07-09,Pre-Guru Purnima,Hindu,pre_post_window,0,pre,Guru Purnima,all_india
+2025-07-10,Guru Purnima,Hindu,minor_festival,1,,,all_india
+2025-07-11,Post-Guru Purnima,Hindu,pre_post_window,0,post,Guru Purnima,all_india
+2025-08-13,Pre-Independence Day,National,pre_post_window,0,pre,Independence Day,all_india
+2025-08-14,Pre-Janmashtami,Hindu,pre_post_window,0,pre,Janmashtami,all_india
+2025-08-14,Pre-Independence Day,National,pre_post_window,0,pre,Independence Day,all_india
+2025-08-15,Independence Day,National,national_holiday,1,,,all_india
+2025-08-16,Janmashtami,Hindu,major_festival,1,,,all_india
+2025-08-17,Post-Janmashtami,Hindu,pre_post_window,0,post,Janmashtami,all_india
+2025-08-17,Post-Independence Day,National,pre_post_window,0,post,Independence Day,all_india
+2025-08-18,Post-Janmashtami,Hindu,pre_post_window,0,post,Janmashtami,all_india
+2025-08-25,Pre-Ganesh Chaturthi,Hindu,pre_post_window,0,pre,Ganesh Chaturthi,west
+2025-08-25,Pre-Paryushana / Samvatsari,Jain,pre_post_window,0,pre,Paryushana / Samvatsari,all_india
+2025-08-26,Paryushana / Samvatsari,Jain,minor_festival,1,,,all_india
+2025-08-27,Ganesh Chaturthi,Hindu,major_festival,1,,,west
+2025-08-28,Post-Ganesh Chaturthi,Hindu,pre_post_window,0,post,Ganesh Chaturthi,west
+2025-08-29,Post-Ganesh Chaturthi,Hindu,pre_post_window,0,post,Ganesh Chaturthi,west
+2025-09-03,Pre-Ganesh Visarjan,Hindu,pre_post_window,0,pre,Ganesh Visarjan,west
+2025-09-03,Pre-Onam (Thiruvonam),Hindu,pre_post_window,0,pre,Onam (Thiruvonam),south
+2025-09-04,Pre-Ganesh Visarjan,Hindu,pre_post_window,0,pre,Ganesh Visarjan,west
+2025-09-04,Pre-Onam (Thiruvonam),Hindu,pre_post_window,0,pre,Onam (Thiruvonam),south
+2025-09-04,Pre-Milad-un-Nabi,Islam,pre_post_window,0,pre,Milad-un-Nabi,all_india
+2025-09-05,Ganesh Visarjan,Hindu,major_festival,1,,,west
+2025-09-05,Onam (Thiruvonam),Hindu,major_festival,1,,,south
+2025-09-05,Milad-un-Nabi,Islam,minor_festival,1,,,all_india
+2025-09-06,Post-Ganesh Visarjan,Hindu,pre_post_window,0,post,Ganesh Visarjan,west
+2025-09-06,Post-Onam (Thiruvonam),Hindu,pre_post_window,0,post,Onam (Thiruvonam),south
+2025-09-06,Post-Milad-un-Nabi,Islam,pre_post_window,0,post,Milad-un-Nabi,all_india
+2025-09-07,Post-Ganesh Visarjan,Hindu,pre_post_window,0,post,Ganesh Visarjan,west
+2025-09-07,Post-Onam (Thiruvonam),Hindu,pre_post_window,0,post,Onam (Thiruvonam),south
+2025-09-20,Pre-Mahalaya / Durga Puja Start,Hindu,pre_post_window,0,pre,Mahalaya / Durga Puja Start,east
+2025-09-20,Pre-Navratri Start,Hindu,pre_post_window,0,pre,Navratri Start,all_india
+2025-09-21,Pre-Navratri Start,Hindu,pre_post_window,0,pre,Navratri Start,all_india
+2025-09-21,Pre-Mahalaya / Durga Puja Start,Hindu,pre_post_window,0,pre,Mahalaya / Durga Puja Start,east
+2025-09-22,Navratri Start,Hindu,major_festival,1,,,all_india
+2025-09-22,Mahalaya / Durga Puja Start,Hindu,major_festival,1,,,east
+2025-09-23,Post-Navratri Start,Hindu,pre_post_window,0,post,Navratri Start,all_india
+2025-09-23,Post-Mahalaya / Durga Puja Start,Hindu,pre_post_window,0,post,Mahalaya / Durga Puja Start,east
+2025-09-24,Post-Navratri Start,Hindu,pre_post_window,0,post,Navratri Start,all_india
+2025-09-24,Post-Mahalaya / Durga Puja Start,Hindu,pre_post_window,0,post,Mahalaya / Durga Puja Start,east
+2025-09-30,Pre-Dussehra,Hindu,pre_post_window,0,pre,Dussehra,all_india
+2025-09-30,Pre-Gandhi Jayanti,National,pre_post_window,0,pre,Gandhi Jayanti,all_india
+2025-10-01,Pre-Dussehra,Hindu,pre_post_window,0,pre,Dussehra,all_india
+2025-10-01,Pre-Gandhi Jayanti,National,pre_post_window,0,pre,Gandhi Jayanti,all_india
+2025-10-02,Dussehra,Hindu,major_festival,1,,,all_india
+2025-10-02,Gandhi Jayanti,National,national_holiday,1,,,all_india
+2025-10-03,Post-Dussehra,Hindu,pre_post_window,0,post,Dussehra,all_india
+2025-10-03,Post-Gandhi Jayanti,National,pre_post_window,0,post,Gandhi Jayanti,all_india
+2025-10-04,Post-Dussehra,Hindu,pre_post_window,0,post,Dussehra,all_india
+2025-10-04,Post-Gandhi Jayanti,National,pre_post_window,0,post,Gandhi Jayanti,all_india
+2025-10-08,Pre-Karva Chauth,Hindu,pre_post_window,0,pre,Karva Chauth,north
+2025-10-09,Karva Chauth,Hindu,minor_festival,1,,,north
+2025-10-10,Post-Karva Chauth,Hindu,pre_post_window,0,post,Karva Chauth,north
+2025-10-16,Pre-Dhanteras,Hindu,pre_post_window,0,pre,Dhanteras,all_india
+2025-10-17,Pre-Dhanteras,Hindu,pre_post_window,0,pre,Dhanteras,all_india
+2025-10-18,Dhanteras,Hindu,major_festival,1,,,all_india
+2025-10-19,Pre-Choti Diwali,Hindu,pre_post_window,0,pre,Choti Diwali,all_india
+2025-10-19,Pre-Diwali,Hindu,pre_post_window,0,pre,Diwali,all_india
+2025-10-19,Post-Dhanteras,Hindu,pre_post_window,0,post,Dhanteras,all_india
+2025-10-20,Choti Diwali,Hindu,major_festival,1,,,all_india
+2025-10-20,Diwali,Hindu,major_festival,1,,,all_india
+2025-10-21,Post-Choti Diwali,Hindu,pre_post_window,0,post,Choti Diwali,all_india
+2025-10-21,Post-Diwali,Hindu,pre_post_window,0,post,Diwali,all_india
+2025-10-21,Pre-Govardhan Puja,Hindu,pre_post_window,0,pre,Govardhan Puja,all_india
+2025-10-22,Govardhan Puja,Hindu,major_festival,1,,,all_india
+2025-10-23,Bhai Dooj,Hindu,minor_festival,1,,,all_india
+2025-10-24,Post-Govardhan Puja,Hindu,pre_post_window,0,post,Govardhan Puja,all_india
+2025-10-24,Post-Bhai Dooj,Hindu,pre_post_window,0,post,Bhai Dooj,all_india
+2025-10-26,Pre-Chhath Puja,Hindu,pre_post_window,0,pre,Chhath Puja,multi_region
+2025-10-27,Pre-Chhath Puja,Hindu,pre_post_window,0,pre,Chhath Puja,multi_region
+2025-10-28,Chhath Puja,Hindu,major_festival,1,,,multi_region
+2025-10-29,Post-Chhath Puja,Hindu,pre_post_window,0,post,Chhath Puja,multi_region
+2025-10-30,Post-Chhath Puja,Hindu,pre_post_window,0,post,Chhath Puja,multi_region
+2025-11-03,Pre-Guru Nanak Jayanti,Sikh,pre_post_window,0,pre,Guru Nanak Jayanti,all_india
+2025-11-04,Pre-Guru Nanak Jayanti,Sikh,pre_post_window,0,pre,Guru Nanak Jayanti,all_india
+2025-11-05,Guru Nanak Jayanti,Sikh,major_festival,1,,,all_india
+2025-11-06,Post-Guru Nanak Jayanti,Sikh,pre_post_window,0,post,Guru Nanak Jayanti,all_india
+2025-11-07,Post-Guru Nanak Jayanti,Sikh,pre_post_window,0,post,Guru Nanak Jayanti,all_india
+2025-12-04,Pre-Karthigai Deepam,Hindu,pre_post_window,0,pre,Karthigai Deepam,south
+2025-12-05,Karthigai Deepam,Hindu,minor_festival,1,,,south
+2025-12-06,Post-Karthigai Deepam,Hindu,pre_post_window,0,post,Karthigai Deepam,south
+2025-12-23,Pre-Christmas,Christian,pre_post_window,0,pre,Christmas,all_india
+2025-12-23,Pre-Christmas Eve,Christian,pre_post_window,0,pre,Christmas Eve,all_india
+2025-12-24,Christmas Eve,Christian,minor_festival,1,,,all_india
+2025-12-25,Christmas,Christian,major_festival,1,,,all_india
+2025-12-26,Post-Christmas,Christian,pre_post_window,0,post,Christmas,all_india
+2025-12-27,Post-Christmas,Christian,pre_post_window,0,post,Christmas,all_india
+2025-12-30,Pre-New Year's Eve,Secular,pre_post_window,0,pre,New Year's Eve,all_india
+2025-12-31,New Year's Eve,Secular,minor_festival,1,,,all_india
+2026-01-01,New Year's Day,Secular,minor_festival,1,,,all_india
+2026-01-02,Post-New Year's Day,Secular,pre_post_window,0,post,New Year's Day,all_india
+2026-01-12,Pre-Makar Sankranti / Pongal,Hindu,pre_post_window,0,pre,Makar Sankranti / Pongal,all_india
+2026-01-13,Pre-Makar Sankranti / Pongal,Hindu,pre_post_window,0,pre,Makar Sankranti / Pongal,all_india
+2026-01-14,Makar Sankranti / Pongal,Hindu,major_festival,1,,,all_india
+2026-01-15,Post-Makar Sankranti / Pongal,Hindu,pre_post_window,0,post,Makar Sankranti / Pongal,all_india
+2026-01-16,Post-Makar Sankranti / Pongal,Hindu,pre_post_window,0,post,Makar Sankranti / Pongal,all_india
+2026-01-19,Pre-Guru Gobind Singh Jayanti,Sikh,pre_post_window,0,pre,Guru Gobind Singh Jayanti,north
+2026-01-20,Guru Gobind Singh Jayanti,Sikh,minor_festival,1,,,north
+2026-01-21,Post-Guru Gobind Singh Jayanti,Sikh,pre_post_window,0,post,Guru Gobind Singh Jayanti,north
+2026-01-22,Pre-Vasant Panchami,Hindu,pre_post_window,0,pre,Vasant Panchami,north
+2026-01-23,Vasant Panchami,Hindu,minor_festival,1,,,north
+2026-01-24,Pre-Republic Day,National,pre_post_window,0,pre,Republic Day,all_india
+2026-01-24,Post-Vasant Panchami,Hindu,pre_post_window,0,post,Vasant Panchami,north
+2026-01-25,Pre-Republic Day,National,pre_post_window,0,pre,Republic Day,all_india
+2026-01-26,Republic Day,National,national_holiday,1,,,all_india
+2026-01-27,Post-Republic Day,National,pre_post_window,0,post,Republic Day,all_india
+2026-01-28,Post-Republic Day,National,pre_post_window,0,post,Republic Day,all_india
+2026-02-03,Pre-Shab-e-Barat,Islam,pre_post_window,0,pre,Shab-e-Barat,all_india
+2026-02-04,Shab-e-Barat,Islam,minor_festival,1,,,all_india
+2026-02-05,Post-Shab-e-Barat,Islam,pre_post_window,0,post,Shab-e-Barat,all_india
+2026-02-13,Pre-Maha Shivaratri,Hindu,pre_post_window,0,pre,Maha Shivaratri,all_india
+2026-02-14,Pre-Maha Shivaratri,Hindu,pre_post_window,0,pre,Maha Shivaratri,all_india
+2026-02-15,Maha Shivaratri,Hindu,major_festival,1,,,all_india
+2026-02-16,Post-Maha Shivaratri,Hindu,pre_post_window,0,post,Maha Shivaratri,all_india
+2026-02-17,Post-Maha Shivaratri,Hindu,pre_post_window,0,post,Maha Shivaratri,all_india
+2026-02-28,Pre-Holika Dahan,Hindu,pre_post_window,0,pre,Holika Dahan,all_india
+2026-03-01,Pre-Holika Dahan,Hindu,pre_post_window,0,pre,Holika Dahan,all_india
+2026-03-01,Pre-Holi,Hindu,pre_post_window,0,pre,Holi,all_india
+2026-03-02,Holika Dahan,Hindu,major_festival,1,,,all_india
+2026-03-03,Holi,Hindu,major_festival,1,,,all_india
+2026-03-04,Post-Holi,Hindu,pre_post_window,0,post,Holi,all_india
+2026-03-04,Post-Holika Dahan,Hindu,pre_post_window,0,post,Holika Dahan,all_india
+2026-03-05,Post-Holi,Hindu,pre_post_window,0,post,Holi,all_india
+2026-03-18,Pre-Eid ul Fitr,Islam,pre_post_window,0,pre,Eid ul Fitr,all_india
+2026-03-19,Pre-Eid ul Fitr,Islam,pre_post_window,0,pre,Eid ul Fitr,all_india
+2026-03-20,Eid ul Fitr,Islam,major_festival,1,,,all_india
+2026-03-21,Post-Eid ul Fitr,Islam,pre_post_window,0,post,Eid ul Fitr,all_india
+2026-03-22,Post-Eid ul Fitr,Islam,pre_post_window,0,post,Eid ul Fitr,all_india
+2026-03-24,Pre-Ram Navami,Hindu,pre_post_window,0,pre,Ram Navami,all_india
+2026-03-25,Pre-Ram Navami,Hindu,pre_post_window,0,pre,Ram Navami,all_india
+2026-03-26,Ram Navami,Hindu,major_festival,1,,,all_india
+2026-03-27,Post-Ram Navami,Hindu,pre_post_window,0,post,Ram Navami,all_india
+2026-03-28,Post-Ram Navami,Hindu,pre_post_window,0,post,Ram Navami,all_india
+2026-03-30,Pre-Mahavir Jayanti,Jain,pre_post_window,0,pre,Mahavir Jayanti,all_india
+2026-03-31,Mahavir Jayanti,Jain,minor_festival,1,,,all_india
+2026-04-01,Pre-Hanuman Jayanti,Hindu,pre_post_window,0,pre,Hanuman Jayanti,all_india
+2026-04-01,Pre-Good Friday,Christian,pre_post_window,0,pre,Good Friday,all_india
+2026-04-01,Post-Mahavir Jayanti,Jain,pre_post_window,0,post,Mahavir Jayanti,all_india
+2026-04-02,Hanuman Jayanti,Hindu,minor_festival,1,,,all_india
+2026-04-03,Good Friday,Christian,major_festival,1,,,all_india
+2026-04-04,Post-Good Friday,Christian,pre_post_window,0,post,Good Friday,all_india
+2026-04-04,Pre-Easter Sunday,Christian,pre_post_window,0,pre,Easter Sunday,all_india
+2026-04-05,Easter Sunday,Christian,minor_festival,1,,,all_india
+2026-04-06,Post-Easter Sunday,Christian,pre_post_window,0,post,Easter Sunday,all_india
+2026-04-12,Pre-Ambedkar Jayanti,Secular,pre_post_window,0,pre,Ambedkar Jayanti,all_india
+2026-04-12,Pre-Baisakhi,Sikh,pre_post_window,0,pre,Baisakhi,north
+2026-04-12,Pre-Tamil New Year / Vishu,Hindu,pre_post_window,0,pre,Tamil New Year / Vishu,south
+2026-04-12,Pre-Rongali Bihu,Hindu,pre_post_window,0,pre,Rongali Bihu,east
+2026-04-13,Pre-Tamil New Year / Vishu,Hindu,pre_post_window,0,pre,Tamil New Year / Vishu,south
+2026-04-13,Pre-Rongali Bihu,Hindu,pre_post_window,0,pre,Rongali Bihu,east
+2026-04-13,Pre-Baisakhi,Sikh,pre_post_window,0,pre,Baisakhi,north
+2026-04-13,Pre-Ambedkar Jayanti,Secular,pre_post_window,0,pre,Ambedkar Jayanti,all_india
+2026-04-14,Tamil New Year / Vishu,Hindu,major_festival,1,,,south
+2026-04-14,Rongali Bihu,Hindu,major_festival,1,,,east
+2026-04-14,Baisakhi,Sikh,major_festival,1,,,north
+2026-04-14,Ambedkar Jayanti,Secular,national_holiday,1,,,all_india
+2026-04-15,Post-Ambedkar Jayanti,Secular,pre_post_window,0,post,Ambedkar Jayanti,all_india
+2026-04-15,Post-Baisakhi,Sikh,pre_post_window,0,post,Baisakhi,north
+2026-04-15,Post-Rongali Bihu,Hindu,pre_post_window,0,post,Rongali Bihu,east
+2026-04-15,Post-Tamil New Year / Vishu,Hindu,pre_post_window,0,post,Tamil New Year / Vishu,south
+2026-04-16,Post-Tamil New Year / Vishu,Hindu,pre_post_window,0,post,Tamil New Year / Vishu,south
+2026-04-16,Post-Rongali Bihu,Hindu,pre_post_window,0,post,Rongali Bihu,east
+2026-04-16,Post-Baisakhi,Sikh,pre_post_window,0,post,Baisakhi,north
+2026-04-16,Post-Ambedkar Jayanti,Secular,pre_post_window,0,post,Ambedkar Jayanti,all_india
+2026-04-17,Pre-Ugadi / Gudi Padwa,Hindu,pre_post_window,0,pre,Ugadi / Gudi Padwa,south
+2026-04-18,Pre-Akshaya Tritiya,Hindu,pre_post_window,0,pre,Akshaya Tritiya,all_india
+2026-04-18,Pre-Ugadi / Gudi Padwa,Hindu,pre_post_window,0,pre,Ugadi / Gudi Padwa,south
+2026-04-19,Akshaya Tritiya,Hindu,minor_festival,1,,,all_india
+2026-04-19,Ugadi / Gudi Padwa,Hindu,major_festival,1,,,south
+2026-04-20,Post-Akshaya Tritiya,Hindu,pre_post_window,0,post,Akshaya Tritiya,all_india
+2026-04-20,Post-Ugadi / Gudi Padwa,Hindu,pre_post_window,0,post,Ugadi / Gudi Padwa,south
+2026-04-21,Post-Ugadi / Gudi Padwa,Hindu,pre_post_window,0,post,Ugadi / Gudi Padwa,south
+2026-04-29,Pre-Labour Day,Secular,pre_post_window,0,pre,Labour Day,all_india
+2026-04-30,Pre-Buddha Purnima,Buddhist,pre_post_window,0,pre,Buddha Purnima,all_india
+2026-04-30,Pre-Labour Day,Secular,pre_post_window,0,pre,Labour Day,all_india
+2026-05-01,Buddha Purnima,Buddhist,minor_festival,1,,,all_india
+2026-05-01,Labour Day,Secular,national_holiday,1,,,all_india
+2026-05-02,Post-Buddha Purnima,Buddhist,pre_post_window,0,post,Buddha Purnima,all_india
+2026-05-02,Post-Labour Day,Secular,pre_post_window,0,post,Labour Day,all_india
+2026-05-03,Post-Labour Day,Secular,pre_post_window,0,post,Labour Day,all_india
+2026-05-25,Pre-Eid ul Adha,Islam,pre_post_window,0,pre,Eid ul Adha,all_india
+2026-05-26,Pre-Eid ul Adha,Islam,pre_post_window,0,pre,Eid ul Adha,all_india
+2026-05-27,Eid ul Adha,Islam,major_festival,1,,,all_india
+2026-05-28,Post-Eid ul Adha,Islam,pre_post_window,0,post,Eid ul Adha,all_india
+2026-05-29,Post-Eid ul Adha,Islam,pre_post_window,0,post,Eid ul Adha,all_india
+2026-06-15,Pre-Rath Yatra,Hindu,pre_post_window,0,pre,Rath Yatra,east
+2026-06-16,Rath Yatra,Hindu,minor_festival,1,,,east
+2026-06-17,Post-Rath Yatra,Hindu,pre_post_window,0,post,Rath Yatra,east
+2026-06-25,Pre-Muharram,Islam,pre_post_window,0,pre,Muharram,all_india
+2026-06-26,Muharram,Islam,minor_festival,1,,,all_india
+2026-06-27,Post-Muharram,Islam,pre_post_window,0,post,Muharram,all_india
+2026-06-29,Pre-Guru Purnima,Hindu,pre_post_window,0,pre,Guru Purnima,all_india
+2026-06-30,Guru Purnima,Hindu,minor_festival,1,,,all_india
+2026-07-01,Post-Guru Purnima,Hindu,pre_post_window,0,post,Guru Purnima,all_india
+2026-08-13,Pre-Independence Day,National,pre_post_window,0,pre,Independence Day,all_india
+2026-08-14,Pre-Independence Day,National,pre_post_window,0,pre,Independence Day,all_india
+2026-08-15,Independence Day,National,national_holiday,1,,,all_india
+2026-08-16,Post-Independence Day,National,pre_post_window,0,post,Independence Day,all_india
+2026-08-17,Post-Independence Day,National,pre_post_window,0,post,Independence Day,all_india
+2026-08-23,Pre-Onam (Thiruvonam),Hindu,pre_post_window,0,pre,Onam (Thiruvonam),south
+2026-08-24,Pre-Milad-un-Nabi,Islam,pre_post_window,0,pre,Milad-un-Nabi,all_india
+2026-08-24,Pre-Onam (Thiruvonam),Hindu,pre_post_window,0,pre,Onam (Thiruvonam),south
+2026-08-25,Onam (Thiruvonam),Hindu,major_festival,1,,,south
+2026-08-25,Milad-un-Nabi,Islam,minor_festival,1,,,all_india
+2026-08-26,Post-Onam (Thiruvonam),Hindu,pre_post_window,0,post,Onam (Thiruvonam),south
+2026-08-26,Post-Milad-un-Nabi,Islam,pre_post_window,0,post,Milad-un-Nabi,all_india
+2026-08-27,Post-Onam (Thiruvonam),Hindu,pre_post_window,0,post,Onam (Thiruvonam),south
+2026-09-02,Pre-Janmashtami,Hindu,pre_post_window,0,pre,Janmashtami,all_india
+2026-09-03,Pre-Janmashtami,Hindu,pre_post_window,0,pre,Janmashtami,all_india
+2026-09-04,Janmashtami,Hindu,major_festival,1,,,all_india
+2026-09-05,Post-Janmashtami,Hindu,pre_post_window,0,post,Janmashtami,all_india
+2026-09-06,Post-Janmashtami,Hindu,pre_post_window,0,post,Janmashtami,all_india
+2026-09-13,Pre-Ganesh Chaturthi,Hindu,pre_post_window,0,pre,Ganesh Chaturthi,west
+2026-09-13,Pre-Paryushana / Samvatsari,Jain,pre_post_window,0,pre,Paryushana / Samvatsari,all_india
+2026-09-14,Paryushana / Samvatsari,Jain,minor_festival,1,,,all_india
+2026-09-15,Ganesh Chaturthi,Hindu,major_festival,1,,,west
+2026-09-16,Post-Ganesh Chaturthi,Hindu,pre_post_window,0,post,Ganesh Chaturthi,west
+2026-09-17,Post-Ganesh Chaturthi,Hindu,pre_post_window,0,post,Ganesh Chaturthi,west
+2026-09-22,Pre-Ganesh Visarjan,Hindu,pre_post_window,0,pre,Ganesh Visarjan,west
+2026-09-23,Pre-Ganesh Visarjan,Hindu,pre_post_window,0,pre,Ganesh Visarjan,west
+2026-09-24,Ganesh Visarjan,Hindu,major_festival,1,,,west
+2026-09-25,Post-Ganesh Visarjan,Hindu,pre_post_window,0,post,Ganesh Visarjan,west
+2026-09-26,Post-Ganesh Visarjan,Hindu,pre_post_window,0,post,Ganesh Visarjan,west
+2026-09-30,Pre-Gandhi Jayanti,National,pre_post_window,0,pre,Gandhi Jayanti,all_india
+2026-10-01,Pre-Gandhi Jayanti,National,pre_post_window,0,pre,Gandhi Jayanti,all_india
+2026-10-02,Gandhi Jayanti,National,national_holiday,1,,,all_india
+2026-10-03,Post-Gandhi Jayanti,National,pre_post_window,0,post,Gandhi Jayanti,all_india
+2026-10-04,Post-Gandhi Jayanti,National,pre_post_window,0,post,Gandhi Jayanti,all_india
+2026-10-09,Pre-Mahalaya / Durga Puja Start,Hindu,pre_post_window,0,pre,Mahalaya / Durga Puja Start,east
+2026-10-09,Pre-Navratri Start,Hindu,pre_post_window,0,pre,Navratri Start,all_india
+2026-10-10,Pre-Navratri Start,Hindu,pre_post_window,0,pre,Navratri Start,all_india
+2026-10-10,Pre-Mahalaya / Durga Puja Start,Hindu,pre_post_window,0,pre,Mahalaya / Durga Puja Start,east
+2026-10-11,Navratri Start,Hindu,major_festival,1,,,all_india
+2026-10-11,Mahalaya / Durga Puja Start,Hindu,major_festival,1,,,east
+2026-10-12,Post-Navratri Start,Hindu,pre_post_window,0,post,Navratri Start,all_india
+2026-10-12,Post-Mahalaya / Durga Puja Start,Hindu,pre_post_window,0,post,Mahalaya / Durga Puja Start,east
+2026-10-13,Post-Navratri Start,Hindu,pre_post_window,0,post,Navratri Start,all_india
+2026-10-13,Post-Mahalaya / Durga Puja Start,Hindu,pre_post_window,0,post,Mahalaya / Durga Puja Start,east
+2026-10-18,Pre-Dussehra,Hindu,pre_post_window,0,pre,Dussehra,all_india
+2026-10-19,Pre-Dussehra,Hindu,pre_post_window,0,pre,Dussehra,all_india
+2026-10-20,Dussehra,Hindu,major_festival,1,,,all_india
+2026-10-21,Post-Dussehra,Hindu,pre_post_window,0,post,Dussehra,all_india
+2026-10-22,Post-Dussehra,Hindu,pre_post_window,0,post,Dussehra,all_india
+2026-10-27,Pre-Karva Chauth,Hindu,pre_post_window,0,pre,Karva Chauth,north
+2026-10-28,Karva Chauth,Hindu,minor_festival,1,,,north
+2026-10-29,Post-Karva Chauth,Hindu,pre_post_window,0,post,Karva Chauth,north
+2026-11-04,Pre-Dhanteras,Hindu,pre_post_window,0,pre,Dhanteras,all_india
+2026-11-05,Pre-Dhanteras,Hindu,pre_post_window,0,pre,Dhanteras,all_india
+2026-11-05,Pre-Choti Diwali,Hindu,pre_post_window,0,pre,Choti Diwali,all_india
+2026-11-06,Dhanteras,Hindu,major_festival,1,,,all_india
+2026-11-07,Choti Diwali,Hindu,major_festival,1,,,all_india
+2026-11-08,Diwali,Hindu,major_festival,1,,,all_india
+2026-11-09,Govardhan Puja,Hindu,major_festival,1,,,all_india
+2026-11-10,Bhai Dooj,Hindu,minor_festival,1,,,all_india
+2026-11-11,Post-Govardhan Puja,Hindu,pre_post_window,0,post,Govardhan Puja,all_india
+2026-11-11,Post-Bhai Dooj,Hindu,pre_post_window,0,post,Bhai Dooj,all_india
+2026-11-14,Pre-Chhath Puja,Hindu,pre_post_window,0,pre,Chhath Puja,multi_region
+2026-11-15,Pre-Chhath Puja,Hindu,pre_post_window,0,pre,Chhath Puja,multi_region
+2026-11-16,Chhath Puja,Hindu,major_festival,1,,,multi_region
+2026-11-17,Post-Chhath Puja,Hindu,pre_post_window,0,post,Chhath Puja,multi_region
+2026-11-18,Post-Chhath Puja,Hindu,pre_post_window,0,post,Chhath Puja,multi_region
+2026-11-22,Pre-Guru Nanak Jayanti,Sikh,pre_post_window,0,pre,Guru Nanak Jayanti,all_india
+2026-11-23,Pre-Guru Nanak Jayanti,Sikh,pre_post_window,0,pre,Guru Nanak Jayanti,all_india
+2026-11-24,Guru Nanak Jayanti,Sikh,major_festival,1,,,all_india
+2026-11-25,Karthigai Deepam,Hindu,minor_festival,1,,,south
+2026-11-26,Post-Karthigai Deepam,Hindu,pre_post_window,0,post,Karthigai Deepam,south
+2026-11-26,Post-Guru Nanak Jayanti,Sikh,pre_post_window,0,post,Guru Nanak Jayanti,all_india
+2026-12-23,Pre-Christmas,Christian,pre_post_window,0,pre,Christmas,all_india
+2026-12-23,Pre-Christmas Eve,Christian,pre_post_window,0,pre,Christmas Eve,all_india
+2026-12-24,Christmas Eve,Christian,minor_festival,1,,,all_india
+2026-12-25,Christmas,Christian,major_festival,1,,,all_india
+2026-12-26,Post-Christmas,Christian,pre_post_window,0,post,Christmas,all_india
+2026-12-27,Post-Christmas,Christian,pre_post_window,0,post,Christmas,all_india

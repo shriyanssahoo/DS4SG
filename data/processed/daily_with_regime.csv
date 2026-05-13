@@ -1,0 +1,1093 @@
+date,max_demand_met_mw,day_of_week,month,is_weekend,is_festival,is_pre,is_post,festival_name,regime_label
+2023-04-01,180284.0,5,4,1,0.0,0.0,1.0,Ram Navami,
+2023-04-02,174691.0,6,4,1,0.0,0.0,0.0,none,
+2023-04-03,187729.0,0,4,0,0.0,1.0,0.0,Mahavir Jayanti,
+2023-04-04,189684.0,1,4,0,1.0,0.0,0.0,none,
+2023-04-05,189003.0,2,4,0,0.0,1.0,0.0,Hanuman Jayanti,
+2023-04-06,192061.0,3,4,0,1.0,0.0,0.0,none,
+2023-04-07,193282.0,4,4,0,1.0,0.0,0.0,none,
+2023-04-08,189327.0,5,4,1,0.0,1.0,0.0,Easter Sunday,
+2023-04-09,182654.0,6,4,1,1.0,0.0,0.0,none,
+2023-04-10,194537.0,0,4,0,0.0,0.0,1.0,Easter Sunday,
+2023-04-11,197928.0,1,4,0,0.0,0.0,0.0,none,
+2023-04-12,200574.0,2,4,0,0.0,1.0,0.0,Ambedkar Jayanti,
+2023-04-13,203546.0,3,4,0,0.0,1.0,0.0,Ambedkar Jayanti,
+2023-04-14,206183.0,4,4,0,1.0,0.0,0.0,none,
+2023-04-15,202601.0,5,4,1,0.0,0.0,1.0,Ambedkar Jayanti,
+2023-04-16,194976.0,6,4,1,0.0,0.0,1.0,Ambedkar Jayanti,
+2023-04-17,210829.0,0,4,0,0.0,0.0,0.0,none,
+2023-04-18,215882.0,1,4,0,0.0,0.0,0.0,none,
+2023-04-19,214924.0,2,4,0,0.0,0.0,0.0,none,
+2023-04-20,211804.0,3,4,0,0.0,1.0,0.0,Eid ul Fitr,
+2023-04-21,204777.0,4,4,0,0.0,1.0,0.0,Akshaya Tritiya,
+2023-04-22,198272.0,5,4,1,1.0,0.0,0.0,none,
+2023-04-23,184407.0,6,4,1,0.0,0.0,1.0,Akshaya Tritiya,
+2023-04-24,191917.0,0,4,0,0.0,0.0,1.0,Eid ul Fitr,
+2023-04-25,194367.0,1,4,0,0.0,0.0,0.0,none,
+2023-04-26,195821.0,2,4,0,0.0,0.0,0.0,none,
+2023-04-27,196240.0,3,4,0,0.0,0.0,0.0,none,
+2023-04-28,197000.0,4,4,0,0.0,0.0,0.0,none,
+2023-04-29,188802.0,5,4,1,0.0,1.0,0.0,Labour Day,
+2023-04-30,173339.0,6,4,1,0.0,1.0,0.0,Labour Day,
+2023-05-01,159720.0,0,5,0,1.0,0.0,0.0,none,Moderate Demand
+2023-05-02,173208.0,1,5,0,0.0,0.0,1.0,Labour Day,Moderate Demand
+2023-05-03,172050.0,2,5,0,0.0,0.0,1.0,Labour Day,Moderate Demand
+2023-05-04,178915.0,3,5,0,0.0,1.0,0.0,Buddha Purnima,Moderate Demand
+2023-05-05,184356.0,4,5,0,1.0,0.0,0.0,none,Moderate Demand
+2023-05-06,185602.0,5,5,1,0.0,0.0,1.0,Buddha Purnima,Moderate Demand
+2023-05-07,180377.0,6,5,1,0.0,0.0,0.0,none,Low Demand
+2023-05-08,191660.0,0,5,0,0.0,0.0,0.0,none,Low Demand
+2023-05-09,196276.0,1,5,0,0.0,0.0,0.0,none,Low Demand
+2023-05-10,198388.0,2,5,0,0.0,0.0,0.0,none,Moderate Demand
+2023-05-11,202891.0,3,5,0,0.0,0.0,0.0,none,Moderate Demand
+2023-05-12,207191.0,4,5,0,0.0,0.0,0.0,none,Moderate Demand
+2023-05-13,208181.0,5,5,1,0.0,0.0,0.0,none,Moderate Demand
+2023-05-14,199382.0,6,5,1,0.0,0.0,0.0,none,Moderate Demand
+2023-05-15,212421.0,0,5,0,0.0,0.0,0.0,none,Moderate Demand
+2023-05-16,215113.0,1,5,0,0.0,0.0,0.0,none,Moderate Demand
+2023-05-17,221076.0,2,5,0,0.0,0.0,0.0,none,Moderate Demand
+2023-05-18,213893.0,3,5,0,0.0,0.0,0.0,none,Moderate Demand
+2023-05-19,218030.0,4,5,0,0.0,0.0,0.0,none,Moderate Demand
+2023-05-20,217155.0,5,5,1,0.0,0.0,0.0,none,Moderate Demand
+2023-05-21,207935.0,6,5,1,0.0,0.0,0.0,none,Moderate Demand
+2023-05-22,220974.0,0,5,0,0.0,0.0,0.0,none,Moderate Demand
+2023-05-23,221347.0,1,5,0,0.0,0.0,0.0,none,High Demand
+2023-05-24,210952.0,2,5,0,0.0,0.0,0.0,none,High Demand
+2023-05-25,204585.0,3,5,0,0.0,0.0,0.0,none,High Demand
+2023-05-26,196387.0,4,5,0,0.0,0.0,0.0,none,Moderate Demand
+2023-05-27,194797.0,5,5,1,0.0,0.0,0.0,none,Moderate Demand
+2023-05-28,190900.0,6,5,1,0.0,0.0,0.0,none,Moderate Demand
+2023-05-29,201431.0,0,5,0,0.0,0.0,0.0,none,Moderate Demand
+2023-05-30,196231.0,1,5,0,0.0,0.0,0.0,none,Moderate Demand
+2023-05-31,201708.0,2,5,0,0.0,0.0,0.0,none,Moderate Demand
+2023-06-01,199477.0,3,6,0,0.0,0.0,0.0,none,Moderate Demand
+2023-06-02,206375.0,4,6,0,0.0,0.0,0.0,none,Moderate Demand
+2023-06-03,211608.0,5,6,1,0.0,0.0,0.0,none,Moderate Demand
+2023-06-04,199064.0,6,6,1,0.0,0.0,0.0,none,Moderate Demand
+2023-06-05,213982.0,0,6,0,0.0,0.0,0.0,none,Moderate Demand
+2023-06-06,217259.0,1,6,0,0.0,0.0,0.0,none,Moderate Demand
+2023-06-07,217843.0,2,6,0,0.0,0.0,0.0,none,Moderate Demand
+2023-06-08,222920.0,3,6,0,0.0,0.0,0.0,none,Moderate Demand
+2023-06-09,223235.0,4,6,0,0.0,0.0,0.0,none,Moderate Demand
+2023-06-10,219301.0,5,6,1,0.0,0.0,0.0,none,Moderate Demand
+2023-06-11,206667.0,6,6,1,0.0,0.0,0.0,none,Moderate Demand
+2023-06-12,218673.0,0,6,0,0.0,0.0,0.0,none,Moderate Demand
+2023-06-13,215352.0,1,6,0,0.0,0.0,0.0,none,Moderate Demand
+2023-06-14,214583.0,2,6,0,0.0,0.0,0.0,none,High Demand
+2023-06-15,210901.0,3,6,0,0.0,0.0,0.0,none,Moderate Demand
+2023-06-16,211962.0,4,6,0,0.0,0.0,0.0,none,Moderate Demand
+2023-06-17,211781.0,5,6,1,0.0,0.0,0.0,none,Moderate Demand
+2023-06-18,204565.0,6,6,1,0.0,0.0,0.0,none,Moderate Demand
+2023-06-19,213661.0,0,6,0,0.0,0.0,0.0,none,Moderate Demand
+2023-06-21,217678.0,2,6,0,0.0,0.0,0.0,none,High Demand
+2023-06-22,215225.0,3,6,0,0.0,0.0,0.0,none,Moderate Demand
+2023-06-23,215938.0,4,6,0,0.0,0.0,0.0,none,Moderate Demand
+2023-06-24,209620.0,5,6,1,0.0,0.0,0.0,none,Moderate Demand
+2023-06-25,198675.0,6,6,1,0.0,0.0,0.0,none,Moderate Demand
+2023-06-27,194244.0,1,6,0,0.0,1.0,0.0,Eid ul Adha,Moderate Demand
+2023-06-29,190460.0,3,6,0,1.0,0.0,0.0,none,Moderate Demand
+2023-06-30,193125.0,4,6,0,0.0,0.0,1.0,Eid ul Adha,Moderate Demand
+2023-07-01,196142.0,5,7,1,0.0,0.0,1.0,Eid ul Adha,Moderate Demand
+2023-07-02,194770.0,6,7,1,0.0,1.0,0.0,Guru Purnima,Moderate Demand
+2023-07-03,207982.0,0,7,0,1.0,0.0,0.0,none,Moderate Demand
+2023-07-04,206300.0,1,7,0,0.0,0.0,1.0,Guru Purnima,Moderate Demand
+2023-07-05,198089.0,2,7,0,0.0,0.0,0.0,none,Moderate Demand
+2023-07-07,193700.0,4,7,0,0.0,0.0,0.0,none,Moderate Demand
+2023-07-08,185373.0,5,7,1,0.0,0.0,0.0,none,Moderate Demand
+2023-07-09,179616.0,6,7,1,0.0,0.0,0.0,none,Moderate Demand
+2023-07-10,191860.0,0,7,0,0.0,0.0,0.0,none,Moderate Demand
+2023-07-11,193441.0,1,7,0,0.0,0.0,0.0,none,Moderate Demand
+2023-07-12,200357.0,2,7,0,0.0,0.0,0.0,none,Moderate Demand
+2023-07-13,203212.0,3,7,0,0.0,0.0,0.0,none,Moderate Demand
+2023-07-14,205712.0,4,7,0,0.0,0.0,0.0,none,Moderate Demand
+2023-07-15,203098.0,5,7,1,0.0,0.0,0.0,none,Moderate Demand
+2023-07-16,195668.0,6,7,1,0.0,0.0,0.0,none,Moderate Demand
+2023-07-17,204718.0,0,7,0,0.0,0.0,0.0,none,Moderate Demand
+2023-07-18,202935.0,1,7,0,0.0,0.0,0.0,none,Moderate Demand
+2023-07-19,201837.0,2,7,0,0.0,0.0,0.0,none,Moderate Demand
+2023-07-20,205282.0,3,7,0,0.0,0.0,0.0,none,Moderate Demand
+2023-07-21,208825.0,4,7,0,0.0,0.0,0.0,none,Moderate Demand
+2023-07-22,198788.0,5,7,1,0.0,0.0,0.0,none,Moderate Demand
+2023-07-23,196625.0,6,7,1,0.0,0.0,0.0,none,Moderate Demand
+2023-07-24,205996.0,0,7,0,0.0,0.0,0.0,none,Moderate Demand
+2023-07-25,202014.0,1,7,0,0.0,0.0,0.0,none,Moderate Demand
+2023-07-26,200402.0,2,7,0,0.0,0.0,0.0,none,Moderate Demand
+2023-07-27,202085.0,3,7,0,0.0,0.0,0.0,none,Moderate Demand
+2023-07-28,197665.0,4,7,0,0.0,1.0,0.0,Muharram,Moderate Demand
+2023-07-29,192758.0,5,7,1,1.0,0.0,0.0,none,Moderate Demand
+2023-07-30,195133.0,6,7,1,0.0,0.0,1.0,Muharram,Moderate Demand
+2023-07-31,206362.0,0,7,0,0.0,0.0,0.0,none,Moderate Demand
+2023-08-01,206579.0,1,8,0,0.0,0.0,0.0,none,Moderate Demand
+2023-08-02,202247.0,2,8,0,0.0,0.0,0.0,none,Moderate Demand
+2023-08-03,205393.0,3,8,0,0.0,0.0,0.0,none,Moderate Demand
+2023-08-04,206265.0,4,8,0,0.0,0.0,0.0,none,Moderate Demand
+2023-08-05,207385.0,5,8,1,0.0,0.0,0.0,none,Moderate Demand
+2023-08-06,198671.0,6,8,1,0.0,0.0,0.0,none,Moderate Demand
+2023-08-07,209855.0,0,8,0,0.0,0.0,0.0,none,Moderate Demand
+2023-08-08,215457.0,1,8,0,0.0,0.0,0.0,none,Moderate Demand
+2023-08-09,220957.0,2,8,0,0.0,0.0,0.0,none,Moderate Demand
+2023-08-10,224840.0,3,8,0,0.0,0.0,0.0,none,Moderate Demand
+2023-08-11,228963.0,4,8,0,0.0,0.0,0.0,none,Moderate Demand
+2023-08-12,225637.0,5,8,1,0.0,0.0,0.0,none,Moderate Demand
+2023-08-13,219375.0,6,8,1,0.0,1.0,0.0,Independence Day,Moderate Demand
+2023-08-14,227645.0,0,8,0,0.0,1.0,0.0,Independence Day,Moderate Demand
+2023-08-15,214418.0,1,8,0,1.0,0.0,0.0,none,Moderate Demand
+2023-08-16,233032.0,2,8,0,0.0,0.0,1.0,Independence Day,Moderate Demand
+2023-08-17,234058.0,3,8,0,0.0,0.0,1.0,Independence Day,Moderate Demand
+2023-08-18,231611.0,4,8,0,0.0,0.0,0.0,none,Moderate Demand
+2023-08-19,220724.0,5,8,1,0.0,0.0,0.0,none,Moderate Demand
+2023-08-20,214773.0,6,8,1,0.0,0.0,0.0,none,Moderate Demand
+2023-08-21,226242.0,0,8,0,0.0,0.0,0.0,none,Moderate Demand
+2023-08-22,230041.0,1,8,0,0.0,0.0,0.0,none,Moderate Demand
+2023-08-23,216520.0,2,8,0,0.0,0.0,0.0,none,Moderate Demand
+2023-08-24,218998.0,3,8,0,0.0,0.0,0.0,none,Moderate Demand
+2023-08-25,223936.0,4,8,0,0.0,0.0,0.0,none,Moderate Demand
+2023-08-26,224108.0,5,8,1,0.0,0.0,0.0,none,Moderate Demand
+2023-08-27,217926.0,6,8,1,0.0,0.0,0.0,none,Moderate Demand
+2023-08-28,229194.0,0,8,0,0.0,0.0,0.0,none,Moderate Demand
+2023-08-29,233768.0,1,8,0,0.0,0.0,0.0,none,Moderate Demand
+2023-08-30,233289.0,2,8,0,0.0,0.0,0.0,none,Moderate Demand
+2023-08-31,236598.0,3,8,0,0.0,0.0,0.0,none,Moderate Demand
+2023-09-01,239978.0,4,9,0,0.0,0.0,0.0,none,Moderate Demand
+2023-09-02,238620.0,5,9,1,0.0,0.0,0.0,none,Elevated Demand
+2023-09-03,223121.0,6,9,1,0.0,0.0,0.0,none,Elevated Demand
+2023-09-04,226227.0,0,9,0,0.0,1.0,0.0,Janmashtami,Moderate Demand
+2023-09-05,222695.0,1,9,0,0.0,1.0,0.0,Janmashtami,High Demand
+2023-09-06,219272.0,2,9,0,1.0,0.0,0.0,none,High Demand
+2023-09-07,213344.0,3,9,0,0.0,0.0,1.0,Janmashtami,Moderate Demand
+2023-09-08,209280.0,4,9,0,0.0,0.0,1.0,Janmashtami,Moderate Demand
+2023-09-09,205024.0,5,9,1,0.0,0.0,0.0,none,Moderate Demand
+2023-09-10,196402.0,6,9,1,0.0,0.0,0.0,none,Moderate Demand
+2023-09-11,210647.0,0,9,0,0.0,0.0,0.0,none,Moderate Demand
+2023-09-12,212715.0,1,9,0,0.0,0.0,0.0,none,Moderate Demand
+2023-09-13,219070.0,2,9,0,0.0,0.0,0.0,none,Moderate Demand
+2023-09-14,221334.0,3,9,0,0.0,0.0,0.0,none,Moderate Demand
+2023-09-15,210789.0,4,9,0,0.0,0.0,0.0,none,Moderate Demand
+2023-09-16,207986.0,5,9,1,0.0,1.0,0.0,Paryushana / Samvatsari,Moderate Demand
+2023-09-17,188165.0,6,9,1,1.0,0.0,0.0,none,Moderate Demand
+2023-09-18,195709.0,0,9,0,0.0,0.0,1.0,Paryushana / Samvatsari,Moderate Demand
+2023-09-19,198939.0,1,9,0,0.0,0.0,0.0,none,Moderate Demand
+2023-09-20,206441.0,2,9,0,0.0,0.0,0.0,none,Moderate Demand
+2023-09-21,207060.0,3,9,0,0.0,0.0,0.0,none,Moderate Demand
+2023-09-22,202024.0,4,9,0,0.0,0.0,0.0,none,Moderate Demand
+2023-09-23,198935.0,5,9,1,0.0,0.0,0.0,none,Moderate Demand
+2023-09-24,187208.0,6,9,1,0.0,0.0,0.0,none,Moderate Demand
+2023-09-25,200912.0,0,9,0,0.0,0.0,0.0,none,Moderate Demand
+2023-09-26,206715.0,1,9,0,0.0,0.0,0.0,none,Moderate Demand
+2023-09-27,204900.0,2,9,0,0.0,1.0,0.0,Milad-un-Nabi,Moderate Demand
+2023-09-28,205481.0,3,9,0,1.0,0.0,0.0,none,Moderate Demand
+2023-09-29,206542.0,4,9,0,0.0,0.0,1.0,Milad-un-Nabi,Moderate Demand
+2023-09-30,201554.0,5,9,1,0.0,1.0,0.0,Gandhi Jayanti,Moderate Demand
+2023-10-01,191315.0,6,10,1,0.0,1.0,0.0,Gandhi Jayanti,Low Demand
+2023-10-02,190972.0,0,10,0,1.0,0.0,0.0,none,Low Demand
+2023-10-03,201337.0,1,10,0,0.0,0.0,1.0,Gandhi Jayanti,Low Demand
+2023-10-04,203442.0,2,10,0,0.0,0.0,1.0,Gandhi Jayanti,Low Demand
+2023-10-05,207184.0,3,10,0,0.0,0.0,0.0,none,Low Demand
+2023-10-06,211251.0,4,10,0,0.0,0.0,0.0,none,Low Demand
+2023-10-07,211534.0,5,10,1,0.0,0.0,0.0,none,Low Demand
+2023-10-08,210077.0,6,10,1,0.0,0.0,0.0,none,Low Demand
+2023-10-09,219781.0,0,10,0,0.0,0.0,0.0,none,Low Demand
+2023-10-10,221627.0,1,10,0,0.0,0.0,0.0,none,Low Demand
+2023-10-11,220980.0,2,10,0,0.0,0.0,0.0,none,Moderate Demand
+2023-10-12,218918.0,3,10,0,0.0,0.0,0.0,none,Moderate Demand
+2023-10-13,220362.0,4,10,0,0.0,1.0,0.0,Navratri Start,Moderate Demand
+2023-10-14,215858.0,5,10,1,0.0,0.0,0.0,none,Moderate Demand
+2023-10-15,200980.0,6,10,1,1.0,0.0,0.0,none,Moderate Demand
+2023-10-16,206826.0,0,10,0,0.0,0.0,1.0,Navratri Start,Moderate Demand
+2023-10-17,200887.0,1,10,0,0.0,0.0,1.0,Navratri Start,Moderate Demand
+2023-10-18,203357.0,2,10,0,0.0,0.0,0.0,none,Moderate Demand
+2023-10-19,206736.0,3,10,0,0.0,0.0,0.0,none,Moderate Demand
+2023-10-20,209025.0,4,10,0,0.0,0.0,0.0,none,Moderate Demand
+2023-10-21,204716.0,5,10,1,0.0,0.0,0.0,none,Low Demand
+2023-10-22,197037.0,6,10,1,0.0,1.0,0.0,Dussehra,Low Demand
+2023-10-23,199617.0,0,10,0,0.0,1.0,0.0,Dussehra,Low Demand
+2023-10-24,192544.0,1,10,0,1.0,0.0,0.0,none,Low Demand
+2023-10-25,204240.0,2,10,0,0.0,0.0,1.0,Dussehra,Low Demand
+2023-10-26,206927.0,3,10,0,0.0,0.0,1.0,Dussehra,Low Demand
+2023-10-27,207407.0,4,10,0,0.0,0.0,0.0,none,Low Demand
+2023-10-28,206604.0,5,10,1,0.0,0.0,0.0,none,Low Demand
+2023-10-29,197158.0,6,10,1,0.0,0.0,0.0,none,Low Demand
+2023-10-30,204397.0,0,10,0,0.0,0.0,0.0,none,Low Demand
+2023-10-31,203826.0,1,10,0,0.0,0.0,0.0,none,Low Demand
+2023-11-01,203839.0,2,11,0,0.0,0.0,0.0,none,Low Demand
+2023-11-02,203068.0,3,11,0,0.0,0.0,0.0,none,Low Demand
+2023-11-03,204605.0,4,11,0,0.0,0.0,0.0,none,Low Demand
+2023-11-04,201946.0,5,11,1,0.0,0.0,0.0,none,Low Demand
+2023-11-05,192944.0,6,11,1,0.0,0.0,0.0,none,Low Demand
+2023-11-06,198571.0,0,11,0,0.0,0.0,0.0,none,Low Demand
+2023-11-07,196615.0,1,11,0,0.0,0.0,0.0,none,Low Demand
+2023-11-08,197001.0,2,11,0,0.0,1.0,0.0,Dhanteras,Low Demand
+2023-11-09,194095.0,3,11,0,0.0,1.0,0.0,Dhanteras,Low Demand
+2023-11-10,194379.0,4,11,0,1.0,0.0,0.0,none,Low Demand
+2023-11-11,184825.0,5,11,1,1.0,0.0,0.0,none,Low Demand
+2023-11-12,168985.0,6,11,1,1.0,0.0,0.0,none,Low Demand
+2023-11-13,164063.0,0,11,0,0.0,1.0,0.0,Govardhan Puja,Low Demand
+2023-11-14,172997.0,1,11,0,1.0,0.0,0.0,none,Low Demand
+2023-11-15,179300.0,2,11,0,1.0,0.0,0.0,none,Low Demand
+2023-11-16,186130.0,3,11,0,0.0,0.0,1.0,Govardhan Puja,Low Demand
+2023-11-17,193831.0,4,11,0,0.0,0.0,0.0,none,Low Demand
+2023-11-18,195832.0,5,11,1,0.0,0.0,0.0,none,Low Demand
+2023-11-19,190047.0,6,11,1,0.0,0.0,0.0,none,Low Demand
+2023-11-20,197068.0,0,11,0,0.0,0.0,0.0,none,Low Demand
+2023-11-21,197845.0,1,11,0,0.0,0.0,0.0,none,Low Demand
+2023-11-22,196989.0,2,11,0,0.0,0.0,0.0,none,Low Demand
+2023-11-23,196282.0,3,11,0,0.0,0.0,0.0,none,Low Demand
+2023-11-24,198154.0,4,11,0,0.0,0.0,0.0,none,Low Demand
+2023-11-25,194855.0,5,11,1,0.0,1.0,0.0,Guru Nanak Jayanti,Low Demand
+2023-11-26,184198.0,6,11,1,0.0,1.0,0.0,Guru Nanak Jayanti,Low Demand
+2023-11-27,177636.0,0,11,0,1.0,0.0,0.0,none,Low Demand
+2023-11-28,180012.0,1,11,0,0.0,0.0,1.0,Guru Nanak Jayanti,Low Demand
+2023-11-29,181442.0,2,11,0,0.0,0.0,1.0,Guru Nanak Jayanti,Low Demand
+2023-11-30,177582.0,3,11,0,0.0,0.0,0.0,none,Low Demand
+2023-12-01,181216.0,4,12,0,0.0,0.0,0.0,none,Low Demand
+2023-12-02,180646.0,5,12,1,0.0,0.0,0.0,none,Low Demand
+2023-12-03,174165.0,6,12,1,0.0,0.0,0.0,none,Low Demand
+2023-12-04,175512.0,0,12,0,0.0,0.0,0.0,none,Low Demand
+2023-12-05,176479.0,1,12,0,0.0,0.0,0.0,none,Low Demand
+2023-12-06,182116.0,2,12,0,0.0,0.0,0.0,none,Low Demand
+2023-12-07,181948.0,3,12,0,0.0,0.0,0.0,none,Low Demand
+2023-12-08,187684.0,4,12,0,0.0,0.0,0.0,none,Low Demand
+2023-12-09,185527.0,5,12,1,0.0,0.0,0.0,none,Low Demand
+2023-12-10,181865.0,6,12,1,0.0,0.0,0.0,none,Low Demand
+2023-12-11,192307.0,0,12,0,0.0,0.0,0.0,none,Low Demand
+2023-12-12,195651.0,1,12,0,0.0,0.0,0.0,none,Low Demand
+2023-12-13,198520.0,2,12,0,0.0,0.0,0.0,none,Low Demand
+2023-12-14,200564.0,3,12,0,0.0,0.0,0.0,none,Low Demand
+2023-12-16,199275.0,5,12,1,0.0,0.0,0.0,none,Low Demand
+2023-12-17,194911.0,6,12,1,0.0,0.0,0.0,none,Low Demand
+2023-12-18,203058.0,0,12,0,0.0,0.0,0.0,none,Low Demand
+2023-12-19,204239.0,1,12,0,0.0,0.0,0.0,none,Low Demand
+2023-12-20,207427.0,2,12,0,0.0,0.0,0.0,none,Low Demand
+2023-12-21,206140.0,3,12,0,0.0,0.0,0.0,none,Low Demand
+2023-12-22,209760.0,4,12,0,0.0,0.0,0.0,none,Low Demand
+2023-12-23,206815.0,5,12,1,0.0,1.0,0.0,Christmas,Low Demand
+2023-12-24,201253.0,6,12,1,1.0,0.0,0.0,none,Low Demand
+2023-12-25,206421.0,0,12,0,1.0,0.0,0.0,none,Low Demand
+2023-12-26,210024.0,1,12,0,0.0,0.0,1.0,Christmas,Low Demand
+2023-12-27,212097.0,2,12,0,0.0,0.0,1.0,Christmas,Low Demand
+2023-12-28,211417.0,3,12,0,0.0,0.0,0.0,none,Low Demand
+2023-12-29,213620.0,4,12,0,0.0,0.0,0.0,none,Low Demand
+2023-12-30,209381.0,5,12,1,0.0,1.0,0.0,New Year's Eve,Low Demand
+2023-12-31,205249.0,6,12,1,1.0,0.0,0.0,none,Low Demand
+2024-01-01,207953.0,0,1,0,1.0,0.0,0.0,none,Low Demand
+2024-01-02,209524.0,1,1,0,0.0,0.0,1.0,New Year's Day,Low Demand
+2024-01-03,210785.0,2,1,0,0.0,0.0,0.0,none,Low Demand
+2024-01-05,210777.0,4,1,0,0.0,0.0,0.0,none,Low Demand
+2024-01-06,211224.0,5,1,1,0.0,0.0,0.0,none,Low Demand
+2024-01-07,203047.0,6,1,1,0.0,0.0,0.0,none,Low Demand
+2024-01-08,204828.0,0,1,0,0.0,0.0,0.0,none,Low Demand
+2024-01-09,207039.0,1,1,0,0.0,0.0,0.0,none,Low Demand
+2024-01-10,212121.0,2,1,0,0.0,0.0,0.0,none,Low Demand
+2024-01-11,215228.0,3,1,0,0.0,0.0,0.0,none,Low Demand
+2024-01-12,219800.0,4,1,0,0.0,0.0,0.0,none,Low Demand
+2024-01-13,217645.0,5,1,1,0.0,1.0,0.0,Makar Sankranti / Pongal,Elevated Demand
+2024-01-14,207217.0,6,1,1,0.0,1.0,0.0,Makar Sankranti / Pongal,Elevated Demand
+2024-01-15,212774.0,0,1,0,1.0,0.0,0.0,none,Low Demand
+2024-01-16,215183.0,1,1,0,0.0,0.0,1.0,Makar Sankranti / Pongal,High Demand
+2024-01-17,214411.0,2,1,0,0.0,0.0,0.0,none,High Demand
+2024-01-18,214834.0,3,1,0,0.0,0.0,0.0,none,High Demand
+2024-01-19,219640.0,4,1,0,0.0,0.0,0.0,none,Elevated Demand
+2024-01-20,218071.0,5,1,1,0.0,0.0,0.0,none,Elevated Demand
+2024-01-21,213206.0,6,1,1,0.0,0.0,0.0,none,Elevated Demand
+2024-01-22,221330.0,0,1,0,0.0,0.0,0.0,none,Elevated Demand
+2024-01-23,217114.0,1,1,0,0.0,0.0,0.0,none,High Demand
+2024-01-24,217134.0,2,1,0,0.0,1.0,0.0,Republic Day,High Demand
+2024-01-25,222327.0,3,1,0,0.0,1.0,0.0,Republic Day,High Demand
+2024-01-26,215128.0,4,1,0,1.0,0.0,0.0,none,Elevated Demand
+2024-01-27,219550.0,5,1,1,0.0,0.0,1.0,Republic Day,Elevated Demand
+2024-01-28,215887.0,6,1,1,0.0,0.0,1.0,Republic Day,Elevated Demand
+2024-01-29,222283.0,0,1,0,0.0,0.0,0.0,none,Elevated Demand
+2024-01-30,219094.0,1,1,0,0.0,0.0,0.0,none,High Demand
+2024-01-31,220092.0,2,1,0,0.0,0.0,0.0,none,High Demand
+2024-02-01,211794.0,3,2,0,0.0,0.0,0.0,none,High Demand
+2024-02-02,218600.0,4,2,0,0.0,0.0,0.0,none,Elevated Demand
+2024-02-03,214106.0,5,2,1,0.0,0.0,0.0,none,Elevated Demand
+2024-02-04,206344.0,6,2,1,0.0,0.0,0.0,none,Elevated Demand
+2024-02-05,214108.0,0,2,0,0.0,0.0,0.0,none,Elevated Demand
+2024-02-06,215684.0,1,2,0,0.0,0.0,0.0,none,High Demand
+2024-02-07,216413.0,2,2,0,0.0,0.0,0.0,none,High Demand
+2024-02-08,217272.0,3,2,0,0.0,0.0,0.0,none,High Demand
+2024-02-09,220140.0,4,2,0,0.0,0.0,0.0,none,Elevated Demand
+2024-02-10,216992.0,5,2,1,0.0,0.0,0.0,none,Elevated Demand
+2024-02-11,210290.0,6,2,1,0.0,0.0,0.0,none,Elevated Demand
+2024-02-12,217018.0,0,2,0,0.0,0.0,0.0,none,Elevated Demand
+2024-02-13,218065.0,1,2,0,0.0,0.0,0.0,none,High Demand
+2024-02-14,220547.0,2,2,0,0.0,0.0,0.0,none,High Demand
+2024-02-15,219502.0,3,2,0,0.0,0.0,0.0,none,High Demand
+2024-02-16,221986.0,4,2,0,0.0,0.0,0.0,none,Elevated Demand
+2024-02-17,218656.0,5,2,1,0.0,0.0,0.0,none,Elevated Demand
+2024-02-18,211372.0,6,2,1,0.0,0.0,0.0,none,Elevated Demand
+2024-02-19,213775.0,0,2,0,0.0,0.0,0.0,none,Elevated Demand
+2024-02-20,216812.0,1,2,0,0.0,0.0,0.0,none,High Demand
+2024-02-21,215966.0,2,2,0,0.0,0.0,0.0,none,High Demand
+2024-02-22,217388.0,3,2,0,0.0,0.0,0.0,none,High Demand
+2024-02-23,222003.0,4,2,0,0.0,0.0,0.0,none,Elevated Demand
+2024-02-24,219478.0,5,2,1,0.0,1.0,0.0,Shab-e-Barat,Elevated Demand
+2024-02-25,214554.0,6,2,1,1.0,0.0,0.0,none,Elevated Demand
+2024-02-26,219480.0,0,2,0,0.0,0.0,1.0,Shab-e-Barat,Elevated Demand
+2024-02-27,219272.0,1,2,0,0.0,0.0,0.0,none,High Demand
+2024-02-28,218553.0,2,2,0,0.0,0.0,0.0,none,High Demand
+2024-02-29,218040.0,3,2,0,0.0,0.0,0.0,none,High Demand
+2024-03-01,219075.0,4,3,0,0.0,0.0,0.0,none,Elevated Demand
+2024-03-02,203128.0,5,3,1,0.0,0.0,0.0,none,Elevated Demand
+2024-03-03,193298.0,6,3,1,0.0,0.0,0.0,none,Elevated Demand
+2024-03-04,206560.0,0,3,0,0.0,0.0,0.0,none,Elevated Demand
+2024-03-05,211528.0,1,3,0,0.0,0.0,0.0,none,High Demand
+2024-03-06,213020.0,2,3,0,0.0,1.0,0.0,Maha Shivaratri,High Demand
+2024-03-07,214946.0,3,3,0,0.0,1.0,0.0,Maha Shivaratri,High Demand
+2024-03-08,219016.0,4,3,0,1.0,0.0,0.0,none,Elevated Demand
+2024-03-09,212226.0,5,3,1,0.0,0.0,1.0,Maha Shivaratri,Elevated Demand
+2024-03-10,206220.0,6,3,1,0.0,0.0,1.0,Maha Shivaratri,Elevated Demand
+2024-03-11,217995.48701985675,0,3,0,0.0,0.0,0.0,none,Elevated Demand
+2024-03-12,218897.0,1,3,0,0.0,0.0,0.0,none,High Demand
+2024-03-13,220555.0,2,3,0,0.0,0.0,0.0,none,High Demand
+2024-03-14,217549.58251953125,3,3,0,0.0,0.0,0.0,none,High Demand
+2024-03-15,221701.0,4,3,0,0.0,0.0,0.0,none,Elevated Demand
+2024-03-16,217346.0,5,3,1,0.0,0.0,0.0,none,Elevated Demand
+2024-03-17,205066.0,6,3,1,0.0,0.0,0.0,none,Elevated Demand
+2024-03-18,218272.0,0,3,0,0.0,0.0,0.0,none,Elevated Demand
+2024-03-19,215800.0,1,3,0,0.0,0.0,0.0,none,High Demand
+2024-03-20,212150.0,2,3,0,0.0,0.0,0.0,none,High Demand
+2024-03-21,208363.0,3,3,0,0.0,0.0,0.0,none,High Demand
+2024-03-22,214313.0,4,3,0,0.0,1.0,0.0,Holika Dahan,Elevated Demand
+2024-03-23,211750.0,5,3,1,0.0,1.0,0.0,Holi,Elevated Demand
+2024-03-24,199723.0,6,3,1,1.0,0.0,0.0,none,Elevated Demand
+2024-03-25,182600.0,0,3,0,1.0,0.0,0.0,none,Elevated Demand
+2024-03-26,202753.0,1,3,0,0.0,0.0,1.0,Holika Dahan,High Demand
+2024-03-27,211199.0,2,3,0,0.0,1.0,0.0,Good Friday,High Demand
+2024-03-28,215341.0,3,3,0,0.0,1.0,0.0,Good Friday,High Demand
+2024-03-29,219734.0,4,3,0,1.0,0.0,0.0,none,Elevated Demand
+2024-03-30,213485.0,5,3,1,0.0,1.0,0.0,Easter Sunday,Elevated Demand
+2024-03-31,201533.0,6,3,1,1.0,0.0,0.0,none,Elevated Demand
+2024-04-01,207269.0,0,4,0,0.0,0.0,1.0,Easter Sunday,Elevated Demand
+2024-04-02,209499.0,1,4,0,0.0,0.0,0.0,none,High Demand
+2024-04-03,212896.0,2,4,0,0.0,0.0,0.0,none,High Demand
+2024-04-04,216469.0,3,4,0,0.0,0.0,0.0,none,High Demand
+2024-04-05,218365.0,4,4,0,0.0,0.0,0.0,none,Elevated Demand
+2024-04-06,215883.0,5,4,1,0.0,0.0,0.0,none,Elevated Demand
+2024-04-07,204312.0,6,4,1,0.0,0.0,0.0,none,Elevated Demand
+2024-04-08,209699.0,0,4,0,0.0,0.0,0.0,none,Elevated Demand
+2024-04-09,208147.0,1,4,0,0.0,0.0,0.0,none,High Demand
+2024-04-10,209647.0,2,4,0,0.0,1.0,0.0,Eid ul Fitr,High Demand
+2024-04-11,204821.0,3,4,0,1.0,0.0,0.0,none,High Demand
+2024-04-12,206122.0,4,4,0,0.0,1.0,0.0,Ambedkar Jayanti,Elevated Demand
+2024-04-13,201608.0,5,4,1,0.0,0.0,0.0,none,Elevated Demand
+2024-04-14,195636.0,6,4,1,1.0,0.0,0.0,none,Elevated Demand
+2024-04-15,210339.0,0,4,0,0.0,1.0,0.0,Ram Navami,Elevated Demand
+2024-04-16,214955.0,1,4,0,0.0,1.0,0.0,Ram Navami,High Demand
+2024-04-17,212363.0,2,4,0,1.0,0.0,0.0,none,High Demand
+2024-04-18,214072.0,3,4,0,0.0,0.0,1.0,Ram Navami,High Demand
+2024-04-19,214645.0,4,4,0,0.0,0.0,1.0,Ram Navami,Elevated Demand
+2024-04-20,212500.0,5,4,1,0.0,1.0,0.0,Mahavir Jayanti,Elevated Demand
+2024-04-21,209885.0,6,4,1,1.0,0.0,0.0,none,Elevated Demand
+2024-04-22,213853.0,0,4,0,0.0,1.0,0.0,Hanuman Jayanti,Elevated Demand
+2024-04-23,211877.0,1,4,0,1.0,0.0,0.0,none,High Demand
+2024-04-24,218109.0,2,4,0,0.0,0.0,1.0,Hanuman Jayanti,High Demand
+2024-04-25,222006.0,3,4,0,0.0,0.0,0.0,none,High Demand
+2024-04-26,217029.0,4,4,0,0.0,0.0,0.0,none,Elevated Demand
+2024-04-27,222968.0,5,4,1,0.0,0.0,0.0,none,Elevated Demand
+2024-04-28,214119.0,6,4,1,0.0,0.0,0.0,none,Elevated Demand
+2024-04-29,223110.0,0,4,0,0.0,1.0,0.0,Labour Day,Elevated Demand
+2024-04-30,224181.0,1,4,0,0.0,1.0,0.0,Labour Day,High Demand
+2024-05-01,219379.0,2,5,0,1.0,0.0,0.0,none,High Demand
+2024-05-02,222034.0,3,5,0,0.0,0.0,1.0,Labour Day,High Demand
+2024-05-03,223849.0,4,5,0,0.0,0.0,1.0,Labour Day,Elevated Demand
+2024-05-04,229778.0,5,5,1,0.0,0.0,0.0,none,Elevated Demand
+2024-05-05,218085.0,6,5,1,0.0,0.0,0.0,none,Elevated Demand
+2024-05-06,233007.0,0,5,0,0.0,0.0,0.0,none,Elevated Demand
+2024-05-07,224744.0,1,5,0,0.0,0.0,0.0,none,High Demand
+2024-05-08,223816.0,2,5,0,0.0,0.0,0.0,none,High Demand
+2024-05-09,219387.0,3,5,0,0.0,1.0,0.0,Akshaya Tritiya,High Demand
+2024-05-10,223524.0,4,5,0,1.0,0.0,0.0,none,Elevated Demand
+2024-05-11,216337.0,5,5,1,0.0,0.0,1.0,Akshaya Tritiya,Elevated Demand
+2024-05-12,206852.0,6,5,1,0.0,0.0,0.0,none,Elevated Demand
+2024-05-13,216992.0,0,5,0,0.0,0.0,0.0,none,Elevated Demand
+2024-05-14,220332.0,1,5,0,0.0,0.0,0.0,none,High Demand
+2024-05-15,226152.0,2,5,0,0.0,0.0,0.0,none,High Demand
+2024-05-16,226371.0,3,5,0,0.0,0.0,0.0,none,High Demand
+2024-05-17,225926.0,4,5,0,0.0,0.0,0.0,none,Elevated Demand
+2024-05-18,229578.0,5,5,1,0.0,0.0,0.0,none,Elevated Demand
+2024-05-19,218499.0,6,5,1,0.0,0.0,0.0,none,Elevated Demand
+2024-05-20,228719.0,0,5,0,0.0,0.0,0.0,none,Elevated Demand
+2024-05-21,233806.0,1,5,0,0.0,0.0,0.0,none,High Demand
+2024-05-22,235062.0,2,5,0,0.0,1.0,0.0,Buddha Purnima,High Demand
+2024-05-23,236597.0,3,5,0,1.0,0.0,0.0,none,High Demand
+2024-05-24,239963.0,4,5,0,0.0,0.0,1.0,Buddha Purnima,Elevated Demand
+2024-05-25,233979.0,5,5,1,0.0,0.0,0.0,none,Elevated Demand
+2024-05-26,222114.0,6,5,1,0.0,0.0,0.0,none,Elevated Demand
+2024-05-27,232615.0,0,5,0,0.0,0.0,0.0,none,Elevated Demand
+2024-05-28,237946.0,1,5,0,0.0,0.0,0.0,none,High Demand
+2024-05-29,246069.0,2,5,0,0.0,0.0,0.0,none,High Demand
+2024-05-30,250070.0,3,5,0,0.0,0.0,0.0,none,High Demand
+2024-05-31,249159.0,4,5,0,0.0,0.0,0.0,none,Elevated Demand
+2024-06-01,245419.0,5,6,1,0.0,0.0,0.0,none,Elevated Demand
+2024-06-02,225900.0,6,6,1,0.0,0.0,0.0,none,Elevated Demand
+2024-06-03,236379.0,0,6,0,0.0,0.0,0.0,none,Elevated Demand
+2024-06-04,240890.0,1,6,0,0.0,0.0,0.0,none,High Demand
+2024-06-05,238588.0,2,6,0,0.0,0.0,0.0,none,High Demand
+2024-06-06,230073.0,3,6,0,0.0,0.0,0.0,none,High Demand
+2024-06-07,231951.0,4,6,0,0.0,0.0,0.0,none,Elevated Demand
+2024-06-08,224763.0,5,6,1,0.0,0.0,0.0,none,Elevated Demand
+2024-06-09,217242.0,6,6,1,0.0,0.0,0.0,none,Elevated Demand
+2024-06-10,228617.0,0,6,0,0.0,0.0,0.0,none,Elevated Demand
+2024-06-11,231017.0,1,6,0,0.0,0.0,0.0,none,High Demand
+2024-06-12,233391.0,2,6,0,0.0,0.0,0.0,none,High Demand
+2024-06-13,234856.0,3,6,0,0.0,0.0,0.0,none,High Demand
+2024-06-14,233615.0,4,6,0,0.0,0.0,0.0,none,Elevated Demand
+2024-06-15,238957.0,5,6,1,0.0,1.0,0.0,Eid ul Adha,Elevated Demand
+2024-06-16,231161.0,6,6,1,0.0,1.0,0.0,Eid ul Adha,Elevated Demand
+2024-06-17,240135.0,0,6,0,1.0,0.0,0.0,none,Elevated Demand
+2024-06-18,239329.0,1,6,0,0.0,0.0,1.0,Eid ul Adha,High Demand
+2024-06-19,239060.0,2,6,0,0.0,0.0,1.0,Eid ul Adha,High Demand
+2024-06-20,229780.0,3,6,0,0.0,0.0,0.0,none,High Demand
+2024-06-21,227661.0,4,6,0,0.0,0.0,0.0,none,Elevated Demand
+2024-06-22,226637.0,5,6,1,0.0,0.0,0.0,none,Elevated Demand
+2024-06-23,216260.0,6,6,1,0.0,0.0,0.0,none,Elevated Demand
+2024-06-24,227001.0,0,6,0,0.0,0.0,0.0,none,Elevated Demand
+2024-06-25,230598.0,1,6,0,0.0,0.0,0.0,none,High Demand
+2024-06-26,224164.0,2,6,0,0.0,0.0,0.0,none,High Demand
+2024-06-27,216122.0,3,6,0,0.0,0.0,0.0,none,High Demand
+2024-06-28,215592.0,4,6,0,0.0,0.0,0.0,none,Elevated Demand
+2024-06-29,212167.0,5,6,1,0.0,0.0,0.0,none,Elevated Demand
+2024-06-30,205936.0,6,6,1,0.0,0.0,0.0,none,Elevated Demand
+2024-07-01,208851.0,0,7,0,0.0,0.0,0.0,none,Moderate Demand
+2024-07-02,209923.0,1,7,0,0.0,0.0,0.0,none,Moderate Demand
+2024-07-03,206103.0,2,7,0,0.0,0.0,0.0,none,High Demand
+2024-07-04,207180.0,3,7,0,0.0,0.0,0.0,none,Moderate Demand
+2024-07-05,208631.0,4,7,0,0.0,0.0,0.0,none,Moderate Demand
+2024-07-06,198666.0,5,7,1,0.0,0.0,0.0,none,Moderate Demand
+2024-07-07,197965.0,6,7,1,0.0,0.0,0.0,none,Moderate Demand
+2024-07-08,210502.0,0,7,0,0.0,0.0,0.0,none,Moderate Demand
+2024-07-09,214980.0,1,7,0,0.0,0.0,0.0,none,Moderate Demand
+2024-07-10,217154.0,2,7,0,0.0,0.0,0.0,none,Moderate Demand
+2024-07-11,221080.0,3,7,0,0.0,0.0,0.0,none,Moderate Demand
+2024-07-12,214275.0,4,7,0,0.0,0.0,0.0,none,Moderate Demand
+2024-07-13,213329.0,5,7,1,0.0,0.0,0.0,none,Moderate Demand
+2024-07-14,209018.0,6,7,1,0.0,0.0,0.0,none,Moderate Demand
+2024-07-15,214557.0,0,7,0,0.0,0.0,0.0,none,Moderate Demand
+2024-07-16,217380.0,1,7,0,0.0,1.0,0.0,Muharram,Moderate Demand
+2024-07-17,219587.0,2,7,0,1.0,0.0,0.0,none,High Demand
+2024-07-18,218161.0,3,7,0,0.0,0.0,1.0,Muharram,Moderate Demand
+2024-07-19,215795.0,4,7,0,0.0,0.0,0.0,none,Moderate Demand
+2024-07-20,214749.0,5,7,1,0.0,1.0,0.0,Guru Purnima,Moderate Demand
+2024-07-21,207822.0,6,7,1,1.0,0.0,0.0,none,Moderate Demand
+2024-07-22,217922.0,0,7,0,0.0,0.0,1.0,Guru Purnima,Moderate Demand
+2024-07-23,215216.0,1,7,0,0.0,0.0,0.0,none,Moderate Demand
+2024-07-24,212149.0,2,7,0,0.0,0.0,0.0,none,Moderate Demand
+2024-07-25,212527.0,3,7,0,0.0,0.0,0.0,none,Moderate Demand
+2024-07-26,212835.0,4,7,0,0.0,0.0,0.0,none,Moderate Demand
+2024-07-27,211521.0,5,7,1,0.0,0.0,0.0,none,Moderate Demand
+2024-07-28,207538.0,6,7,1,0.0,0.0,0.0,none,Moderate Demand
+2024-07-29,223084.0,0,7,0,0.0,0.0,0.0,none,Moderate Demand
+2024-07-30,226630.0,1,7,0,0.0,0.0,0.0,none,Moderate Demand
+2024-07-31,225361.0,2,7,0,0.0,0.0,0.0,none,Moderate Demand
+2024-08-01,205428.0,3,8,0,0.0,0.0,0.0,none,Moderate Demand
+2024-08-02,200005.0,4,8,0,0.0,0.0,0.0,none,Moderate Demand
+2024-08-03,200225.0,5,8,1,0.0,0.0,0.0,none,Moderate Demand
+2024-08-04,195676.0,6,8,1,0.0,0.0,0.0,none,Moderate Demand
+2024-08-05,208736.0,0,8,0,0.0,0.0,0.0,none,Moderate Demand
+2024-08-06,206522.0,1,8,0,0.0,0.0,0.0,none,Moderate Demand
+2024-08-07,206147.0,2,8,0,0.0,0.0,0.0,none,Moderate Demand
+2024-08-08,208742.0,3,8,0,0.0,0.0,0.0,none,Moderate Demand
+2024-08-09,207395.0,4,8,0,0.0,0.0,0.0,none,Moderate Demand
+2024-08-10,206434.0,5,8,1,0.0,0.0,0.0,none,Moderate Demand
+2024-08-11,195244.0,6,8,1,0.0,0.0,0.0,none,Moderate Demand
+2024-08-12,206248.0,0,8,0,0.0,0.0,0.0,none,Moderate Demand
+2024-08-13,208297.0,1,8,0,0.0,1.0,0.0,Independence Day,Moderate Demand
+2024-08-14,215360.0,2,8,0,0.0,1.0,0.0,Independence Day,Moderate Demand
+2024-08-15,201364.0,3,8,0,1.0,0.0,0.0,none,Moderate Demand
+2024-08-16,216685.0,4,8,0,0.0,0.0,1.0,Independence Day,Moderate Demand
+2024-08-17,214688.0,5,8,1,0.0,0.0,1.0,Independence Day,Moderate Demand
+2024-08-18,205478.0,6,8,1,0.0,0.0,0.0,none,Moderate Demand
+2024-08-19,207670.0,0,8,0,0.0,0.0,0.0,none,Moderate Demand
+2024-08-20,208948.0,1,8,0,0.0,0.0,0.0,none,Moderate Demand
+2024-08-21,212020.0,2,8,0,0.0,0.0,0.0,none,Moderate Demand
+2024-08-22,214451.0,3,8,0,0.0,0.0,0.0,none,Moderate Demand
+2024-08-23,211407.0,4,8,0,0.0,0.0,0.0,none,Moderate Demand
+2024-08-24,205462.0,5,8,1,0.0,1.0,0.0,Janmashtami,Moderate Demand
+2024-08-25,194416.0,6,8,1,0.0,1.0,0.0,Janmashtami,Moderate Demand
+2024-08-26,202182.0,0,8,0,1.0,0.0,0.0,none,Moderate Demand
+2024-08-27,200088.0,1,8,0,0.0,0.0,1.0,Janmashtami,Moderate Demand
+2024-08-28,207078.0,2,8,0,0.0,0.0,1.0,Janmashtami,Moderate Demand
+2024-08-29,202730.0,3,8,0,0.0,0.0,0.0,none,Moderate Demand
+2024-08-30,208965.0,4,8,0,0.0,0.0,0.0,none,Moderate Demand
+2024-08-31,206996.0,5,8,1,0.0,0.0,0.0,none,Moderate Demand
+2024-09-01,195901.0,6,9,1,0.0,0.0,0.0,none,Moderate Demand
+2024-09-02,206355.0,0,9,0,0.0,0.0,0.0,none,Moderate Demand
+2024-09-03,206761.0,1,9,0,0.0,0.0,0.0,none,Moderate Demand
+2024-09-04,205849.0,2,9,0,0.0,0.0,0.0,none,Moderate Demand
+2024-09-05,209151.0,3,9,0,0.0,0.0,0.0,none,Moderate Demand
+2024-09-06,209261.0,4,9,0,1.0,0.0,0.0,none,Moderate Demand
+2024-09-07,201232.0,5,9,1,0.0,0.0,0.0,none,Moderate Demand
+2024-09-08,198487.0,6,9,1,0.0,0.0,0.0,none,Moderate Demand
+2024-09-09,210939.0,0,9,0,0.0,0.0,0.0,none,Moderate Demand
+2024-09-10,211214.0,1,9,0,0.0,0.0,0.0,none,Moderate Demand
+2024-09-11,207171.0,2,9,0,0.0,0.0,0.0,none,Moderate Demand
+2024-09-12,205187.0,3,9,0,0.0,0.0,0.0,none,Moderate Demand
+2024-09-13,204090.0,4,9,0,0.0,0.0,0.0,none,Moderate Demand
+2024-09-14,205159.0,5,9,1,0.0,0.0,0.0,none,Moderate Demand
+2024-09-15,196192.0,6,9,1,0.0,1.0,0.0,Milad-un-Nabi,Moderate Demand
+2024-09-16,209172.0,0,9,0,1.0,0.0,0.0,none,Moderate Demand
+2024-09-17,207620.0,1,9,0,0.0,0.0,0.0,none,Moderate Demand
+2024-09-18,213926.0,2,9,0,0.0,0.0,0.0,none,Moderate Demand
+2024-09-19,217271.0,3,9,0,0.0,0.0,0.0,none,Moderate Demand
+2024-09-20,227048.0,4,9,0,0.0,0.0,0.0,none,Moderate Demand
+2024-09-21,224585.0,5,9,1,0.0,0.0,0.0,none,Moderate Demand
+2024-09-22,216244.0,6,9,1,0.0,0.0,0.0,none,Moderate Demand
+2024-09-23,230608.0,0,9,0,0.0,0.0,0.0,none,Moderate Demand
+2024-09-24,226855.0,1,9,0,0.0,0.0,0.0,none,Moderate Demand
+2024-09-25,218867.0,2,9,0,0.0,0.0,0.0,none,Moderate Demand
+2024-09-26,208876.0,3,9,0,0.0,0.0,0.0,none,Moderate Demand
+2024-09-27,205506.0,4,9,0,0.0,0.0,0.0,none,Moderate Demand
+2024-09-28,203594.0,5,9,1,0.0,0.0,0.0,none,Moderate Demand
+2024-09-29,200239.0,6,9,1,0.0,0.0,0.0,none,Moderate Demand
+2024-09-30,214228.0,0,9,0,0.0,1.0,0.0,Gandhi Jayanti,Moderate Demand
+2024-10-01,217592.0,1,10,0,0.0,1.0,0.0,Navratri Start,Moderate Demand
+2024-10-02,207589.0,2,10,0,1.0,0.0,0.0,none,Moderate Demand
+2024-10-03,219222.0,3,10,0,1.0,0.0,0.0,none,Moderate Demand
+2024-10-04,218945.0,4,10,0,0.0,0.0,1.0,Gandhi Jayanti,Moderate Demand
+2024-10-05,215149.0,5,10,1,0.0,0.0,1.0,Navratri Start,Moderate Demand
+2024-10-06,204673.0,6,10,1,0.0,0.0,0.0,none,Moderate Demand
+2024-10-07,215437.0,0,10,0,0.0,0.0,0.0,none,Moderate Demand
+2024-10-08,216337.0,1,10,0,0.0,0.0,0.0,none,Moderate Demand
+2024-10-09,217069.0,2,10,0,0.0,0.0,0.0,none,Moderate Demand
+2024-10-10,212099.0,3,10,0,0.0,1.0,0.0,Dussehra,Moderate Demand
+2024-10-11,203059.0,4,10,0,0.0,1.0,0.0,Dussehra,Moderate Demand
+2024-10-12,186976.0,5,10,1,1.0,0.0,0.0,none,Moderate Demand
+2024-10-13,190081.0,6,10,1,0.0,0.0,1.0,Dussehra,Moderate Demand
+2024-10-15,205066.0,1,10,0,0.0,0.0,0.0,none,Moderate Demand
+2024-10-16,203927.0,2,10,0,0.0,0.0,0.0,none,Moderate Demand
+2024-10-17,207772.0,3,10,0,0.0,0.0,0.0,none,Moderate Demand
+2024-10-18,208270.0,4,10,0,0.0,0.0,0.0,none,Moderate Demand
+2024-10-19,204916.0,5,10,1,0.0,0.0,0.0,none,Moderate Demand
+2024-10-20,194819.0,6,10,1,0.0,0.0,0.0,none,Moderate Demand
+2024-10-21,207132.0,0,10,0,0.0,0.0,0.0,none,Low Demand
+2024-10-22,208179.0,1,10,0,0.0,0.0,0.0,none,Low Demand
+2024-10-23,207903.0,2,10,0,0.0,0.0,0.0,none,Low Demand
+2024-10-24,204598.0,3,10,0,0.0,0.0,0.0,none,Low Demand
+2024-10-25,202651.0,4,10,0,0.0,0.0,0.0,none,Low Demand
+2024-10-26,203851.0,5,10,1,0.0,0.0,0.0,none,Low Demand
+2024-10-27,194669.0,6,10,1,0.0,1.0,0.0,Dhanteras,Low Demand
+2024-10-28,206496.0,0,10,0,0.0,1.0,0.0,Dhanteras,Low Demand
+2024-10-29,208562.0,1,10,0,1.0,0.0,0.0,none,Low Demand
+2024-10-30,205696.0,2,10,0,0.0,1.0,0.0,Diwali,Low Demand
+2024-10-31,182870.0,3,10,0,1.0,0.0,0.0,none,Low Demand
+2024-11-01,171519.0,4,11,0,1.0,0.0,0.0,none,Low Demand
+2024-11-02,173372.0,5,11,1,1.0,0.0,0.0,none,Low Demand
+2024-11-03,171952.0,6,11,1,1.0,0.0,0.0,none,Low Demand
+2024-11-04,189942.0,0,11,0,0.0,0.0,1.0,Govardhan Puja,Low Demand
+2024-11-05,194137.0,1,11,0,0.0,0.0,0.0,none,Low Demand
+2024-11-06,198374.0,2,11,0,0.0,0.0,0.0,none,Low Demand
+2024-11-07,199121.0,3,11,0,0.0,0.0,0.0,none,Low Demand
+2024-11-08,199924.0,4,11,0,0.0,0.0,0.0,none,Low Demand
+2024-11-09,198426.0,5,11,1,0.0,0.0,0.0,none,Low Demand
+2024-11-10,191376.0,6,11,1,0.0,0.0,0.0,none,Low Demand
+2024-11-11,201924.0,0,11,0,0.0,0.0,0.0,none,Low Demand
+2024-11-12,201977.0,1,11,0,0.0,0.0,0.0,none,Low Demand
+2024-11-13,199261.0,2,11,0,0.0,1.0,0.0,Guru Nanak Jayanti,Low Demand
+2024-11-14,199347.0,3,11,0,0.0,1.0,0.0,Guru Nanak Jayanti,Low Demand
+2024-11-15,200165.0,4,11,0,1.0,0.0,0.0,none,Low Demand
+2024-11-16,194384.0,5,11,1,0.0,0.0,1.0,Guru Nanak Jayanti,Low Demand
+2024-11-17,185797.0,6,11,1,0.0,0.0,1.0,Guru Nanak Jayanti,Low Demand
+2024-11-18,195580.0,0,11,0,0.0,0.0,0.0,none,Low Demand
+2024-11-19,197349.0,1,11,0,0.0,0.0,0.0,none,Low Demand
+2024-11-20,196812.0,2,11,0,0.0,0.0,0.0,none,Low Demand
+2024-11-21,199420.0,3,11,0,0.0,0.0,0.0,none,Low Demand
+2024-11-22,203813.0,4,11,0,0.0,0.0,0.0,none,Low Demand
+2024-11-23,203771.0,5,11,1,0.0,0.0,0.0,none,Low Demand
+2024-11-24,196507.0,6,11,1,0.0,0.0,0.0,none,Low Demand
+2024-11-25,203846.0,0,11,0,0.0,0.0,0.0,none,Low Demand
+2024-11-26,203890.0,1,11,0,0.0,0.0,0.0,none,Low Demand
+2024-11-27,202356.0,2,11,0,0.0,0.0,0.0,none,Low Demand
+2024-11-28,203102.0,3,11,0,0.0,0.0,0.0,none,Low Demand
+2024-11-29,207429.0,4,11,0,0.0,0.0,0.0,none,Low Demand
+2024-11-30,205301.0,5,11,1,0.0,0.0,0.0,none,Low Demand
+2024-12-01,194277.0,6,12,1,0.0,0.0,0.0,none,Low Demand
+2024-12-02,202959.0,0,12,0,0.0,0.0,0.0,none,Low Demand
+2024-12-03,202180.0,1,12,0,0.0,0.0,0.0,none,Low Demand
+2024-12-04,204287.0,2,12,0,0.0,0.0,0.0,none,Low Demand
+2024-12-05,205860.0,3,12,0,0.0,0.0,0.0,none,Low Demand
+2024-12-06,208017.0,4,12,0,0.0,0.0,0.0,none,Low Demand
+2024-12-07,205207.0,5,12,1,0.0,0.0,0.0,none,Low Demand
+2024-12-08,200033.0,6,12,1,0.0,0.0,0.0,none,Low Demand
+2024-12-09,206182.0,0,12,0,0.0,0.0,0.0,none,Low Demand
+2024-12-10,210581.0,1,12,0,0.0,0.0,0.0,none,Low Demand
+2024-12-11,211191.0,2,12,0,0.0,0.0,0.0,none,Low Demand
+2024-12-12,211751.0,3,12,0,0.0,0.0,0.0,none,Low Demand
+2024-12-13,213941.0,4,12,0,0.0,0.0,0.0,none,Low Demand
+2024-12-14,210497.0,5,12,1,0.0,0.0,0.0,none,Low Demand
+2024-12-15,205080.0,6,12,1,0.0,0.0,0.0,none,Low Demand
+2024-12-16,212807.0,0,12,0,0.0,0.0,0.0,none,Low Demand
+2024-12-17,217258.0,1,12,0,0.0,0.0,0.0,none,Low Demand
+2024-12-18,217753.0,2,12,0,0.0,0.0,0.0,none,Low Demand
+2024-12-19,219721.0,3,12,0,0.0,0.0,0.0,none,Low Demand
+2024-12-20,224169.0,4,12,0,0.0,0.0,0.0,none,Low Demand
+2024-12-21,218790.0,5,12,1,0.0,0.0,0.0,none,Low Demand
+2024-12-22,211807.0,6,12,1,0.0,0.0,0.0,none,Low Demand
+2024-12-23,216168.0,0,12,0,0.0,1.0,0.0,Christmas,Low Demand
+2024-12-24,218812.0,1,12,0,1.0,0.0,0.0,none,Low Demand
+2024-12-25,220225.0,2,12,0,1.0,0.0,0.0,none,High Demand
+2024-12-26,218593.0,3,12,0,0.0,0.0,1.0,Christmas,High Demand
+2024-12-27,210819.0,4,12,0,0.0,0.0,1.0,Christmas,Low Demand
+2024-12-28,197742.0,5,12,1,0.0,0.0,0.0,none,Elevated Demand
+2024-12-29,199497.0,6,12,1,0.0,0.0,0.0,none,Low Demand
+2025-01-01,214654.0,2,1,0,1.0,0.0,0.0,none,High Demand
+2025-01-02,215044.0,3,1,0,0.0,0.0,1.0,New Year's Day,High Demand
+2025-01-03,221646.0,4,1,0,0.0,0.0,0.0,none,Elevated Demand
+2025-01-04,219312.0,5,1,1,0.0,0.0,0.0,none,Elevated Demand
+2025-01-05,213661.0,6,1,1,0.0,0.0,0.0,none,Elevated Demand
+2025-01-06,223964.0,0,1,0,0.0,0.0,0.0,none,Elevated Demand
+2025-01-07,228072.0,1,1,0,0.0,0.0,0.0,none,High Demand
+2025-01-08,227199.0,2,1,0,0.0,0.0,0.0,none,High Demand
+2025-01-09,226967.0,3,1,0,0.0,0.0,0.0,none,High Demand
+2025-01-10,230846.0,4,1,0,0.0,0.0,0.0,none,Elevated Demand
+2025-01-11,226006.0,5,1,1,0.0,0.0,0.0,none,Elevated Demand
+2025-01-12,214043.0,6,1,1,0.0,1.0,0.0,Makar Sankranti / Pongal,Elevated Demand
+2025-01-13,220650.0,0,1,0,0.0,1.0,0.0,Makar Sankranti / Pongal,Elevated Demand
+2025-01-14,215557.0,1,1,0,1.0,0.0,0.0,none,High Demand
+2025-01-15,216777.0,2,1,0,0.0,0.0,1.0,Makar Sankranti / Pongal,High Demand
+2025-01-16,220355.0,3,1,0,0.0,0.0,1.0,Makar Sankranti / Pongal,High Demand
+2025-01-17,227245.0,4,1,0,0.0,0.0,0.0,none,Elevated Demand
+2025-01-18,225118.0,5,1,1,0.0,0.0,0.0,none,Elevated Demand
+2025-01-19,218369.0,6,1,1,0.0,0.0,0.0,none,Elevated Demand
+2025-01-20,222178.0,0,1,0,0.0,0.0,0.0,none,Elevated Demand
+2025-01-21,226044.0,1,1,0,0.0,0.0,0.0,none,High Demand
+2025-01-22,228085.0,2,1,0,0.0,0.0,0.0,none,High Demand
+2025-01-23,227352.0,3,1,0,0.0,0.0,0.0,none,High Demand
+2025-01-24,231215.0,4,1,0,0.0,1.0,0.0,Republic Day,Elevated Demand
+2025-01-25,229686.0,5,1,1,0.0,1.0,0.0,Republic Day,Elevated Demand
+2025-01-26,217830.0,6,1,1,1.0,0.0,0.0,none,Elevated Demand
+2025-01-27,230451.0,0,1,0,0.0,0.0,1.0,Republic Day,Elevated Demand
+2025-01-28,234950.0,1,1,0,0.0,0.0,1.0,Republic Day,High Demand
+2025-01-29,237309.0,2,1,0,0.0,0.0,0.0,none,High Demand
+2025-01-30,234525.0,3,1,0,0.0,0.0,0.0,none,High Demand
+2025-01-31,236822.0,4,1,0,0.0,0.0,0.0,none,Elevated Demand
+2025-02-01,232307.0,5,2,1,0.0,0.0,0.0,none,Elevated Demand
+2025-02-02,224441.0,6,2,1,0.0,0.0,0.0,none,Elevated Demand
+2025-02-03,231373.0,0,2,0,0.0,0.0,0.0,none,Elevated Demand
+2025-02-04,232077.0,1,2,0,0.0,0.0,0.0,none,High Demand
+2025-02-05,233358.0,2,2,0,0.0,0.0,0.0,none,High Demand
+2025-02-06,234136.0,3,2,0,0.0,0.0,0.0,none,High Demand
+2025-02-07,238140.0,4,2,0,0.0,0.0,0.0,none,Elevated Demand
+2025-02-08,234117.0,5,2,1,0.0,0.0,0.0,none,Elevated Demand
+2025-02-09,228285.0,6,2,1,0.0,0.0,0.0,none,Elevated Demand
+2025-02-10,234995.0,0,2,0,0.0,0.0,0.0,none,Elevated Demand
+2025-02-11,234858.0,1,2,0,0.0,0.0,0.0,none,High Demand
+2025-02-12,236794.0,2,2,0,0.0,0.0,0.0,none,High Demand
+2025-02-13,234703.0,3,2,0,0.0,1.0,0.0,Shab-e-Barat,High Demand
+2025-02-14,234581.0,4,2,0,1.0,0.0,0.0,none,Elevated Demand
+2025-02-15,233860.0,5,2,1,0.0,0.0,1.0,Shab-e-Barat,Elevated Demand
+2025-02-16,225222.0,6,2,1,0.0,0.0,0.0,none,Elevated Demand
+2025-02-17,234284.0,0,2,0,0.0,0.0,0.0,none,Elevated Demand
+2025-02-18,236166.0,1,2,0,0.0,0.0,0.0,none,High Demand
+2025-02-19,236800.0,2,2,0,0.0,0.0,0.0,none,High Demand
+2025-02-20,227682.0,3,2,0,0.0,0.0,0.0,none,High Demand
+2025-02-21,232390.0,4,2,0,0.0,0.0,0.0,none,Elevated Demand
+2025-02-22,229826.0,5,2,1,0.0,0.0,0.0,none,Elevated Demand
+2025-02-23,218010.0,6,2,1,0.0,0.0,0.0,none,Elevated Demand
+2025-02-24,229873.0,0,2,0,0.0,1.0,0.0,Maha Shivaratri,Elevated Demand
+2025-02-25,231406.0,1,2,0,0.0,1.0,0.0,Maha Shivaratri,High Demand
+2025-02-26,233736.0,2,2,0,1.0,0.0,0.0,none,High Demand
+2025-02-27,227523.0,3,2,0,0.0,0.0,1.0,Maha Shivaratri,High Demand
+2025-02-28,231756.0,4,2,0,0.0,0.0,1.0,Maha Shivaratri,Elevated Demand
+2025-03-01,223488.0,5,3,1,0.0,0.0,0.0,none,Elevated Demand
+2025-03-02,212879.0,6,3,1,0.0,0.0,0.0,none,Elevated Demand
+2025-03-03,226800.0,0,3,0,0.0,0.0,0.0,none,Elevated Demand
+2025-03-04,229569.0,1,3,0,0.0,0.0,0.0,none,High Demand
+2025-03-05,221972.0,2,3,0,0.0,0.0,0.0,none,High Demand
+2025-03-06,226229.0,3,3,0,0.0,0.0,0.0,none,High Demand
+2025-03-07,233009.0,4,3,0,0.0,0.0,0.0,none,Elevated Demand
+2025-03-08,229961.0,5,3,1,0.0,0.0,0.0,none,Elevated Demand
+2025-03-09,223311.0,6,3,1,0.0,0.0,0.0,none,Elevated Demand
+2025-03-10,233616.0,0,3,0,0.0,0.0,0.0,none,Elevated Demand
+2025-03-11,235224.0,1,3,0,0.0,1.0,0.0,Holika Dahan,High Demand
+2025-03-12,233408.0,2,3,0,0.0,1.0,0.0,Holika Dahan,High Demand
+2025-03-13,230513.0,3,3,0,1.0,0.0,0.0,none,High Demand
+2025-03-14,199143.0,4,3,0,1.0,0.0,0.0,none,Elevated Demand
+2025-03-15,209995.0,5,3,1,0.0,0.0,1.0,Holi,Elevated Demand
+2025-03-16,209163.0,6,3,1,0.0,0.0,1.0,Holi,Elevated Demand
+2025-03-17,222988.0,0,3,0,0.0,0.0,0.0,none,Elevated Demand
+2025-03-18,223113.0,1,3,0,0.0,0.0,0.0,none,High Demand
+2025-03-19,226688.0,2,3,0,0.0,0.0,0.0,none,High Demand
+2025-03-20,225884.0,3,3,0,0.0,0.0,0.0,none,High Demand
+2025-03-21,226152.0,4,3,0,0.0,0.0,0.0,none,Elevated Demand
+2025-03-22,218033.0,5,3,1,0.0,0.0,0.0,none,Elevated Demand
+2025-03-23,204563.0,6,3,1,0.0,0.0,0.0,none,Elevated Demand
+2025-03-24,220441.0,0,3,0,0.0,0.0,0.0,none,Elevated Demand
+2025-03-25,221847.0,1,3,0,0.0,0.0,0.0,none,High Demand
+2025-03-26,223731.0,2,3,0,0.0,0.0,0.0,none,High Demand
+2025-03-27,224229.0,3,3,0,0.0,0.0,0.0,none,High Demand
+2025-03-28,221062.0,4,3,0,0.0,0.0,0.0,none,Elevated Demand
+2025-03-29,215865.0,5,3,1,0.0,1.0,0.0,Eid ul Fitr,Elevated Demand
+2025-03-30,209537.0,6,3,1,0.0,0.0,0.0,none,Elevated Demand
+2025-03-31,215421.0,0,3,0,1.0,0.0,0.0,none,Elevated Demand
+2025-04-01,216693.0,1,4,0,0.0,0.0,1.0,Eid ul Fitr,High Demand
+2025-04-02,213902.0,2,4,0,0.0,0.0,1.0,Eid ul Fitr,High Demand
+2025-04-03,213742.0,3,4,0,0.0,0.0,0.0,none,High Demand
+2025-04-04,210238.0,4,4,0,0.0,1.0,0.0,Ram Navami,Elevated Demand
+2025-04-05,210820.0,5,4,1,0.0,1.0,0.0,Ram Navami,Elevated Demand
+2025-04-06,199416.0,6,4,1,1.0,0.0,0.0,none,Elevated Demand
+2025-04-07,216332.0,0,4,0,0.0,0.0,1.0,Ram Navami,Elevated Demand
+2025-04-08,221557.0,1,4,0,0.0,0.0,1.0,Ram Navami,High Demand
+2025-04-09,223554.0,2,4,0,0.0,1.0,0.0,Mahavir Jayanti,High Demand
+2025-04-10,212311.0,3,4,0,1.0,0.0,0.0,none,High Demand
+2025-04-11,207279.0,4,4,0,0.0,1.0,0.0,Hanuman Jayanti,Elevated Demand
+2025-04-12,207229.0,5,4,1,1.0,0.0,0.0,none,Elevated Demand
+2025-04-13,198028.0,6,4,1,0.0,1.0,0.0,Ambedkar Jayanti,Elevated Demand
+2025-04-14,207497.0,0,4,0,1.0,0.0,0.0,none,Elevated Demand
+2025-04-15,215142.0,1,4,0,0.0,0.0,1.0,Ambedkar Jayanti,High Demand
+2025-04-16,219879.0,2,4,0,0.0,1.0,0.0,Good Friday,High Demand
+2025-04-17,220742.0,3,4,0,0.0,1.0,0.0,Good Friday,High Demand
+2025-04-18,213872.0,4,4,0,1.0,0.0,0.0,none,Elevated Demand
+2025-04-19,220282.0,5,4,1,0.0,1.0,0.0,Easter Sunday,Elevated Demand
+2025-04-20,215758.0,6,4,1,1.0,0.0,0.0,none,Elevated Demand
+2025-04-21,227118.0,0,4,0,0.0,0.0,1.0,Easter Sunday,Elevated Demand
+2025-04-22,227765.0,1,4,0,0.0,0.0,0.0,none,High Demand
+2025-04-23,226955.0,2,4,0,0.0,0.0,0.0,none,High Demand
+2025-04-24,233319.0,3,4,0,0.0,0.0,0.0,none,High Demand
+2025-04-25,235190.0,4,4,0,0.0,0.0,0.0,none,Elevated Demand
+2025-04-26,232466.0,5,4,1,0.0,0.0,0.0,none,Elevated Demand
+2025-04-27,218771.0,6,4,1,0.0,0.0,0.0,none,Elevated Demand
+2025-04-28,225997.0,0,4,0,0.0,0.0,0.0,none,Elevated Demand
+2025-04-29,222992.0,1,4,0,0.0,1.0,0.0,Akshaya Tritiya,High Demand
+2025-04-30,223869.0,2,4,0,1.0,0.0,0.0,none,High Demand
+2025-05-01,215096.0,3,5,0,1.0,0.0,0.0,none,High Demand
+2025-05-02,213636.0,4,5,0,0.0,0.0,1.0,Labour Day,Elevated Demand
+2025-05-03,214714.0,5,5,1,0.0,0.0,1.0,Labour Day,Elevated Demand
+2025-05-04,202747.0,6,5,1,0.0,0.0,0.0,none,Elevated Demand
+2025-05-05,208328.0,0,5,0,0.0,0.0,0.0,none,Elevated Demand
+2025-05-06,202394.0,1,5,0,0.0,0.0,0.0,none,High Demand
+2025-05-07,202213.0,2,5,0,0.0,0.0,0.0,none,High Demand
+2025-05-08,208590.0,3,5,0,0.0,0.0,0.0,none,High Demand
+2025-05-09,212517.0,4,5,0,0.0,0.0,0.0,none,
+2025-05-10,216414.0,5,5,1,0.0,0.0,0.0,none,
+2025-05-11,212447.0,6,5,1,0.0,1.0,0.0,Buddha Purnima,
+2025-05-12,223579.0,0,5,0,1.0,0.0,0.0,none,
+2025-05-13,226127.0,1,5,0,0.0,0.0,1.0,Buddha Purnima,
+2025-05-14,230007.0,2,5,0,0.0,0.0,0.0,none,
+2025-05-15,230993.0,3,5,0,0.0,0.0,0.0,none,
+2025-05-16,228757.0,4,5,0,0.0,0.0,0.0,none,
+2025-05-17,223508.0,5,5,1,0.0,0.0,0.0,none,
+2025-05-18,215854.0,6,5,1,0.0,0.0,0.0,none,
+2025-05-19,223891.0,0,5,0,0.0,0.0,0.0,none,
+2025-05-20,226936.0,1,5,0,0.0,0.0,0.0,none,
+2025-05-21,220795.0,2,5,0,0.0,0.0,0.0,none,
+2025-05-22,215308.0,3,5,0,0.0,0.0,0.0,none,
+2025-05-23,220359.0,4,5,0,0.0,0.0,0.0,none,
+2025-05-24,215361.0,5,5,1,0.0,0.0,0.0,none,
+2025-05-25,200719.0,6,5,1,0.0,0.0,0.0,none,
+2025-05-26,212993.0,0,5,0,0.0,0.0,0.0,none,
+2025-05-27,213435.0,1,5,0,0.0,0.0,0.0,none,
+2025-05-28,213192.0,2,5,0,0.0,0.0,0.0,none,
+2025-05-29,212469.0,3,5,0,0.0,0.0,0.0,none,
+2025-05-30,212060.0,4,5,0,0.0,0.0,0.0,none,
+2025-05-31,213922.0,5,5,1,0.0,0.0,0.0,none,
+2025-06-01,207975.0,6,6,1,0.0,0.0,0.0,none,
+2025-06-02,216597.0,0,6,0,0.0,0.0,0.0,none,
+2025-06-03,211106.0,1,6,0,0.0,0.0,0.0,none,
+2025-06-04,211615.0,2,6,0,0.0,0.0,0.0,none,
+2025-06-05,217425.0,3,6,0,0.0,1.0,0.0,Eid ul Adha,
+2025-06-06,225246.0,4,6,0,0.0,1.0,0.0,Eid ul Adha,
+2025-06-07,232323.0,5,6,1,1.0,0.0,0.0,none,
+2025-06-08,227163.0,6,6,1,0.0,0.0,1.0,Eid ul Adha,Elevated Demand
+2025-06-09,240852.0,0,6,0,0.0,0.0,1.0,Eid ul Adha,Moderate Demand
+2025-06-10,242345.0,1,6,0,0.0,0.0,0.0,none,High Demand
+2025-06-11,241827.0,2,6,0,0.0,0.0,0.0,none,High Demand
+2025-06-12,242493.0,3,6,0,0.0,0.0,0.0,none,High Demand
+2025-06-13,241131.0,4,6,0,0.0,0.0,0.0,none,Elevated Demand
+2025-06-14,240938.0,5,6,1,0.0,0.0,0.0,none,Elevated Demand
+2025-06-15,226200.0,6,6,1,0.0,0.0,0.0,none,Elevated Demand
+2025-06-16,221625.0,0,6,0,0.0,0.0,0.0,none,Elevated Demand
+2025-06-17,213523.0,1,6,0,0.0,0.0,0.0,none,High Demand
+2025-06-18,220427.0,2,6,0,0.0,0.0,0.0,none,High Demand
+2025-06-19,216506.0,3,6,0,0.0,0.0,0.0,none,High Demand
+2025-06-20,219196.0,4,6,0,0.0,0.0,0.0,none,Elevated Demand
+2025-06-21,224048.0,5,6,1,0.0,0.0,0.0,none,Elevated Demand
+2025-06-22,217699.0,6,6,1,0.0,0.0,0.0,none,Elevated Demand
+2025-06-23,217820.0,0,6,0,0.0,0.0,0.0,none,Elevated Demand
+2025-06-24,220469.0,1,6,0,0.0,0.0,0.0,none,High Demand
+2025-06-25,215731.0,2,6,0,0.0,0.0,0.0,none,High Demand
+2025-06-26,218210.0,3,6,0,0.0,0.0,0.0,none,High Demand
+2025-06-27,219561.0,4,6,0,0.0,0.0,0.0,none,Elevated Demand
+2025-06-28,217185.0,5,6,1,0.0,0.0,0.0,none,Elevated Demand
+2025-06-29,208892.0,6,6,1,0.0,0.0,0.0,none,Elevated Demand
+2025-06-30,208369.0,0,6,0,0.0,0.0,0.0,none,Elevated Demand
+2025-07-01,208921.0,1,7,0,0.0,0.0,0.0,none,Moderate Demand
+2025-07-02,212393.0,2,7,0,0.0,0.0,0.0,none,High Demand
+2025-07-03,215366.0,3,7,0,0.0,0.0,0.0,none,Moderate Demand
+2025-07-04,218386.0,4,7,0,0.0,0.0,0.0,none,Moderate Demand
+2025-07-05,219323.0,5,7,1,0.0,1.0,0.0,Muharram,Moderate Demand
+2025-07-06,209205.0,6,7,1,1.0,0.0,0.0,none,Moderate Demand
+2025-07-07,216440.0,0,7,0,0.0,0.0,1.0,Muharram,Moderate Demand
+2025-07-08,220066.0,1,7,0,0.0,0.0,0.0,none,Moderate Demand
+2025-07-09,215836.0,2,7,0,0.0,1.0,0.0,Guru Purnima,High Demand
+2025-07-10,214411.0,3,7,0,1.0,0.0,0.0,none,Moderate Demand
+2025-07-11,219454.0,4,7,0,0.0,0.0,1.0,Guru Purnima,Moderate Demand
+2025-07-12,218578.0,5,7,1,0.0,0.0,0.0,none,Moderate Demand
+2025-07-13,210976.0,6,7,1,0.0,0.0,0.0,none,Moderate Demand
+2025-07-14,213620.0,0,7,0,0.0,0.0,0.0,none,Moderate Demand
+2025-07-15,216482.0,1,7,0,0.0,0.0,0.0,none,Moderate Demand
+2025-07-16,215175.0,2,7,0,0.0,0.0,0.0,none,High Demand
+2025-07-17,217680.0,3,7,0,0.0,0.0,0.0,none,Moderate Demand
+2025-07-18,217773.0,4,7,0,0.0,0.0,0.0,none,Moderate Demand
+2025-07-19,218314.0,5,7,1,0.0,0.0,0.0,none,Moderate Demand
+2025-07-20,212422.0,6,7,1,0.0,0.0,0.0,none,Moderate Demand
+2025-07-21,220591.0,0,7,0,0.0,0.0,0.0,none,Moderate Demand
+2025-07-22,218353.0,1,7,0,0.0,0.0,0.0,none,Moderate Demand
+2025-07-23,218081.0,2,7,0,0.0,0.0,0.0,none,High Demand
+2025-07-24,219210.0,3,7,0,0.0,0.0,0.0,none,Moderate Demand
+2025-07-25,218301.0,4,7,0,0.0,0.0,0.0,none,Moderate Demand
+2025-07-26,212299.0,5,7,1,0.0,0.0,0.0,none,Moderate Demand
+2025-07-27,209712.0,6,7,1,0.0,0.0,0.0,none,Moderate Demand
+2025-07-28,219425.0,0,7,0,0.0,0.0,0.0,none,Moderate Demand
+2025-07-29,216397.0,1,7,0,0.0,0.0,0.0,none,Moderate Demand
+2025-07-30,218324.0,2,7,0,0.0,0.0,0.0,none,Moderate Demand
+2025-07-31,216455.0,3,7,0,0.0,0.0,0.0,none,Moderate Demand
+2025-08-01,218356.0,4,8,0,0.0,0.0,0.0,none,Moderate Demand
+2025-08-02,220514.0,5,8,1,0.0,0.0,0.0,none,Moderate Demand
+2025-08-03,209454.0,6,8,1,0.0,0.0,0.0,none,Moderate Demand
+2025-08-04,220805.0,0,8,0,0.0,0.0,0.0,none,Moderate Demand
+2025-08-05,222614.0,1,8,0,0.0,0.0,0.0,none,Moderate Demand
+2025-08-06,224669.0,2,8,0,0.0,0.0,0.0,none,Moderate Demand
+2025-08-07,229715.0,3,8,0,0.0,0.0,0.0,none,Moderate Demand
+2025-08-08,228304.0,4,8,0,0.0,0.0,0.0,none,Moderate Demand
+2025-08-09,210483.0,5,8,1,0.0,0.0,0.0,none,Moderate Demand
+2025-08-10,208982.0,6,8,1,0.0,0.0,0.0,none,Moderate Demand
+2025-08-11,224830.0,0,8,0,0.0,0.0,0.0,none,Moderate Demand
+2025-08-12,224923.0,1,8,0,0.0,0.0,0.0,none,Moderate Demand
+2025-08-13,221879.0,2,8,0,0.0,1.0,0.0,Independence Day,Moderate Demand
+2025-08-14,217569.0,3,8,0,0.0,1.0,0.0,Janmashtami,Moderate Demand
+2025-08-15,201376.0,4,8,0,1.0,0.0,0.0,none,Moderate Demand
+2025-08-16,210682.0,5,8,1,1.0,0.0,0.0,none,Moderate Demand
+2025-08-17,204582.0,6,8,1,0.0,0.0,1.0,Janmashtami,Moderate Demand
+2025-08-18,216102.0,0,8,0,0.0,0.0,1.0,Janmashtami,Moderate Demand
+2025-08-19,219126.0,1,8,0,0.0,0.0,0.0,none,Moderate Demand
+2025-08-20,217540.0,2,8,0,0.0,0.0,0.0,none,Moderate Demand
+2025-08-21,218531.0,3,8,0,0.0,0.0,0.0,none,Moderate Demand
+2025-08-22,219062.0,4,8,0,0.0,0.0,0.0,none,Moderate Demand
+2025-08-23,213820.0,5,8,1,0.0,0.0,0.0,none,Moderate Demand
+2025-08-24,196697.0,6,8,1,0.0,0.0,0.0,none,Moderate Demand
+2025-08-25,211011.0,0,8,0,0.0,1.0,0.0,Paryushana / Samvatsari,Moderate Demand
+2025-08-26,211723.0,1,8,0,1.0,0.0,0.0,none,Moderate Demand
+2025-08-27,205572.0,2,8,0,0.0,0.0,0.0,none,Moderate Demand
+2025-08-28,215453.0,3,8,0,0.0,0.0,0.0,none,Moderate Demand
+2025-08-29,215236.0,4,8,0,0.0,0.0,0.0,none,Moderate Demand
+2025-08-30,215970.0,5,8,1,0.0,0.0,0.0,none,Moderate Demand
+2025-08-31,199160.0,6,8,1,0.0,0.0,0.0,none,Moderate Demand
+2025-09-01,202996.0,0,9,0,0.0,0.0,0.0,none,Moderate Demand
+2025-09-02,202492.0,1,9,0,0.0,0.0,0.0,none,Moderate Demand
+2025-09-03,205350.0,2,9,0,0.0,0.0,0.0,none,Moderate Demand
+2025-09-04,205628.0,3,9,0,0.0,1.0,0.0,Milad-un-Nabi,Moderate Demand
+2025-09-05,210056.0,4,9,0,1.0,0.0,0.0,none,Moderate Demand
+2025-09-06,205691.0,5,9,1,0.0,0.0,1.0,Milad-un-Nabi,Moderate Demand
+2025-09-07,198507.0,6,9,1,0.0,0.0,0.0,none,Moderate Demand
+2025-09-08,211234.0,0,9,0,0.0,0.0,0.0,none,Moderate Demand
+2025-09-09,216645.0,1,9,0,0.0,0.0,0.0,none,Moderate Demand
+2025-09-10,222911.0,2,9,0,0.0,0.0,0.0,none,Moderate Demand
+2025-09-11,222006.0,3,9,0,0.0,0.0,0.0,none,Moderate Demand
+2025-09-12,223765.0,4,9,0,0.0,0.0,0.0,none,Moderate Demand
+2025-09-13,223705.0,5,9,1,0.0,0.0,0.0,none,Moderate Demand
+2025-09-14,214079.0,6,9,1,0.0,0.0,0.0,none,Moderate Demand
+2025-09-15,225407.0,0,9,0,0.0,0.0,0.0,none,Moderate Demand
+2025-09-16,224528.0,1,9,0,0.0,0.0,0.0,none,Moderate Demand
+2025-09-17,218865.0,2,9,0,0.0,0.0,0.0,none,Moderate Demand
+2025-09-18,224431.0,3,9,0,0.0,0.0,0.0,none,Moderate Demand
+2025-09-19,224801.0,4,9,0,0.0,0.0,0.0,none,Moderate Demand
+2025-09-20,222141.0,5,9,1,0.0,1.0,0.0,Navratri Start,Moderate Demand
+2025-09-21,212343.0,6,9,1,0.0,1.0,0.0,Navratri Start,Moderate Demand
+2025-09-22,226108.0,0,9,0,1.0,0.0,0.0,none,Moderate Demand
+2025-09-23,226825.0,1,9,0,0.0,0.0,1.0,Navratri Start,Moderate Demand
+2025-09-24,229159.0,2,9,0,0.0,0.0,1.0,Navratri Start,Moderate Demand
+2025-09-25,228599.0,3,9,0,0.0,0.0,0.0,none,Moderate Demand
+2025-09-26,224157.0,4,9,0,0.0,0.0,0.0,none,Moderate Demand
+2025-09-27,222737.0,5,9,1,0.0,0.0,0.0,none,Moderate Demand
+2025-09-28,214305.0,6,9,1,0.0,0.0,0.0,none,Moderate Demand
+2025-09-29,226562.0,0,9,0,0.0,0.0,0.0,none,Moderate Demand
+2025-09-30,215607.0,1,9,0,0.0,1.0,0.0,Dussehra,Moderate Demand
+2025-10-01,205145.0,2,10,0,0.0,1.0,0.0,Dussehra,High Demand
+2025-10-02,185917.0,3,10,0,1.0,0.0,0.0,none,Moderate Demand
+2025-10-03,208698.0,4,10,0,0.0,0.0,1.0,Dussehra,Moderate Demand
+2025-10-04,207987.0,5,10,1,0.0,0.0,1.0,Dussehra,Moderate Demand
+2025-10-05,195611.0,6,10,1,0.0,0.0,0.0,none,Moderate Demand
+2025-10-07,204523.0,1,10,0,0.0,0.0,0.0,none,Moderate Demand
+2025-10-08,206129.0,2,10,0,0.0,0.0,0.0,none,Moderate Demand
+2025-10-09,207280.0,3,10,0,0.0,0.0,0.0,none,Moderate Demand
+2025-10-10,205917.0,4,10,0,0.0,0.0,0.0,none,Moderate Demand
+2025-10-11,206278.0,5,10,1,0.0,0.0,0.0,none,Moderate Demand
+2025-10-12,194447.0,6,10,1,0.0,0.0,0.0,none,Moderate Demand
+2025-10-13,209433.0,0,10,0,0.0,0.0,0.0,none,Moderate Demand
+2025-10-14,209109.0,1,10,0,0.0,0.0,0.0,none,Moderate Demand
+2025-10-15,209062.0,2,10,0,0.0,0.0,0.0,none,Moderate Demand
+2025-10-16,210710.0,3,10,0,0.0,1.0,0.0,Dhanteras,Moderate Demand
+2025-10-17,209673.0,4,10,0,0.0,1.0,0.0,Dhanteras,Moderate Demand
+2025-10-18,204435.0,5,10,1,1.0,0.0,0.0,none,Moderate Demand
+2025-10-19,191639.0,6,10,1,0.0,1.0,0.0,Choti Diwali,Moderate Demand
+2025-10-20,180140.0,0,10,0,1.0,0.0,0.0,none,
+2025-10-21,176506.0,1,10,0,0.0,1.0,0.0,Govardhan Puja,
+2025-10-22,182216.0,2,10,0,1.0,0.0,0.0,none,
+2025-10-23,190183.0,3,10,0,1.0,0.0,0.0,none,
+2025-10-24,197085.0,4,10,0,0.0,0.0,1.0,Govardhan Puja,
+2025-10-25,198249.0,5,10,1,0.0,0.0,0.0,none,
+2025-10-26,185956.0,6,10,1,0.0,0.0,0.0,none,
+2025-10-27,189372.0,0,10,0,0.0,0.0,0.0,none,
+2025-10-28,188905.0,1,10,0,0.0,0.0,0.0,none,
+2025-10-29,191246.0,2,10,0,0.0,0.0,0.0,none,
+2025-10-30,191290.0,3,10,0,0.0,0.0,0.0,none,
+2025-10-31,191223.0,4,10,0,0.0,0.0,0.0,none,
+2025-11-01,189169.0,5,11,1,0.0,0.0,0.0,none,
+2025-11-02,181349.0,6,11,1,0.0,0.0,0.0,none,
+2025-11-03,196751.0,0,11,0,0.0,1.0,0.0,Guru Nanak Jayanti,
+2025-11-04,195965.0,1,11,0,0.0,1.0,0.0,Guru Nanak Jayanti,
+2025-11-05,196314.0,2,11,0,1.0,0.0,0.0,none,
+2025-11-06,196009.0,3,11,0,0.0,0.0,1.0,Guru Nanak Jayanti,
+2025-11-07,195368.0,4,11,0,0.0,0.0,1.0,Guru Nanak Jayanti,
+2025-11-08,193177.0,5,11,1,0.0,0.0,0.0,none,
+2025-11-09,178793.0,6,11,1,0.0,0.0,0.0,none,
+2025-11-11,197375.0,1,11,0,0.0,0.0,0.0,none,
+2025-11-12,196881.0,2,11,0,0.0,0.0,0.0,none,
+2025-11-13,200195.0,3,11,0,0.0,0.0,0.0,none,
+2025-11-14,199057.0,4,11,0,0.0,0.0,0.0,none,
+2025-11-15,197020.0,5,11,1,0.0,0.0,0.0,none,
+2025-11-16,187958.0,6,11,1,0.0,0.0,0.0,none,
+2025-11-17,197064.0,0,11,0,0.0,0.0,0.0,none,
+2025-11-18,198174.0,1,11,0,0.0,0.0,0.0,none,
+2025-11-19,199714.0,2,11,0,0.0,0.0,0.0,none,
+2025-11-20,203431.0,3,11,0,0.0,0.0,0.0,none,Low Demand
+2025-11-21,210085.0,4,11,0,0.0,0.0,0.0,none,Low Demand
+2025-11-22,204324.0,5,11,1,0.0,0.0,0.0,none,Low Demand
+2025-11-23,198364.0,6,11,1,0.0,0.0,0.0,none,Low Demand
+2025-11-24,205965.0,0,11,0,0.0,0.0,0.0,none,Low Demand
+2025-11-25,207619.0,1,11,0,0.0,0.0,0.0,none,Low Demand
+2025-11-26,210885.0,2,11,0,0.0,0.0,0.0,none,Low Demand
+2025-11-27,211862.0,3,11,0,0.0,0.0,0.0,none,Low Demand
+2025-11-28,215543.0,4,11,0,0.0,0.0,0.0,none,Low Demand
+2025-11-29,211575.0,5,11,1,0.0,0.0,0.0,none,Low Demand
+2025-11-30,203778.0,6,11,1,0.0,0.0,0.0,none,Low Demand
+2025-12-01,206206.0,0,12,0,0.0,0.0,0.0,none,Low Demand
+2025-12-02,214295.0,1,12,0,0.0,0.0,0.0,none,Low Demand
+2025-12-03,215296.0,2,12,0,0.0,0.0,0.0,none,Low Demand
+2025-12-04,214100.0,3,12,0,0.0,0.0,0.0,none,Low Demand
+2025-12-05,217918.0,4,12,0,0.0,0.0,0.0,none,Low Demand
+2025-12-06,213934.0,5,12,1,0.0,0.0,0.0,none,Low Demand
+2025-12-07,207002.0,6,12,1,0.0,0.0,0.0,none,Low Demand
+2025-12-08,216110.0,0,12,0,0.0,0.0,0.0,none,Low Demand
+2025-12-09,220397.0,1,12,0,0.0,0.0,0.0,none,Low Demand
+2025-12-10,222472.0,2,12,0,0.0,0.0,0.0,none,Low Demand
+2025-12-11,221088.0,3,12,0,0.0,0.0,0.0,none,Low Demand
+2025-12-12,224754.0,4,12,0,0.0,0.0,0.0,none,Low Demand
+2025-12-13,221577.0,5,12,1,0.0,0.0,0.0,none,Elevated Demand
+2025-12-14,214183.0,6,12,1,0.0,0.0,0.0,none,Elevated Demand
+2025-12-15,220255.0,0,12,0,0.0,0.0,0.0,none,Low Demand
+2025-12-16,224344.0,1,12,0,0.0,0.0,0.0,none,High Demand
+2025-12-17,226989.0,2,12,0,0.0,0.0,0.0,none,High Demand
+2025-12-18,227084.0,3,12,0,0.0,0.0,0.0,none,High Demand
+2025-12-19,230406.0,4,12,0,0.0,0.0,0.0,none,Elevated Demand
+2025-12-20,229251.0,5,12,1,0.0,0.0,0.0,none,Elevated Demand
+2025-12-21,226534.0,6,12,1,0.0,0.0,0.0,none,Elevated Demand
+2025-12-22,230405.0,0,12,0,0.0,0.0,0.0,none,Elevated Demand
+2025-12-23,231308.0,1,12,0,0.0,1.0,0.0,Christmas,High Demand
+2025-12-24,236096.0,2,12,0,1.0,0.0,0.0,none,High Demand
+2025-12-25,236036.0,3,12,0,1.0,0.0,0.0,none,High Demand
+2025-12-26,239059.0,4,12,0,0.0,0.0,1.0,Christmas,Elevated Demand
+2025-12-27,232606.0,5,12,1,0.0,0.0,1.0,Christmas,Elevated Demand
+2025-12-28,226172.0,6,12,1,0.0,0.0,0.0,none,Elevated Demand
+2025-12-29,236595.0,0,12,0,0.0,0.0,0.0,none,Elevated Demand
+2025-12-30,239690.0,1,12,0,0.0,1.0,0.0,New Year's Eve,High Demand
+2025-12-31,241201.0,2,12,0,1.0,0.0,0.0,none,High Demand
+2026-01-01,232792.0,3,1,0,1.0,0.0,0.0,none,High Demand
+2026-01-02,236304.0,4,1,0,0.0,0.0,1.0,New Year's Day,Elevated Demand
+2026-01-03,235487.0,5,1,1,0.0,0.0,0.0,none,Elevated Demand
+2026-01-04,227444.0,6,1,1,0.0,0.0,0.0,none,Elevated Demand
+2026-01-05,236715.0,0,1,0,0.0,0.0,0.0,none,Elevated Demand
+2026-01-06,239195.0,1,1,0,0.0,0.0,0.0,none,High Demand
+2026-01-07,238321.0,2,1,0,0.0,0.0,0.0,none,High Demand
+2026-01-08,238817.0,3,1,0,0.0,0.0,0.0,none,High Demand
+2026-01-09,245416.0,4,1,0,0.0,0.0,0.0,none,Elevated Demand
+2026-01-10,239438.0,5,1,1,0.0,0.0,0.0,none,Elevated Demand
+2026-01-11,231726.0,6,1,1,0.0,0.0,0.0,none,Elevated Demand
+2026-01-12,240682.0,0,1,0,0.0,1.0,0.0,Makar Sankranti / Pongal,Elevated Demand
+2026-01-13,243313.0,1,1,0,0.0,1.0,0.0,Makar Sankranti / Pongal,High Demand
+2026-01-14,237882.0,2,1,0,1.0,0.0,0.0,none,High Demand
+2026-01-15,233280.0,3,1,0,0.0,0.0,1.0,Makar Sankranti / Pongal,High Demand
+2026-01-16,238616.0,4,1,0,0.0,0.0,1.0,Makar Sankranti / Pongal,Elevated Demand
+2026-01-17,236234.0,5,1,1,0.0,0.0,0.0,none,Elevated Demand
+2026-01-18,231836.0,6,1,1,0.0,0.0,0.0,none,Elevated Demand
+2026-01-19,239120.0,0,1,0,0.0,0.0,0.0,none,Elevated Demand
+2026-01-20,241056.0,1,1,0,0.0,0.0,0.0,none,High Demand
+2026-01-21,241094.0,2,1,0,0.0,0.0,0.0,none,High Demand
+2026-01-22,241522.0,3,1,0,0.0,0.0,0.0,none,High Demand
+2026-01-23,228472.0,4,1,0,0.0,0.0,0.0,none,Elevated Demand
+2026-01-24,232815.0,5,1,1,0.0,1.0,0.0,Republic Day,Elevated Demand
+2026-01-25,230729.0,6,1,1,0.0,1.0,0.0,Republic Day,Elevated Demand
+2026-01-26,220642.0,0,1,0,1.0,0.0,0.0,none,Elevated Demand
+2026-01-27,232705.0,1,1,0,0.0,0.0,1.0,Republic Day,High Demand
+2026-01-28,230023.0,2,1,0,0.0,0.0,1.0,Republic Day,High Demand
+2026-01-29,235696.0,3,1,0,0.0,0.0,0.0,none,High Demand
+2026-01-30,240555.0,4,1,0,0.0,0.0,0.0,none,Elevated Demand
+2026-01-31,238737.0,5,1,1,0.0,0.0,0.0,none,Elevated Demand
+2026-02-01,228232.0,6,2,1,0.0,0.0,0.0,none,Elevated Demand
+2026-02-02,232988.0,0,2,0,0.0,0.0,0.0,none,Elevated Demand
+2026-02-03,235520.0,1,2,0,0.0,1.0,0.0,Shab-e-Barat,High Demand
+2026-02-04,234928.0,2,2,0,1.0,0.0,0.0,none,High Demand
+2026-02-05,235926.0,3,2,0,0.0,0.0,1.0,Shab-e-Barat,High Demand
+2026-02-06,240039.0,4,2,0,0.0,0.0,0.0,none,Elevated Demand
+2026-02-07,235957.0,5,2,1,0.0,0.0,0.0,none,Elevated Demand
+2026-02-08,226841.0,6,2,1,0.0,0.0,0.0,none,Elevated Demand
+2026-02-09,238975.0,0,2,0,0.0,0.0,0.0,none,Elevated Demand
+2026-02-10,240780.0,1,2,0,0.0,0.0,0.0,none,High Demand
+2026-02-11,239740.0,2,2,0,0.0,0.0,0.0,none,High Demand
+2026-02-12,238802.0,3,2,0,0.0,0.0,0.0,none,High Demand
+2026-02-13,244206.0,4,2,0,0.0,1.0,0.0,Maha Shivaratri,Elevated Demand
+2026-02-14,238912.0,5,2,1,0.0,1.0,0.0,Maha Shivaratri,Elevated Demand
+2026-02-15,237727.0,6,2,1,1.0,0.0,0.0,none,Elevated Demand
+2026-02-16,238578.0,0,2,0,0.0,0.0,1.0,Maha Shivaratri,Elevated Demand
+2026-02-17,243151.0,1,2,0,0.0,0.0,1.0,Maha Shivaratri,High Demand
+2026-02-18,239955.0,2,2,0,0.0,0.0,0.0,none,High Demand
+2026-02-19,235720.0,3,2,0,0.0,0.0,0.0,none,High Demand
+2026-02-20,238871.0,4,2,0,0.0,0.0,0.0,none,Elevated Demand
+2026-02-21,236034.0,5,2,1,0.0,0.0,0.0,none,Elevated Demand
+2026-02-22,227112.0,6,2,1,0.0,0.0,0.0,none,Elevated Demand
+2026-02-23,239890.0,0,2,0,0.0,0.0,0.0,none,Elevated Demand
+2026-02-24,233036.0,1,2,0,0.0,0.0,0.0,none,High Demand
+2026-02-24,233036.0,1,2,0,0.0,0.0,0.0,none,High Demand
+2026-02-24,233036.0,1,2,0,0.0,0.0,0.0,none,High Demand
+2026-02-24,233036.0,1,2,0,0.0,0.0,0.0,none,High Demand
+2026-02-24,233036.0,1,2,0,0.0,0.0,0.0,none,High Demand
+2026-02-24,233036.0,1,2,0,0.0,0.0,0.0,none,High Demand
+2026-02-24,233036.0,1,2,0,0.0,0.0,0.0,none,High Demand
+2026-02-24,233036.0,1,2,0,0.0,0.0,0.0,none,High Demand
+2026-02-25,235637.0,2,2,0,0.0,0.0,0.0,none,High Demand
+2026-02-26,233599.0,3,2,0,0.0,0.0,0.0,none,High Demand
+2026-02-27,240571.0,4,2,0,0.0,0.0,0.0,none,Elevated Demand
+2026-02-28,234314.0,5,2,1,0.0,1.0,0.0,Holika Dahan,Elevated Demand
+2026-03-01,223346.0,6,3,1,0.0,1.0,0.0,Holika Dahan,Elevated Demand
+2026-03-02,234382.0,0,3,0,1.0,0.0,0.0,none,Elevated Demand
+2026-03-03,225979.0,1,3,0,1.0,0.0,0.0,none,High Demand
+2026-03-04,209874.0,2,3,0,0.0,0.0,1.0,Holi,High Demand
+2026-03-05,222190.0,3,3,0,0.0,0.0,1.0,Holi,High Demand
+2026-03-06,234068.0,4,3,0,0.0,0.0,0.0,none,Elevated Demand
+2026-03-07,238378.0,5,3,1,0.0,0.0,0.0,none,Elevated Demand
+2026-03-08,223392.0,6,3,1,0.0,0.0,0.0,none,Elevated Demand
+2026-03-09,236441.0,0,3,0,0.0,0.0,0.0,none,Elevated Demand
+2026-03-10,235015.0,1,3,0,0.0,0.0,0.0,none,High Demand
+2026-03-11,236562.0,2,3,0,0.0,0.0,0.0,none,High Demand
+2026-03-12,236770.0,3,3,0,0.0,0.0,0.0,none,High Demand
+2026-03-13,237362.0,4,3,0,0.0,0.0,0.0,none,Elevated Demand
+2026-03-14,230534.0,5,3,1,0.0,0.0,0.0,none,Elevated Demand
+2026-03-15,216329.0,6,3,1,0.0,0.0,0.0,none,Elevated Demand
+2026-03-16,224638.0,0,3,0,0.0,0.0,0.0,none,Elevated Demand
+2026-03-17,221412.0,1,3,0,0.0,0.0,0.0,none,High Demand
+2026-03-18,222527.0,2,3,0,0.0,1.0,0.0,Eid ul Fitr,High Demand
+2026-03-19,208390.0,3,3,0,0.0,1.0,0.0,Eid ul Fitr,High Demand
+2026-03-20,199609.0,4,3,0,1.0,0.0,0.0,none,Elevated Demand
+2026-03-21,200141.0,5,3,1,0.0,0.0,1.0,Eid ul Fitr,Elevated Demand
+2026-03-22,194118.0,6,3,1,0.0,0.0,1.0,Eid ul Fitr,Elevated Demand
+2026-03-23,210735.0,0,3,0,0.0,0.0,0.0,none,Elevated Demand
+2026-03-24,217043.0,1,3,0,0.0,1.0,0.0,Ram Navami,High Demand
+2026-03-25,218742.0,2,3,0,0.0,1.0,0.0,Ram Navami,High Demand
+2026-03-26,223004.0,3,3,0,1.0,0.0,0.0,none,High Demand
+2026-03-27,224062.0,4,3,0,0.0,0.0,1.0,Ram Navami,Elevated Demand
+2026-03-28,216521.0,5,3,1,0.0,0.0,1.0,Ram Navami,Elevated Demand
+2026-03-29,206267.0,6,3,1,0.0,0.0,0.0,none,Elevated Demand
+2026-03-30,226325.0,0,3,0,0.0,1.0,0.0,Mahavir Jayanti,Elevated Demand
+2026-03-31,216186.0,1,3,0,1.0,0.0,0.0,none,High Demand

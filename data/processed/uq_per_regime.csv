@@ -1,0 +1,5 @@
+Regime,N,PICP,PINAW,Mean_Width_MW,vs_Global_MW,Scale_Factor
+High Demand,53,0.17,0.0401,3622.0,-4256.0,1.0
+Elevated Demand,62,0.113,0.0584,5277.0,-2326.0,1.0
+Moderate Demand,12,0.917,0.4741,42836.0,34613.0,6.856
+Low Demand,24,0.458,0.0834,7531.0,1691.0,1.0

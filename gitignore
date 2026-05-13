@@ -1,0 +1,41 @@
+# Data files — large CSVs and raw XLS
+data/raw/
+data/processed/*.pkl
+
+# Keep processed CSVs but ignore model artefacts
+# (uncomment below to also ignore CSVs)
+# data/processed/*.csv
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environments
+venv/
+env/
+.env/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# LaTeX build artifacts
+paper/*.aux
+paper/*.log
+paper/*.out
+paper/*.toc
+paper/*.bbl
+paper/*.blg
+paper/*.synctex.gz

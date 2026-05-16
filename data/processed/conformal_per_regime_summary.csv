@@ -1,0 +1,5 @@
+Regime,N,PICP,Width_MW,MAPE_%
+High Demand,62,0.742,16242.0,2.478
+Elevated Demand,46,0.696,14025.0,2.4127
+Moderate Demand,1,1.0,18854.0,0.7013
+Low Demand,50,0.94,18096.0,1.5305

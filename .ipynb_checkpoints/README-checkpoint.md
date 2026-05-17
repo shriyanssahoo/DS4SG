@@ -254,6 +254,7 @@ LaTeX source available in `paper/`. -->
 |-|-|-|
 |Shriyans S Sahoo|24BCS142|IIIT Dharwad|
 |S Divya|24BCS123|IIIT Dharwad|
+|Swetha S|24BCS150|IIIT Dharwad|
 
 
 
